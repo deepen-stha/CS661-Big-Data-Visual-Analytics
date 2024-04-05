@@ -3,6 +3,8 @@ import pandas as pd
 import plotly.graph_objects as go
 from time import sleep
 
+from datasets import names
+
 
 
 
@@ -32,7 +34,7 @@ from time import sleep
 
 
 # Load data
-data = pd.read_csv('tcc_ceds_music.csv')
+data = pd.read_csv(names.MUSIC_DATA)
 
 # Streamlit app
 st.title('Visualization of Average Obscenity Over the Years')
