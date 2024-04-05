@@ -2,10 +2,12 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+from datasets import names
+
 # Function to load data
 @st.cache_data
 def load_data():
-    data = pd.read_csv('datasets/spotify_data.csv')
+    data = pd.read_csv(names.SPOTIFY_DATA)
     return data
 
 # Load data
