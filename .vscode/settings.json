@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "danceability",
+        "selectbox",
+        "streamlit"
+    ],
+    "black-formatter.args": [
+        "--skip-string-normalization",
+        "--line-length", 
+        "80"
+    ]
+}
