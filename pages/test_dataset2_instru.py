@@ -5,7 +5,7 @@ import plotly.express as px
 
 # %%
 # Load data
-data = pd.read_csv('dataset1.csv')
+data = pd.read_csv('dataset1.csv') # WARNING: large dataset (integration put on hold)
 
 # %%
 # # Sort the data according to weeks
