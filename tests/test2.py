@@ -5,7 +5,7 @@ import plotly.express as px
 # Function to load data
 @st.cache_data
 def load_data():
-    data = pd.read_csv('Dataset/dataset.csv')
+    data = pd.read_csv('datasets/spotify_data.csv')
     return data
 
 # Load data
@@ -42,8 +42,16 @@ elif explicit_content == 'No':
 st.header('Track Information')
 st.write('Displaying tracks filtered by selected criteria.')
 
-# Plotting the data
-fig = px.bar(data, x='track_name', y='popularity', hover_data=['artists', 'album_name'], color='popularity')
-st.plotly_chart(fig)
+# 3D Scatter Plot
+st.subheader('3D Scatter Plot')
+fig_3d = px.scatter_3d(data, x='danceability', y='energy', z='popularity',
+                        color='popularity', hover_data=['track_name', 'artists'])
+st.plotly_chart(fig_3d)
+
+# 2D Scatter Plot
+st.subheader('2D Scatter Plot')
+fig_2d = px.scatter(data, x='danceability', y='energy',
+                     color='popularity', hover_data=['track_name', 'artists'])
+st.plotly_chart(fig_2d)
 
 # Run this with `streamlit run your_script_name.py`
