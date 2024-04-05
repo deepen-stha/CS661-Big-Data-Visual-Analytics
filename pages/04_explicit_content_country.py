@@ -4,6 +4,8 @@ import altair as alt
 import plotly.express as px
 import pydeck as pdk
 
+from datasets import names
+
 st.set_page_config(
     page_title="Music Dashboard",
     page_icon="🏂",
@@ -61,7 +63,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-df = pd.read_csv('./datasets/new_d3.csv')
+df = pd.read_csv(names.COUNTRY_DATA)
 
 explicit_counts = df[df['explicit'] == True].groupby('country').size().reset_index(name='explicit_count')
 
