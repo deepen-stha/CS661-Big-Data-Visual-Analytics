@@ -3,3 +3,10 @@ pandasql
 plotly
 pandas
 orjson
+streamlit
+python-dateutil
+textblob
+wordcloud
+matplotlib
+Pillow
+numpy
