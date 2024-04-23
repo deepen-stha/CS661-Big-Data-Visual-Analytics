@@ -5,8 +5,13 @@ from time import sleep
 
 from datasets import names
 
-# Load data
-data = pd.read_csv(names.MUSIC_DATA)
+
+@st.cache_data
+def load_data():
+    return pd.read_csv(names.MUSIC_DATA)
+
+
+data = load_data()
 
 # Streamlit app
 st.title('Visualization of Average Obscenity Over the Years')
