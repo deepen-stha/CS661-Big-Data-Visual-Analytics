@@ -1,0 +1,378 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+movie tunes,movie tunes,20,73.0,4443775.5
+pop,rap,15,67.33333333333333,1624519.3333333333
+pop,pop,14,80.92857142857143,2487903.714285714
+pinoy hip hop,tagalog rap,14,66.2,2176482.4
+opm,opm,10,48.1,1774637.8
+hip hop,pop,10,54.1,2155647.5
+hollywood,movie tunes,9,73.0,4443775.5
+pinoy hip hop,pinoy hip hop,9,66.2,2176482.4
+rap,trap,7,82.5,320488.0
+melodic rap,rap,6,82.5,320488.0
+atl hip hop,rap,6,78.0,591700.0
+atl hip hop,trap,6,78.0,591700.0
+opm,p-pop,5,36.2,1575373.4
+opm,pinoy hip hop,5,65.75,1806343.5
+neo soul,pop,5,27.333333333333332,3181699.3333333335
+dance pop,pop,5,80.8,1447522.6
+pop,trap,5,80.4,897510.0
+k-pop,pop,5,61.75,3015067.5
+melodic rap,trap,5,82.5,320488.0
+pinoy hip hop,pinoy r&b,5,68.5,2272658.0
+pinoy r&b,tagalog rap,5,68.5,2272658.0
+tagalog rap,tagalog rap,5,62.333333333333336,1947800.6666666667
+modern salsa,movie tunes,5,78.0,10247055.0
+movie tunes,salsa colombiana,5,78.0,10247055.0
+dance pop,hip hop,4,40.25,3146338.25
+dance pop,neo soul,4,1.0,4578332.0
+canadian contemporary r&b,pop,4,83.0,3365784.0
+canadian pop,pop,4,82.5,3390024.75
+pop,pop rap,4,73.75,426193.5
+canadian contemporary r&b,rap,4,72.25,2100659.25
+pop,uk pop,4,77.25,1091658.25
+rap,rap,4,82.5,320488.0
+atl hip hop,melodic rap,4,78.0,591700.0
+dance pop,rap,4,79.75,2092959.75
+acoustic opm,opm,3,36.0,518821.6666666667
+opm,tagalog rap,3,69.66666666666667,2400900.0
+canadian pop,rap,3,72.33333333333333,1733711.6666666667
+opm,pinoy r&b,3,63.0,2124602.0
+pinoy hip hop,pinoy trap,3,62.5,1219176.0
+electropop,pop,3,83.5,863198.5
+melodic rap,pop,3,56.666666666666664,1771409.3333333333
+atl hip hop,atl hip hop,3,78.0,591700.0
+trap,trap,3,78.0,591700.0
+pop,r&b,3,77.0,3244361.6666666665
+rap,uk pop,3,80.66666666666667,1151322.6666666667
+k-pop,rap,3,41.5,313391.0
+latino comedy,movie tunes,3,66.0,1108649.0
+latin pop,movie tunes,3,66.0,1108649.0
+movie tunes,reggaeton,3,66.0,1108649.0
+movie tunes,reggaeton colombiano,3,66.0,1108649.0
+movie tunes,urbano latino,3,66.0,1108649.0
+cdo indie,opm,2,36.5,3160201.0
+cdo indie,pinoy singer-songwriter,2,36.5,3160201.0
+opm,pinoy singer-songwriter,2,36.5,3160201.0
+p-pop,pinoy singer-songwriter,2,36.5,3160201.0
+opm,trap italiana,2,37.5,5405984.5
+pinoy hip hop,trap italiana,2,37.5,5405984.5
+pinoy r&b,trap italiana,2,37.5,5405984.5
+pinoy trap,trap italiana,2,37.5,5405984.5
+cdo indie,pinoy indie,2,36.0,3374176.5
+opm,pinoy indie,2,36.0,3374176.5
+p-pop,pinoy indie,2,36.0,3374176.5
+dance pop,escape room,2,1.0,4578332.0
+escape room,pop,2,1.0,4578332.0
+dance pop,indie soul,2,1.0,4578332.0
+indie soul,pop,2,1.0,4578332.0
+escape room,neo soul,2,1.0,4578332.0
+hip hop,neo soul,2,1.0,4578332.0
+indie soul,neo soul,2,1.0,4578332.0
+neo soul,neo soul,2,1.0,4578332.0
+hip hop,modern rock,2,45.0,3724336.0
+modern rock,rap,2,45.0,3724336.0
+modern rock,underground hip hop,2,45.0,3724336.0
+pop,underground hip hop,2,45.0,3724336.0
+hip hop,rock,2,45.0,3724336.0
+rap,rock,2,45.0,3724336.0
+rock,underground hip hop,2,45.0,3724336.0
+modern rock,speedrun,2,45.0,3724336.0
+modern rock,video game music,2,45.0,3724336.0
+pop,speedrun,2,45.0,3724336.0
+pop,video game music,2,45.0,3724336.0
+rock,speedrun,2,45.0,3724336.0
+rock,video game music,2,45.0,3724336.0
+hip hop,speedrun,2,45.0,3724336.0
+hip hop,video game music,2,45.0,3724336.0
+rap,speedrun,2,45.0,3724336.0
+rap,video game music,2,45.0,3724336.0
+speedrun,underground hip hop,2,45.0,3724336.0
+underground hip hop,video game music,2,45.0,3724336.0
+canadian contemporary r&b,hip hop,2,69.0,161203.0
+canadian pop,hip hop,2,69.0,161203.0
+k-pop boy group,pop,2,82.0,5716744.0
+dance pop,uk pop,2,80.0,399929.0
+pop,singer-songwriter pop,2,77.5,2069111.5
+pinoy trap,tagalog rap,2,62.5,1219176.0
+etherpop,pop,2,83.5,863198.5
+indie poptimism,pop,2,83.5,863198.5
+melodic rap,melodic rap,2,82.5,320488.0
+atl hip hop,hip hop,2,78.0,591700.0
+hip hop,melodic rap,2,78.0,591700.0
+hip hop,rap,2,78.0,591700.0
+hip hop,trap,2,78.0,591700.0
+atl hip hop,southern hip hop,2,78.0,591700.0
+melodic rap,southern hip hop,2,78.0,591700.0
+rap,southern hip hop,2,78.0,591700.0
+southern hip hop,trap,2,78.0,591700.0
+atl hip hop,atl trap,2,78.0,591700.0
+atl hip hop,gangster rap,2,78.0,591700.0
+atl trap,rap,2,78.0,591700.0
+gangster rap,rap,2,78.0,591700.0
+atl trap,trap,2,78.0,591700.0
+gangster rap,trap,2,78.0,591700.0
+dance pop,trap,2,79.5,1714344.5
+canadian contemporary r&b,r&b,2,78.5,3322869.5
+colombian pop,ghanaian alternative,2,80.0,702427.0
+pinoy alternative rap,pinoy hip hop,2,65.5,1402266.0
+pinoy alternative rap,tagalog rap,2,65.5,1402266.0
+opm,pinoy trap,2,62.5,1157327.5
+houston rap,pop,2,77.5,182451.5
+pop,trap queen,2,77.5,182451.5
+pop,puerto rican pop,2,79.0,240559.0
+pop,reggaeton,2,79.0,240559.0
+pop,trap latino,2,79.0,240559.0
+pop,urbano latino,2,79.0,240559.0
+chicago rap,k-pop,2,4.0,386223.0
+k-pop,melodic rap,2,4.0,386223.0
+canadian contemporary r&b,dance pop,1,84.0,1494605.0
+canadian pop,dance pop,1,84.0,1494605.0
+contemporary country,new age,1,46.0,35987.0
+country,new age,1,46.0,35987.0
+country dawn,new age,1,46.0,35987.0
+country road,new age,1,46.0,35987.0
+contemporary country,new age piano,1,46.0,35987.0
+country,new age piano,1,46.0,35987.0
+country dawn,new age piano,1,46.0,35987.0
+country road,new age piano,1,46.0,35987.0
+canadian contemporary r&b,new orleans rap,1,70.0,221816.0
+canadian pop,new orleans rap,1,70.0,221816.0
+new orleans rap,pop,1,70.0,221816.0
+canadian contemporary r&b,pop rap,1,70.0,221816.0
+canadian pop,pop rap,1,70.0,221816.0
+canadian contemporary r&b,trap,1,70.0,221816.0
+canadian pop,trap,1,70.0,221816.0
+dance pop,glam rock,1,73.0,7075209.0
+dance pop,mellow gold,1,73.0,7075209.0
+dance pop,piano rock,1,73.0,7075209.0
+dance pop,rock,1,73.0,7075209.0
+glam rock,pop,1,73.0,7075209.0
+mellow gold,pop,1,73.0,7075209.0
+piano rock,pop,1,73.0,7075209.0
+pop,rock,1,73.0,7075209.0
+glam rock,uk pop,1,73.0,7075209.0
+mellow gold,uk pop,1,73.0,7075209.0
+piano rock,uk pop,1,73.0,7075209.0
+rock,uk pop,1,73.0,7075209.0
+alternative dance,dance pop,1,73.0,7075209.0
+aussietronica,dance pop,1,73.0,7075209.0
+australian dance,dance pop,1,73.0,7075209.0
+australian electropop,dance pop,1,73.0,7075209.0
+alternative dance,pop,1,73.0,7075209.0
+aussietronica,pop,1,73.0,7075209.0
+australian dance,pop,1,73.0,7075209.0
+australian electropop,pop,1,73.0,7075209.0
+alternative dance,uk pop,1,73.0,7075209.0
+aussietronica,uk pop,1,73.0,7075209.0
+australian dance,uk pop,1,73.0,7075209.0
+australian electropop,uk pop,1,73.0,7075209.0
+alternative dance,glam rock,1,73.0,7075209.0
+aussietronica,glam rock,1,73.0,7075209.0
+australian dance,glam rock,1,73.0,7075209.0
+australian electropop,glam rock,1,73.0,7075209.0
+alternative dance,mellow gold,1,73.0,7075209.0
+aussietronica,mellow gold,1,73.0,7075209.0
+australian dance,mellow gold,1,73.0,7075209.0
+australian electropop,mellow gold,1,73.0,7075209.0
+alternative dance,piano rock,1,73.0,7075209.0
+aussietronica,piano rock,1,73.0,7075209.0
+australian dance,piano rock,1,73.0,7075209.0
+australian electropop,piano rock,1,73.0,7075209.0
+alternative dance,rock,1,73.0,7075209.0
+aussietronica,rock,1,73.0,7075209.0
+australian dance,rock,1,73.0,7075209.0
+australian electropop,rock,1,73.0,7075209.0
+k-pop,permanent wave,1,84.0,9729724.0
+k-pop boy group,permanent wave,1,84.0,9729724.0
+permanent wave,pop,1,84.0,9729724.0
+dance pop,singer-songwriter pop,1,82.0,695792.0
+contemporary country,la pop,1,73.0,3199559.0
+country,la pop,1,73.0,3199559.0
+asian american hip hop,indonesian r&b,1,73.0,571246.0
+electropop,electropop,1,87.0,22633.0
+electropop,etherpop,1,87.0,22633.0
+electropop,indie poptimism,1,87.0,22633.0
+canadian contemporary r&b,dfw rap,1,79.0,4878729.0
+canadian pop,dfw rap,1,79.0,4878729.0
+dfw rap,pop,1,79.0,4878729.0
+canadian contemporary r&b,melodic rap,1,79.0,4878729.0
+canadian pop,melodic rap,1,79.0,4878729.0
+alt z,alt z,1,75.0,2479386.0
+alt z,electropop,1,75.0,2479386.0
+alt z,pop,1,75.0,2479386.0
+atl trap,hip hop,1,78.0,591700.0
+gangster rap,hip hop,1,78.0,591700.0
+atl trap,southern hip hop,1,78.0,591700.0
+gangster rap,southern hip hop,1,78.0,591700.0
+atl trap,melodic rap,1,78.0,591700.0
+gangster rap,melodic rap,1,78.0,591700.0
+dance pop,girl group,1,78.0,104066.0
+dance pop,talent show,1,78.0,104066.0
+girl group,pop,1,78.0,104066.0
+pop,talent show,1,78.0,104066.0
+bedroom soul,modern alternative pop,1,79.0,1963829.0
+afrofuturism,modern alternative pop,1,79.0,1963829.0
+modern alternative pop,pop,1,79.0,1963829.0
+modern alternative pop,post-teen pop,1,79.0,1963829.0
+modern alternative pop,pov: indie,1,79.0,1963829.0
+afrofuturism,bedroom soul,1,79.0,1963829.0
+bedroom soul,pop,1,79.0,1963829.0
+bedroom soul,post-teen pop,1,79.0,1963829.0
+bedroom soul,pov: indie,1,79.0,1963829.0
+dfw rap,melodic rap,1,87.0,49276.0
+dfw rap,rap,1,87.0,49276.0
+dfw rap,trap,1,87.0,49276.0
+dance pop,pop rap,1,73.0,282914.0
+canadian pop,contemporary country,1,73.0,3062495.0
+contemporary country,pop,1,73.0,3062495.0
+canadian pop,country,1,73.0,3062495.0
+country,pop,1,73.0,3062495.0
+canadian pop,country road,1,73.0,3062495.0
+country road,pop,1,73.0,3062495.0
+canadian contemporary r&b,canadian pop,1,85.0,3444237.0
+canadian pop,r&b,1,85.0,3444237.0
+acoustic opm,deep neofolk,1,50.0,91127.0
+deep neofolk,opm,1,50.0,91127.0
+deep neofolk,p-pop,1,50.0,91127.0
+acoustic opm,pinoy r&b,1,50.0,91127.0
+p-pop,pinoy r&b,1,50.0,91127.0
+scandipop,uk contemporary r&b,1,80.0,183849.0
+scandipop,uk pop,1,80.0,183849.0
+chicago rap,uk contemporary r&b,1,80.0,183849.0
+rap,uk contemporary r&b,1,80.0,183849.0
+chicago rap,uk pop,1,80.0,183849.0
+chicago rap,scandipop,1,80.0,183849.0
+rap,scandipop,1,80.0,183849.0
+electropop,k-pop,1,80.0,1703764.0
+etherpop,k-pop,1,80.0,1703764.0
+indie poptimism,k-pop,1,80.0,1703764.0
+electropop,k-pop boy group,1,80.0,1703764.0
+etherpop,k-pop boy group,1,80.0,1703764.0
+indie poptimism,k-pop boy group,1,80.0,1703764.0
+post-teen pop,r&b,1,62.0,1470042.0
+post-teen pop,rap,1,62.0,1470042.0
+dance pop,r&b,1,84.0,4818806.0
+atl hip hop,pop dance,1,84.0,751740.0
+girl group,pop dance,1,84.0,751740.0
+hip pop,pop dance,1,84.0,751740.0
+pop dance,r&b,1,84.0,751740.0
+pop dance,southern hip hop,1,84.0,751740.0
+pop dance,urban contemporary,1,84.0,751740.0
+atl hip hop,tech house,1,84.0,751740.0
+girl group,tech house,1,84.0,751740.0
+hip pop,tech house,1,84.0,751740.0
+r&b,tech house,1,84.0,751740.0
+southern hip hop,tech house,1,84.0,751740.0
+tech house,urban contemporary,1,84.0,751740.0
+afro r&b,colombian pop,1,80.0,702427.0
+afrobeats,colombian pop,1,80.0,702427.0
+alternative r&b,colombian pop,1,80.0,702427.0
+colombian pop,ghanaian pop,1,80.0,702427.0
+afro r&b,ghanaian alternative,1,80.0,702427.0
+afrobeats,ghanaian alternative,1,80.0,702427.0
+alternative r&b,ghanaian alternative,1,80.0,702427.0
+ghanaian alternative,ghanaian alternative,1,80.0,702427.0
+ghanaian alternative,ghanaian pop,1,80.0,702427.0
+pinoy alternative rap,pinoy r&b,1,60.0,512551.0
+canadian contemporary r&b,colombian pop,1,85.0,1271208.0
+pinoy alternative rap,pinoy trap,1,71.0,2291981.0
+pinoy r&b,pinoy trap,1,71.0,2291981.0
+pinoy trap,pinoy trap,1,71.0,2291981.0
+children's music,pop,1,81.0,323100.0
+movie tunes,pop,1,81.0,323100.0
+electro house,k-pop,1,75.0,36111.0
+electro house,k-pop boy group,1,75.0,36111.0
+alt z,electro house,1,75.0,36111.0
+electro house,modern indie pop,1,75.0,36111.0
+alt z,k-pop,1,75.0,36111.0
+k-pop,modern indie pop,1,75.0,36111.0
+alt z,k-pop boy group,1,75.0,36111.0
+k-pop boy group,modern indie pop,1,75.0,36111.0
+deep underground hip hop,lgbtq+ hip hop,1,81.0,4676850.0
+kentucky hip hop,lgbtq+ hip hop,1,81.0,4676850.0
+lgbtq+ hip hop,pop rap,1,81.0,4676850.0
+lgbtq+ hip hop,rap,1,81.0,4676850.0
+hip hop,uk pop,1,86.0,3145775.0
+dance pop,north carolina hip hop,1,86.0,3145775.0
+north carolina hip hop,pop,1,86.0,3145775.0
+north carolina hip hop,uk pop,1,86.0,3145775.0
+trap,uk pop,1,86.0,3145775.0
+cali rap,melodic rap,1,84.0,22253.0
+australian hip hop,canadian pop,1,35.0,11228695.0
+australian hip hop,pop,1,35.0,11228695.0
+edm,k-pop,1,79.0,240559.0
+electronic trap,k-pop,1,79.0,240559.0
+k-pop,pop dance,1,79.0,240559.0
+edm,houston rap,1,79.0,240559.0
+edm,pop,1,79.0,240559.0
+edm,rap,1,79.0,240559.0
+edm,trap queen,1,79.0,240559.0
+electronic trap,houston rap,1,79.0,240559.0
+electronic trap,pop,1,79.0,240559.0
+electronic trap,rap,1,79.0,240559.0
+electronic trap,trap queen,1,79.0,240559.0
+houston rap,pop dance,1,79.0,240559.0
+pop,pop dance,1,79.0,240559.0
+pop dance,rap,1,79.0,240559.0
+pop dance,trap queen,1,79.0,240559.0
+edm,puerto rican pop,1,79.0,240559.0
+edm,reggaeton,1,79.0,240559.0
+edm,trap latino,1,79.0,240559.0
+edm,urbano latino,1,79.0,240559.0
+electronic trap,puerto rican pop,1,79.0,240559.0
+electronic trap,reggaeton,1,79.0,240559.0
+electronic trap,trap latino,1,79.0,240559.0
+electronic trap,urbano latino,1,79.0,240559.0
+pop dance,puerto rican pop,1,79.0,240559.0
+pop dance,reggaeton,1,79.0,240559.0
+pop dance,trap latino,1,79.0,240559.0
+pop dance,urbano latino,1,79.0,240559.0
+houston rap,k-pop,1,79.0,240559.0
+k-pop,trap queen,1,79.0,240559.0
+k-pop,puerto rican pop,1,79.0,240559.0
+k-pop,reggaeton,1,79.0,240559.0
+k-pop,trap latino,1,79.0,240559.0
+k-pop,urbano latino,1,79.0,240559.0
+houston rap,puerto rican pop,1,79.0,240559.0
+houston rap,reggaeton,1,79.0,240559.0
+houston rap,trap latino,1,79.0,240559.0
+houston rap,urbano latino,1,79.0,240559.0
+puerto rican pop,rap,1,79.0,240559.0
+rap,reggaeton,1,79.0,240559.0
+rap,trap latino,1,79.0,240559.0
+rap,urbano latino,1,79.0,240559.0
+puerto rican pop,trap queen,1,79.0,240559.0
+reggaeton,trap queen,1,79.0,240559.0
+trap latino,trap queen,1,79.0,240559.0
+trap queen,urbano latino,1,79.0,240559.0
+hollywood,modern salsa,1,78.0,10247055.0
+hollywood,salsa colombiana,1,78.0,10247055.0
+latin pop,latino comedy,1,66.0,1108649.0
+latino comedy,reggaeton,1,66.0,1108649.0
+latino comedy,reggaeton colombiano,1,66.0,1108649.0
+latino comedy,urbano latino,1,66.0,1108649.0
+hollywood,latino comedy,1,66.0,1108649.0
+hollywood,latin pop,1,66.0,1108649.0
+hollywood,reggaeton,1,66.0,1108649.0
+hollywood,reggaeton colombiano,1,66.0,1108649.0
+hollywood,urbano latino,1,66.0,1108649.0
+ohio hip hop,pop,1,66.0,412275.0
+dance pop,houston rap,1,76.0,124344.0
+dance pop,trap queen,1,76.0,124344.0
+houston rap,uk pop,1,76.0,124344.0
+trap queen,uk pop,1,76.0,124344.0
+chicago rap,k-pop boy group,1,4.0,386223.0
+k-pop boy group,melodic rap,1,4.0,386223.0
+k-pop boy group,rap,1,4.0,386223.0
+chicago rap,pop,1,4.0,386223.0
+k-pop,k-pop,1,4.0,386223.0
+k-pop,k-pop boy group,1,4.0,386223.0
+opm,pinoy pop punk,1,67.0,3160372.0
+hip pop,neo soul,1,80.0,388434.0
+hip pop,pop,1,80.0,388434.0
+hip pop,pop soul,1,80.0,388434.0
+pop,pop soul,1,80.0,388434.0
+hip pop,urban contemporary,1,80.0,388434.0
+pop,urban contemporary,1,80.0,388434.0
+pittsburgh rap,pop,1,86.0,787769.0
+pop,southern hip hop,1,86.0,787769.0

@@ -1,0 +1,448 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+pop,pop,12,63.8,1605.0
+albanian hip hop,german hip hop,11,0.0,1150.0
+rap,trap,9,66.0,1446.2
+edm,pop,8,75.66666666666667,1611.0
+pop,pop dance,8,72.16666666666667,1458.3333333333333
+german hip hop,german hip hop,7,0.0,1150.0
+pop,rap,7,62.166666666666664,1695.1666666666667
+hip hop,rap,7,48.0,1427.0
+rap,rap,7,66.0,1688.0
+rap,trap latino,5,79.66666666666667,1855.6666666666667
+pop,reggaeton,5,80.0,2261.5
+pop,trap latino,5,80.0,2261.5
+pop,urbano latino,5,80.0,2261.5
+melodic rap,rap,5,85.33333333333333,1473.0
+albanian hip hop,albanian hip hop,4,0.0,1150.0
+hip hop,trap,4,51.0,1285.3333333333333
+reggaeton,trap latino,4,41.0,1616.5
+reggaeton,urbano latino,4,41.0,1616.5
+trap latino,urbano latino,4,41.0,1616.5
+atl hip hop,rap,4,80.0,1301.3333333333333
+dance pop,pop,4,66.0,1506.3333333333333
+edm,rap,3,76.5,1970.0
+pop dance,rap,3,76.5,1970.0
+rap,slap house,3,76.5,1206.5
+canadian pop,r&b,3,13.333333333333334,1654.6666666666667
+pop rap,rap,3,24.666666666666668,1677.3333333333333
+rap,reggaeton,3,80.0,2261.5
+rap,urbano latino,3,80.0,2261.5
+pop,post-teen pop,3,76.0,2352.5
+pop,puerto rican pop,3,79.0,2571.0
+pop,uk dance,3,76.66666666666667,1946.0
+miami hip hop,rap,3,81.0,1024.5
+melodic rap,trap,3,85.33333333333333,1473.0
+electro house,pop,2,81.5,1839.5
+canadian hip hop,rap,2,37.0,1794.5
+rap,toronto rap,2,37.0,1794.5
+melodic rap,slap house,2,76.5,1206.5
+big room,pop,2,71.5,1253.0
+dutch edm,pop,2,72.5,1290.0
+house,pop,2,81.5,1839.5
+dfw rap,edm,2,74.0,1369.0
+edm,melodic rap,2,74.0,1369.0
+dfw rap,pop dance,2,74.0,1369.0
+melodic rap,pop dance,2,74.0,1369.0
+canadian hip hop,edm,2,74.0,1369.0
+canadian trap,edm,2,74.0,1369.0
+edm,toronto rap,2,74.0,1369.0
+canadian hip hop,pop dance,2,74.0,1369.0
+canadian trap,pop dance,2,74.0,1369.0
+pop dance,toronto rap,2,74.0,1369.0
+edm,pop dance,2,74.0,1369.0
+canadian hip hop,hip hop,2,0.0,1615.5
+canadian hip hop,pop rap,2,0.0,1615.5
+canadian hip hop,r&b,2,0.0,1946.0
+canadian pop,hip hop,2,0.0,1615.5
+canadian pop,pop rap,2,0.0,1615.5
+hip hop,hip hop,2,0.0,1615.5
+hip hop,pop rap,2,0.0,1615.5
+hip hop,r&b,2,0.0,1946.0
+r&b,rap,2,0.0,1946.0
+hip hop,toronto rap,2,0.0,1615.5
+pop rap,toronto rap,2,0.0,1615.5
+r&b,toronto rap,2,0.0,1946.0
+reggaeton,reggaeton,2,41.0,1616.5
+reggaeton,reggaeton colombiano,2,41.0,1616.5
+reggaeton colombiano,trap latino,2,41.0,1616.5
+trap latino,trap latino,2,41.0,1616.5
+reggaeton colombiano,urbano latino,2,41.0,1616.5
+urbano latino,urbano latino,2,41.0,1616.5
+electronic trap,pop,2,79.0,2571.0
+atl hip hop,hip hop,2,76.5,1422.5
+atl hip hop,trap,2,76.5,1422.5
+trap,trap,2,76.5,1422.5
+miami hip hop,trap,2,81.0,1024.5
+pop,tropical house,2,70.0,1231.0
+atl hip hop,melodic rap,2,83.0,1051.5
+atl hip hop,pop,2,63.5,1065.5
+hip hop,melodic rap,2,83.0,1051.5
+dfw rap,rap,2,88.5,1687.5
+dfw rap,trap,2,88.5,1687.5
+pop,trap,2,88.5,1687.5
+adult standards,easy listening,2,34.0,1406.5
+adult standards,man's orchestra,2,43.0,3661.5
+easy listening,man's orchestra,2,43.0,3661.5
+beatlesque,experimental,2,0.0,7270.0
+beatlesque,experimental pop,2,0.0,7270.0
+canadian pop,rap,2,20.0,1646.0
+pop,progressive house,2,80.0,1760.5
+florida drill,rap,2,79.0,1044.0
+florida rap,rap,2,79.0,1044.0
+slap house,trap,2,79.0,1044.0
+contemporary country,pop,2,46.0,4293.0
+country,pop,2,46.0,4293.0
+country road,pop,2,46.0,4293.0
+canadian electronic,dfw rap,1,74.0,1369.0
+canadian electronic,melodic rap,1,74.0,1369.0
+canadian electronic,pop,1,74.0,1369.0
+canadian electronic,rap,1,74.0,1369.0
+dfw rap,dutch house,1,74.0,1369.0
+dutch house,melodic rap,1,74.0,1369.0
+dutch house,pop,1,74.0,1369.0
+dutch house,rap,1,74.0,1369.0
+dfw rap,electro house,1,74.0,1369.0
+electro house,melodic rap,1,74.0,1369.0
+electro house,rap,1,74.0,1369.0
+dfw rap,progressive electro house,1,74.0,1369.0
+melodic rap,progressive electro house,1,74.0,1369.0
+pop,progressive electro house,1,74.0,1369.0
+progressive electro house,rap,1,74.0,1369.0
+canadian electronic,canadian hip hop,1,74.0,1369.0
+canadian electronic,canadian trap,1,74.0,1369.0
+canadian electronic,toronto rap,1,74.0,1369.0
+canadian hip hop,dutch house,1,74.0,1369.0
+canadian trap,dutch house,1,74.0,1369.0
+dutch house,toronto rap,1,74.0,1369.0
+canadian hip hop,electro house,1,74.0,1369.0
+canadian trap,electro house,1,74.0,1369.0
+electro house,toronto rap,1,74.0,1369.0
+canadian hip hop,progressive electro house,1,74.0,1369.0
+canadian trap,progressive electro house,1,74.0,1369.0
+progressive electro house,toronto rap,1,74.0,1369.0
+big room,canadian electronic,1,74.0,1369.0
+brostep,canadian electronic,1,74.0,1369.0
+canadian electronic,dutch edm,1,74.0,1369.0
+canadian electronic,edm,1,74.0,1369.0
+canadian electronic,house,1,74.0,1369.0
+canadian electronic,pop dance,1,74.0,1369.0
+canadian electronic,slap house,1,74.0,1369.0
+canadian electronic,trance,1,74.0,1369.0
+big room,dutch house,1,74.0,1369.0
+brostep,dutch house,1,74.0,1369.0
+dutch edm,dutch house,1,74.0,1369.0
+dutch house,edm,1,74.0,1369.0
+dutch house,house,1,74.0,1369.0
+dutch house,pop dance,1,74.0,1369.0
+dutch house,slap house,1,74.0,1369.0
+dutch house,trance,1,74.0,1369.0
+big room,edm,1,74.0,1369.0
+brostep,edm,1,74.0,1369.0
+dutch edm,edm,1,74.0,1369.0
+edm,edm,1,74.0,1369.0
+edm,house,1,74.0,1369.0
+edm,slap house,1,74.0,1369.0
+edm,trance,1,74.0,1369.0
+big room,electro house,1,74.0,1369.0
+brostep,electro house,1,74.0,1369.0
+dutch edm,electro house,1,74.0,1369.0
+edm,electro house,1,74.0,1369.0
+electro house,house,1,74.0,1369.0
+electro house,pop dance,1,74.0,1369.0
+electro house,slap house,1,74.0,1369.0
+electro house,trance,1,74.0,1369.0
+big room,pop dance,1,74.0,1369.0
+brostep,pop dance,1,74.0,1369.0
+dutch edm,pop dance,1,74.0,1369.0
+house,pop dance,1,74.0,1369.0
+pop dance,pop dance,1,74.0,1369.0
+pop dance,slap house,1,74.0,1369.0
+pop dance,trance,1,74.0,1369.0
+big room,progressive electro house,1,74.0,1369.0
+brostep,progressive electro house,1,74.0,1369.0
+dutch edm,progressive electro house,1,74.0,1369.0
+edm,progressive electro house,1,74.0,1369.0
+house,progressive electro house,1,74.0,1369.0
+pop dance,progressive electro house,1,74.0,1369.0
+progressive electro house,slap house,1,74.0,1369.0
+progressive electro house,trance,1,74.0,1369.0
+canadian hip hop,dfw rap,1,74.0,1369.0
+canadian trap,dfw rap,1,74.0,1369.0
+dfw rap,toronto rap,1,74.0,1369.0
+canadian hip hop,melodic rap,1,74.0,1369.0
+canadian trap,melodic rap,1,74.0,1369.0
+melodic rap,toronto rap,1,74.0,1369.0
+canadian hip hop,pop,1,74.0,1369.0
+canadian trap,pop,1,74.0,1369.0
+pop,toronto rap,1,74.0,1369.0
+canadian trap,rap,1,74.0,1369.0
+big room,dfw rap,1,74.0,1369.0
+brostep,dfw rap,1,74.0,1369.0
+dfw rap,dutch edm,1,74.0,1369.0
+dfw rap,house,1,74.0,1369.0
+dfw rap,slap house,1,74.0,1369.0
+dfw rap,trance,1,74.0,1369.0
+big room,melodic rap,1,74.0,1369.0
+brostep,melodic rap,1,74.0,1369.0
+dutch edm,melodic rap,1,74.0,1369.0
+house,melodic rap,1,74.0,1369.0
+melodic rap,trance,1,74.0,1369.0
+brostep,pop,1,74.0,1369.0
+pop,slap house,1,74.0,1369.0
+pop,trance,1,74.0,1369.0
+big room,rap,1,74.0,1369.0
+brostep,rap,1,74.0,1369.0
+dutch edm,rap,1,74.0,1369.0
+house,rap,1,74.0,1369.0
+rap,trance,1,74.0,1369.0
+big room,canadian hip hop,1,74.0,1369.0
+brostep,canadian hip hop,1,74.0,1369.0
+canadian hip hop,dutch edm,1,74.0,1369.0
+canadian hip hop,house,1,74.0,1369.0
+canadian hip hop,slap house,1,74.0,1369.0
+canadian hip hop,trance,1,74.0,1369.0
+big room,canadian trap,1,74.0,1369.0
+brostep,canadian trap,1,74.0,1369.0
+canadian trap,dutch edm,1,74.0,1369.0
+canadian trap,house,1,74.0,1369.0
+canadian trap,slap house,1,74.0,1369.0
+canadian trap,trance,1,74.0,1369.0
+big room,toronto rap,1,74.0,1369.0
+brostep,toronto rap,1,74.0,1369.0
+dutch edm,toronto rap,1,74.0,1369.0
+house,toronto rap,1,74.0,1369.0
+slap house,toronto rap,1,74.0,1369.0
+toronto rap,trance,1,74.0,1369.0
+hip pop,pop,1,0.0,1086.0
+pop,queens hip hop,1,0.0,1086.0
+canadian hip hop,southern hip hop,1,0.0,1011.0
+canadian hip hop,trap,1,0.0,1011.0
+canadian hip hop,trap soul,1,0.0,1011.0
+canadian pop,southern hip hop,1,0.0,1011.0
+canadian pop,trap,1,0.0,1011.0
+canadian pop,trap soul,1,0.0,1011.0
+hip hop,southern hip hop,1,0.0,1011.0
+hip hop,trap soul,1,0.0,1011.0
+rap,southern hip hop,1,0.0,1011.0
+rap,trap soul,1,0.0,1011.0
+southern hip hop,toronto rap,1,0.0,1011.0
+toronto rap,trap,1,0.0,1011.0
+toronto rap,trap soul,1,0.0,1011.0
+pop,reggaeton colombiano,1,81.0,1952.0
+rap,reggaeton colombiano,1,81.0,1952.0
+celtic punk,new wave pop,1,58.0,3570.0
+celtic rock,new wave pop,1,58.0,3570.0
+folk punk,new wave pop,1,58.0,3570.0
+new wave pop,punk,1,58.0,3570.0
+adult standards,light music,1,50.0,6685.0
+easy listening,light music,1,50.0,6685.0
+light music,lounge,1,50.0,6685.0
+canadian hip hop,soul,1,0.0,2881.0
+canadian pop,soul,1,0.0,2881.0
+hip hop,soul,1,0.0,2881.0
+rap,soul,1,0.0,2881.0
+soul,toronto rap,1,0.0,2881.0
+electronic trap,rap,1,79.0,2571.0
+puerto rican pop,rap,1,79.0,2571.0
+post-teen pop,rap,1,79.0,2571.0
+edm,puerto rican pop,1,79.0,2571.0
+edm,reggaeton,1,79.0,2571.0
+edm,trap latino,1,79.0,2571.0
+edm,urbano latino,1,79.0,2571.0
+electronic trap,puerto rican pop,1,79.0,2571.0
+electronic trap,reggaeton,1,79.0,2571.0
+electronic trap,trap latino,1,79.0,2571.0
+electronic trap,urbano latino,1,79.0,2571.0
+pop dance,puerto rican pop,1,79.0,2571.0
+pop dance,reggaeton,1,79.0,2571.0
+pop dance,trap latino,1,79.0,2571.0
+pop dance,urbano latino,1,79.0,2571.0
+edm,post-teen pop,1,79.0,2571.0
+electronic trap,post-teen pop,1,79.0,2571.0
+pop dance,post-teen pop,1,79.0,2571.0
+post-teen pop,puerto rican pop,1,79.0,2571.0
+post-teen pop,reggaeton,1,79.0,2571.0
+post-teen pop,trap latino,1,79.0,2571.0
+post-teen pop,urbano latino,1,79.0,2571.0
+orchestral soundtrack,post-romantic era,1,55.0,1596.0
+orchestral soundtrack,ukrainian classical,1,55.0,1596.0
+post-romantic era,soundtrack,1,55.0,1596.0
+soundtrack,ukrainian classical,1,55.0,1596.0
+art pop,hollywood,1,87.0,1323.0
+dance pop,hollywood,1,87.0,1323.0
+hollywood,pop,1,87.0,1323.0
+post-teen pop,uk dance,1,73.0,2134.0
+pop,uk funky,1,73.0,2134.0
+post-teen pop,uk funky,1,73.0,2134.0
+atl hip hop,pop rap,1,74.0,1801.0
+pop rap,trap,1,74.0,1801.0
+emo rap,melodic rap,1,83.0,1005.0
+melodic rap,miami hip hop,1,83.0,1005.0
+emo rap,rap,1,83.0,1005.0
+emo rap,trap,1,83.0,1005.0
+edm,modern rock,1,72.0,1068.0
+modern rock,pop,1,72.0,1068.0
+modern rock,pop dance,1,72.0,1068.0
+modern rock,tropical house,1,72.0,1068.0
+edm,rock,1,72.0,1068.0
+pop,rock,1,72.0,1068.0
+pop dance,rock,1,72.0,1068.0
+rock,tropical house,1,72.0,1068.0
+atl hip hop,dfw rap,1,87.0,1059.0
+dfw rap,hip hop,1,87.0,1059.0
+hip hop,pop,1,87.0,1059.0
+easy listening,easy listening,1,36.0,1582.0
+latin hip hop,reggaeton,1,1.0,1281.0
+latin hip hop,reggaeton colombiano,1,1.0,1281.0
+latin hip hop,trap latino,1,1.0,1281.0
+latin hip hop,urbano latino,1,1.0,1281.0
+beatlesque,beatlesque,1,0.0,7270.0
+beatlesque,experimental rock,1,0.0,7270.0
+beatlesque,classic rock,1,0.0,7270.0
+classic rock,experimental rock,1,0.0,7270.0
+beatlesque,rock,1,0.0,7270.0
+experimental rock,rock,1,0.0,7270.0
+classic rock,experimental,1,0.0,7270.0
+classic rock,experimental pop,1,0.0,7270.0
+experimental,rock,1,0.0,7270.0
+experimental pop,rock,1,0.0,7270.0
+experimental,experimental rock,1,0.0,7270.0
+experimental pop,experimental rock,1,0.0,7270.0
+atl hip hop,canadian pop,1,40.0,1072.0
+canadian pop,contemporary r&b,1,40.0,1072.0
+canadian pop,dance pop,1,40.0,1072.0
+canadian pop,pop,1,40.0,1072.0
+canadian pop,south carolina hip hop,1,40.0,1072.0
+canadian pop,urban contemporary,1,40.0,1072.0
+contemporary r&b,pop,1,40.0,1072.0
+pop,r&b,1,40.0,1072.0
+pop,south carolina hip hop,1,40.0,1072.0
+pop,urban contemporary,1,40.0,1072.0
+birmingham grime,east coast hip hop,1,85.0,1014.0
+east coast hip hop,grime,1,85.0,1014.0
+east coast hip hop,instrumental grime,1,85.0,1014.0
+east coast hip hop,uk hip hop,1,85.0,1014.0
+birmingham grime,hip hop,1,85.0,1014.0
+grime,hip hop,1,85.0,1014.0
+hip hop,instrumental grime,1,85.0,1014.0
+hip hop,uk hip hop,1,85.0,1014.0
+birmingham grime,rap,1,85.0,1014.0
+grime,rap,1,85.0,1014.0
+instrumental grime,rap,1,85.0,1014.0
+rap,uk hip hop,1,85.0,1014.0
+birmingham grime,trap,1,85.0,1014.0
+grime,trap,1,85.0,1014.0
+instrumental grime,trap,1,85.0,1014.0
+trap,uk hip hop,1,85.0,1014.0
+adult standards,swing,1,32.0,1231.0
+adult standards,swing revival,1,32.0,1231.0
+canadian pop,easy listening,1,32.0,1231.0
+canadian pop,swing,1,32.0,1231.0
+canadian pop,swing revival,1,32.0,1231.0
+easy listening,jazz pop,1,32.0,1231.0
+jazz pop,swing,1,32.0,1231.0
+jazz pop,swing revival,1,32.0,1231.0
+easy listening,lounge,1,32.0,1231.0
+lounge,swing,1,32.0,1231.0
+lounge,swing revival,1,32.0,1231.0
+australian dance,big room,1,69.0,1137.0
+australian pop,big room,1,69.0,1137.0
+australian dance,dance pop,1,69.0,1137.0
+australian pop,dance pop,1,69.0,1137.0
+australian dance,edm,1,69.0,1137.0
+australian pop,edm,1,69.0,1137.0
+australian dance,pop,1,69.0,1137.0
+australian pop,pop,1,69.0,1137.0
+australian dance,pop dance,1,69.0,1137.0
+australian pop,pop dance,1,69.0,1137.0
+dfw rap,melodic rap,1,90.0,2316.0
+melodic rap,melodic rap,1,90.0,2316.0
+melodic rap,pop,1,90.0,2316.0
+dance pop,dance pop,1,89.0,2310.0
+dance pop,uk pop,1,89.0,2310.0
+dance pop,edm,1,89.0,2310.0
+edm,uk pop,1,89.0,2310.0
+dance pop,electro house,1,89.0,2310.0
+electro house,uk pop,1,89.0,2310.0
+dance pop,house,1,89.0,2310.0
+house,uk pop,1,89.0,2310.0
+pop,uk pop,1,89.0,2310.0
+dance pop,progressive house,1,89.0,2310.0
+progressive house,uk pop,1,89.0,2310.0
+dance pop,uk dance,1,89.0,2310.0
+uk dance,uk pop,1,89.0,2310.0
+canadian hip hop,east coast hip hop,1,0.0,2220.0
+canadian hip hop,gangster rap,1,0.0,2220.0
+canadian pop,east coast hip hop,1,0.0,2220.0
+canadian pop,gangster rap,1,0.0,2220.0
+east coast hip hop,hip hop,1,0.0,2220.0
+gangster rap,hip hop,1,0.0,2220.0
+east coast hip hop,rap,1,0.0,2220.0
+gangster rap,rap,1,0.0,2220.0
+east coast hip hop,toronto rap,1,0.0,2220.0
+gangster rap,toronto rap,1,0.0,2220.0
+atl hip hop,florida drill,1,79.0,1044.0
+florida drill,trap,1,79.0,1044.0
+atl hip hop,florida rap,1,79.0,1044.0
+florida rap,trap,1,79.0,1044.0
+atl hip hop,miami hip hop,1,79.0,1044.0
+atl hip hop,trap latino,1,79.0,1044.0
+trap,trap latino,1,79.0,1044.0
+florida drill,hip hop,1,79.0,1044.0
+florida drill,slap house,1,79.0,1044.0
+florida rap,hip hop,1,79.0,1044.0
+florida rap,slap house,1,79.0,1044.0
+hip hop,miami hip hop,1,79.0,1044.0
+miami hip hop,slap house,1,79.0,1044.0
+hip hop,trap latino,1,79.0,1044.0
+slap house,trap latino,1,79.0,1044.0
+atl hip hop,slap house,1,79.0,1044.0
+adult standards,canadian country,1,31.0,1662.0
+adult standards,canadian pop,1,31.0,1662.0
+adult standards,contemporary country,1,31.0,1662.0
+adult standards,country,1,31.0,1662.0
+adult standards,country dawn,1,31.0,1662.0
+canadian country,canadian pop,1,31.0,1662.0
+canadian pop,canadian pop,1,31.0,1662.0
+canadian pop,contemporary country,1,31.0,1662.0
+canadian pop,country,1,31.0,1662.0
+canadian pop,country dawn,1,31.0,1662.0
+canadian country,jazz pop,1,31.0,1662.0
+canadian pop,jazz pop,1,31.0,1662.0
+contemporary country,jazz pop,1,31.0,1662.0
+country,jazz pop,1,31.0,1662.0
+country dawn,jazz pop,1,31.0,1662.0
+canadian country,lounge,1,31.0,1662.0
+canadian pop,lounge,1,31.0,1662.0
+contemporary country,lounge,1,31.0,1662.0
+country,lounge,1,31.0,1662.0
+country dawn,lounge,1,31.0,1662.0
+pop,teen pop,1,68.0,1394.0
+pop dance,teen pop,1,68.0,1394.0
+teen pop,tropical house,1,68.0,1394.0
+teen pop,uk dance,1,68.0,1394.0
+edm,eurodance,1,81.0,1111.0
+edm,italo dance,1,81.0,1111.0
+classic oklahoma country,dance pop,1,47.0,2800.0
+classic oklahoma country,pop,1,47.0,2800.0
+contemporary country,dance pop,1,47.0,2800.0
+country,dance pop,1,47.0,2800.0
+country road,dance pop,1,47.0,2800.0
+dutch edm,pop r&b,1,71.0,1211.0
+edm,pop r&b,1,71.0,1211.0
+pop,pop r&b,1,71.0,1211.0
+pop dance,pop r&b,1,71.0,1211.0
+pop r&b,progressive house,1,71.0,1211.0
+man's orchestra,torch song,1,43.0,2983.0
+man's orchestra,vocal jazz,1,43.0,2983.0
+contemporary country,hip pop,1,45.0,5786.0
+country,hip pop,1,45.0,5786.0
+country road,hip pop,1,45.0,5786.0
+hip pop,modern country rock,1,45.0,5786.0
+modern country rock,pop,1,45.0,5786.0
+deep adult standards,man's orchestra,1,50.0,5741.0
+man's orchestra,vocal harmony group,1,50.0,5741.0
+adult standards,deep adult standards,1,50.0,5741.0
+adult standards,vocal harmony group,1,50.0,5741.0
+deep adult standards,easy listening,1,50.0,5741.0
+easy listening,vocal harmony group,1,50.0,5741.0

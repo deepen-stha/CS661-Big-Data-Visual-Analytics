@@ -1,0 +1,144 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+turkish hip hop,turkish trap,29,56.23076923076923,3259040.5384615385
+turkish hip hop,turkish hip hop,19,54.8,3030007.4
+turkish pop,turkish pop,18,45.0,2767684.9166666665
+turkce drill,turkish trap,17,54.0,2075418.4285714286
+turkce drill,turkish hip hop,14,54.0,2075418.4285714286
+turkish trap,turkish trap,11,46.77777777777778,2668954.222222222
+new school turkce rap,new school turkce rap,8,0.0,372669.75
+turkish edm,turkish pop,8,60.666666666666664,2158009.0
+turkish hip hop,turkish pop,7,60.75,3188323.75
+turkce drill,turkce drill,6,57.75,2983079.5
+arabesk,turkish pop,5,39.666666666666664,2852378.3333333335
+turkish alt pop,turkish rock,5,67.33333333333333,4582334.0
+hip hop,pop,4,57.0,1910606.25
+pop,rap,4,57.0,1910606.25
+deep turkish pop,turkish pop,4,31.0,3611494.5
+turkish alt pop,turkish alt pop,4,67.0,3882203.75
+turkish pop,turkish trap,4,57.666666666666664,2105670.6666666665
+turkish edm,turkish hip hop,4,58.5,3197964.0
+turkce kadin rap,turkish hip hop,3,54.666666666666664,2507062.3333333335
+turkish edm,turkish edm,3,60.666666666666664,2158009.0
+turkish instrumental,turkish rock,3,65.0,5912461.666666667
+karadeniz pop,turkish pop,3,57.0,6539596.5
+german hip hop,turkce drill,3,45.0,138936.0
+turkish instrumental,turkish singer-songwriter,2,69.0,8391461.5
+new school turkce rap,turkish trap,2,25.0,1821527.5
+hip hop,modern rock,2,45.0,3695886.5
+modern rock,rap,2,45.0,3695886.5
+modern rock,underground hip hop,2,45.0,3695886.5
+pop,underground hip hop,2,45.0,3695886.5
+hip hop,rock,2,45.0,3695886.5
+rap,rock,2,45.0,3695886.5
+rock,underground hip hop,2,45.0,3695886.5
+modern rock,speedrun,2,45.0,3695886.5
+modern rock,video game music,2,45.0,3695886.5
+pop,speedrun,2,45.0,3695886.5
+pop,video game music,2,45.0,3695886.5
+rock,speedrun,2,45.0,3695886.5
+rock,video game music,2,45.0,3695886.5
+hip hop,speedrun,2,45.0,3695886.5
+hip hop,video game music,2,45.0,3695886.5
+rap,speedrun,2,45.0,3695886.5
+rap,video game music,2,45.0,3695886.5
+speedrun,underground hip hop,2,45.0,3695886.5
+underground hip hop,video game music,2,45.0,3695886.5
+canadian contemporary r&b,hip hop,2,69.0,125326.0
+canadian pop,hip hop,2,69.0,125326.0
+canadian contemporary r&b,rap,2,69.0,125326.0
+canadian pop,rap,2,69.0,125326.0
+turkish alt pop,turkish hip hop,2,62.5,4691719.5
+turkish hip hop,turkish rock,2,62.5,4691719.5
+turkish rock,turkish rock,2,67.0,5356778.5
+turkish edm,turkish trap,2,50.0,46880.0
+turkce slow sarkilar,turkish rock,2,60.5,154749.0
+reggaeton,turkish trap,2,52.0,97156.0
+german hip hop,turkish hip hop,2,45.0,138936.0
+german hip hop,turkish trap,2,45.0,138936.0
+turkish deep house,turkish edm,2,65.0,78099.0
+canadian contemporary r&b,new orleans rap,1,70.0,119459.0
+canadian pop,new orleans rap,1,70.0,119459.0
+new orleans rap,pop,1,70.0,119459.0
+canadian contemporary r&b,pop rap,1,70.0,119459.0
+canadian pop,pop rap,1,70.0,119459.0
+pop,pop rap,1,70.0,119459.0
+canadian contemporary r&b,trap,1,70.0,119459.0
+canadian pop,trap,1,70.0,119459.0
+pop,trap,1,70.0,119459.0
+turkce drill,turkish alt pop,1,53.0,2577610.0
+turkce drill,turkish rock,1,53.0,2577610.0
+turkish alt pop,turkish trap,1,53.0,2577610.0
+turkish rock,turkish trap,1,53.0,2577610.0
+dutch pop,turkce drill,1,34.0,42421.0
+dutch pop,turkish trap,1,34.0,42421.0
+new school turkce rap,turkish edm,1,50.0,46880.0
+huzunlu sarkilar,turkish pop,1,53.0,272754.0
+turkce slow sarkilar,turkish pop,1,53.0,272754.0
+huzunlu sarkilar,turkish rock,1,53.0,272754.0
+huzunlu sarkilar,turkish singer-songwriter,1,53.0,272754.0
+turkce slow sarkilar,turkish singer-songwriter,1,53.0,272754.0
+turkish alt pop,turkish pop,1,66.0,1781813.0
+turkish alt pop,turkish singer-songwriter,1,66.0,1781813.0
+latin arena pop,reggaeton,1,52.0,97156.0
+latin pop,reggaeton,1,52.0,97156.0
+mexican pop,reggaeton,1,52.0,97156.0
+reggaeton,reggaeton,1,52.0,97156.0
+latin arena pop,reggaeton flow,1,52.0,97156.0
+latin pop,reggaeton flow,1,52.0,97156.0
+mexican pop,reggaeton flow,1,52.0,97156.0
+reggaeton,reggaeton flow,1,52.0,97156.0
+latin arena pop,urbano latino,1,52.0,97156.0
+latin pop,urbano latino,1,52.0,97156.0
+mexican pop,urbano latino,1,52.0,97156.0
+reggaeton,urbano latino,1,52.0,97156.0
+reggaeton flow,turkish trap,1,52.0,97156.0
+turkish trap,urbano latino,1,52.0,97156.0
+latin arena pop,turkish trap,1,52.0,97156.0
+latin pop,turkish trap,1,52.0,97156.0
+mexican pop,turkish trap,1,52.0,97156.0
+turkish rock,turkish singer-songwriter,1,66.0,2919955.0
+turkish singer-songwriter,turkish singer-songwriter,1,66.0,2919955.0
+turkish alt pop,turkish alternative rock,1,61.0,1262361.0
+turkish alternative rock,turkish rock,1,61.0,1262361.0
+atl hip hop,pop dance,1,84.0,146594.0
+girl group,pop dance,1,84.0,146594.0
+hip pop,pop dance,1,84.0,146594.0
+pop dance,r&b,1,84.0,146594.0
+pop dance,southern hip hop,1,84.0,146594.0
+pop dance,urban contemporary,1,84.0,146594.0
+atl hip hop,tech house,1,84.0,146594.0
+girl group,tech house,1,84.0,146594.0
+hip pop,tech house,1,84.0,146594.0
+r&b,tech house,1,84.0,146594.0
+southern hip hop,tech house,1,84.0,146594.0
+tech house,urban contemporary,1,84.0,146594.0
+turkish pop,turkish rock,1,68.0,36744.0
+polish alternative,turkce kadin rap,1,60.0,1598393.0
+polish electronica,turkce kadin rap,1,60.0,1598393.0
+polish alternative,turkish hip hop,1,60.0,1598393.0
+polish electronica,turkish hip hop,1,60.0,1598393.0
+polish alternative,turkish trap,1,60.0,1598393.0
+polish electronica,turkish trap,1,60.0,1598393.0
+turkce kadin rap,turkish trap,1,72.0,8573154.0
+canadian contemporary r&b,edm,1,14.0,349028.0
+canadian pop,edm,1,14.0,349028.0
+edm,pop,1,14.0,349028.0
+canadian contemporary r&b,pop dance,1,14.0,349028.0
+canadian pop,pop dance,1,14.0,349028.0
+pop,pop dance,1,14.0,349028.0
+canadian contemporary r&b,progressive electro house,1,14.0,349028.0
+canadian pop,progressive electro house,1,14.0,349028.0
+pop,progressive electro house,1,14.0,349028.0
+turkish alt pop,turkish instrumental,1,57.0,954462.0
+deep underground hip hop,lgbtq+ hip hop,1,81.0,4384729.0
+kentucky hip hop,lgbtq+ hip hop,1,81.0,4384729.0
+lgbtq+ hip hop,pop rap,1,81.0,4384729.0
+lgbtq+ hip hop,rap,1,81.0,4384729.0
+australian hip hop,canadian pop,1,35.0,35190.0
+australian hip hop,pop,1,35.0,35190.0
+turkish folk,turkish pop,1,57.0,1334146.0
+persian hip hop,turkce drill,1,61.0,10424623.0
+persian hip hop,turkish trap,1,61.0,10424623.0
+canadian contemporary r&b,dark clubbing,1,86.0,2397894.0
+canadian pop,dark clubbing,1,86.0,2397894.0
+dark clubbing,pop,1,86.0,2397894.0

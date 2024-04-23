@@ -1,0 +1,413 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+rap,trap,35,37.714285714285715,24145.85714285714
+atl hip hop,rap,29,33.25,21018.75
+atl hip hop,trap,25,25.2,21836.2
+hip hop,rap,24,63.84615384615385,28076.384615384617
+rap,rap,23,47.411764705882355,22126.529411764706
+movie tunes,movie tunes,20,73.0,117664.75
+melodic rap,rap,19,25.0,24498.8
+melodic rap,trap,17,18.555555555555557,23578.11111111111
+gangster rap,rap,16,65.8,30897.7
+atl hip hop,melodic rap,15,20.875,26343.5
+hip hop,trap,15,51.55555555555556,35982.0
+trap,trap,14,25.2,21836.2
+gangster rap,hip hop,13,73.11111111111111,33833.444444444445
+atl hip hop,atl hip hop,11,23.857142857142858,29687.428571428572
+atl hip hop,hip hop,11,47.857142857142854,34003.0
+pop,pop,10,78.6,24582.5
+hollywood,movie tunes,9,73.0,117664.75
+hip hop,melodic rap,9,41.666666666666664,38643.666666666664
+atl trap,rap,9,38.166666666666664,30889.5
+pop,rap,9,66.33333333333333,37278.77777777778
+classic icelandic pop,icelandic pop,9,6.75,51044.25
+rap,southern hip hop,8,45.6,44236.6
+hip hop,hip hop,8,82.375,16774.75
+canadian pop,rap,8,78.71428571428571,24503.285714285714
+icelandic pop,icelandic pop,8,8.5,47716.833333333336
+atl hip hop,atl trap,7,33.0,36851.8
+atl hip hop,gangster rap,7,50.0,37231.8
+atl trap,trap,7,33.0,36851.8
+gangster rap,trap,7,50.0,37231.8
+atl hip hop,southern hip hop,6,41.25,45062.25
+melodic rap,southern hip hop,6,41.25,45062.25
+southern hip hop,trap,6,41.25,45062.25
+hip hop,pop,6,49.166666666666664,37833.833333333336
+canadian pop,trap,6,79.25,13596.0
+g funk,hip hop,5,86.0,17658.666666666668
+g funk,rap,5,86.0,17658.666666666668
+hip hop,west coast rap,5,86.0,17658.666666666668
+rap,west coast rap,5,86.0,17658.666666666668
+canadian pop,hip hop,5,77.8,8840.0
+canadian hip hop,rap,5,83.5,11041.25
+rap,toronto rap,5,83.5,11041.25
+canadian hip hop,trap,5,82.33333333333333,13337.0
+toronto rap,trap,5,82.33333333333333,13337.0
+modern salsa,movie tunes,5,78.0,269882.0
+movie tunes,salsa colombiana,5,78.0,269882.0
+atl trap,hip hop,4,55.0,58508.0
+atl trap,melodic rap,4,21.5,45798.0
+melodic rap,melodic rap,4,21.5,45467.25
+hip hop,pop rap,4,80.0,29943.0
+pop rap,rap,4,80.0,29943.0
+g funk,gangster rap,4,85.0,24965.0
+g funk,west coast rap,4,85.0,24965.0
+gangster rap,west coast rap,4,85.0,24965.0
+atl hip hop,canadian hip hop,4,82.33333333333333,13337.0
+atl hip hop,canadian pop,4,82.33333333333333,13337.0
+atl hip hop,toronto rap,4,82.33333333333333,13337.0
+icelandic hip hop,icelandic hip hop,4,23.0,1839.5
+atl trap,southern hip hop,3,55.0,58508.0
+gangster rap,southern hip hop,3,55.0,58508.0
+gangster rap,melodic rap,3,28.666666666666668,59644.333333333336
+indie poptimism,pop,3,74.66666666666667,27966.666666666668
+indie poptimism,post-teen pop,3,74.66666666666667,27966.666666666668
+pop,post-teen pop,3,74.66666666666667,27966.666666666668
+florida rap,rap,3,42.666666666666664,2956.0
+florida rap,trap,3,42.666666666666664,2956.0
+canadian contemporary r&b,rap,3,72.33333333333333,42452.666666666664
+pop,trap,3,66.66666666666667,20111.333333333332
+dance pop,pop,3,80.66666666666667,10302.333333333334
+pop,uk pop,3,77.0,9131.333333333334
+canadian pop,melodic rap,3,80.33333333333333,42796.666666666664
+chicago rap,rap,3,50.0,23765.666666666668
+chicago rap,trap,3,43.0,29090.666666666668
+edm,pop,3,62.0,76450.33333333333
+pop,pop dance,3,62.0,76450.33333333333
+canadian hip hop,hip hop,3,83.66666666666667,3793.3333333333335
+hip hop,toronto rap,3,83.66666666666667,3793.3333333333335
+icelandic hip hop,icelandic pop,3,27.0,1612.0
+icelandic pop,icelandic singer-songwriter,3,0.0,69363.0
+latino comedy,movie tunes,3,66.0,1024.0
+latin pop,movie tunes,3,66.0,1024.0
+movie tunes,reggaeton,3,66.0,1024.0
+movie tunes,reggaeton colombiano,3,66.0,1024.0
+movie tunes,urbano latino,3,66.0,1024.0
+classic icelandic pop,classic icelandic pop,3,0.0,11834.0
+g funk,g funk,2,85.0,24965.0
+g funk,pop rap,2,85.0,24965.0
+gangster rap,gangster rap,2,85.0,24965.0
+gangster rap,pop rap,2,85.0,24965.0
+pop rap,west coast rap,2,85.0,24965.0
+west coast rap,west coast rap,2,85.0,24965.0
+hip hop,modern rock,2,45.0,72519.5
+modern rock,rap,2,45.0,72519.5
+modern rock,underground hip hop,2,45.0,72519.5
+pop,underground hip hop,2,45.0,72519.5
+hip hop,rock,2,45.0,72519.5
+rap,rock,2,45.0,72519.5
+rock,underground hip hop,2,45.0,72519.5
+modern rock,speedrun,2,45.0,72519.5
+modern rock,video game music,2,45.0,72519.5
+pop,speedrun,2,45.0,72519.5
+pop,video game music,2,45.0,72519.5
+rock,speedrun,2,45.0,72519.5
+rock,video game music,2,45.0,72519.5
+hip hop,speedrun,2,45.0,72519.5
+hip hop,video game music,2,45.0,72519.5
+rap,speedrun,2,45.0,72519.5
+rap,video game music,2,45.0,72519.5
+speedrun,underground hip hop,2,45.0,72519.5
+underground hip hop,video game music,2,45.0,72519.5
+aesthetic rap,east coast hip hop,2,64.0,2966.0
+aesthetic rap,hip hop,2,64.0,2966.0
+aesthetic rap,rap,2,64.0,2966.0
+aesthetic rap,trap,2,64.0,2966.0
+cloud rap,east coast hip hop,2,64.0,2966.0
+cloud rap,hip hop,2,64.0,2966.0
+cloud rap,rap,2,64.0,2966.0
+cloud rap,trap,2,64.0,2966.0
+east coast hip hop,florida rap,2,64.0,2966.0
+florida rap,hip hop,2,64.0,2966.0
+east coast hip hop,underground hip hop,2,64.0,2966.0
+hip hop,underground hip hop,2,64.0,2966.0
+rap,underground hip hop,2,64.0,2966.0
+trap,underground hip hop,2,64.0,2966.0
+canadian contemporary r&b,hip hop,2,69.0,16410.0
+pop,singer-songwriter pop,2,77.5,13109.5
+canadian contemporary r&b,pop,2,81.5,47803.0
+canadian pop,pop,2,81.5,47803.0
+icelandic pop,icelandic rock,2,13.5,58976.0
+dance pop,rap,2,80.0,8575.5
+afrobeats,pop,2,65.5,1275.5
+nigerian pop,pop,2,65.5,1275.5
+hip hop,neo soul,2,33.5,24572.0
+canadian hip hop,melodic rap,2,81.0,16926.0
+melodic rap,toronto rap,2,81.0,16926.0
+hip hop,southern hip hop,2,71.0,21000.5
+canadian hip hop,gangster rap,2,82.0,3613.0
+canadian pop,gangster rap,2,82.0,3613.0
+gangster rap,toronto rap,2,82.0,3613.0
+chicago rap,gangster rap,2,75.0,34921.0
+chicago rap,hip hop,2,75.0,34921.0
+chicago rap,pop rap,2,75.0,34921.0
+dance pop,neo soul,2,1.0,4261.0
+neo soul,pop,2,1.0,4261.0
+crunk,hip hop,2,85.0,6159.0
+dirty south rap,hip hop,2,85.0,6159.0
+hip hop,memphis hip hop,2,85.0,6159.0
+crunk,rap,2,85.0,6159.0
+dirty south rap,rap,2,85.0,6159.0
+memphis hip hop,rap,2,85.0,6159.0
+barnalog,classic icelandic pop,2,0.0,11834.0
+barnalog,icelandic pop,2,0.0,11834.0
+classic icelandic pop,icelandic folk,2,0.0,11834.0
+icelandic folk,icelandic pop,2,0.0,11834.0
+canadian contemporary r&b,new orleans rap,1,70.0,14373.0
+canadian pop,new orleans rap,1,70.0,14373.0
+new orleans rap,pop,1,70.0,14373.0
+canadian contemporary r&b,pop rap,1,70.0,14373.0
+canadian pop,pop rap,1,70.0,14373.0
+pop,pop rap,1,70.0,14373.0
+canadian contemporary r&b,trap,1,70.0,14373.0
+dance pop,glam rock,1,73.0,186109.0
+dance pop,mellow gold,1,73.0,186109.0
+dance pop,piano rock,1,73.0,186109.0
+dance pop,rock,1,73.0,186109.0
+glam rock,pop,1,73.0,186109.0
+mellow gold,pop,1,73.0,186109.0
+piano rock,pop,1,73.0,186109.0
+pop,rock,1,73.0,186109.0
+glam rock,uk pop,1,73.0,186109.0
+mellow gold,uk pop,1,73.0,186109.0
+piano rock,uk pop,1,73.0,186109.0
+rock,uk pop,1,73.0,186109.0
+alternative dance,dance pop,1,73.0,186109.0
+aussietronica,dance pop,1,73.0,186109.0
+australian dance,dance pop,1,73.0,186109.0
+australian electropop,dance pop,1,73.0,186109.0
+alternative dance,pop,1,73.0,186109.0
+aussietronica,pop,1,73.0,186109.0
+australian dance,pop,1,73.0,186109.0
+australian electropop,pop,1,73.0,186109.0
+alternative dance,uk pop,1,73.0,186109.0
+aussietronica,uk pop,1,73.0,186109.0
+australian dance,uk pop,1,73.0,186109.0
+australian electropop,uk pop,1,73.0,186109.0
+alternative dance,glam rock,1,73.0,186109.0
+aussietronica,glam rock,1,73.0,186109.0
+australian dance,glam rock,1,73.0,186109.0
+australian electropop,glam rock,1,73.0,186109.0
+alternative dance,mellow gold,1,73.0,186109.0
+aussietronica,mellow gold,1,73.0,186109.0
+australian dance,mellow gold,1,73.0,186109.0
+australian electropop,mellow gold,1,73.0,186109.0
+alternative dance,piano rock,1,73.0,186109.0
+aussietronica,piano rock,1,73.0,186109.0
+australian dance,piano rock,1,73.0,186109.0
+australian electropop,piano rock,1,73.0,186109.0
+alternative dance,rock,1,73.0,186109.0
+aussietronica,rock,1,73.0,186109.0
+australian dance,rock,1,73.0,186109.0
+australian electropop,rock,1,73.0,186109.0
+atl hip hop,hip pop,1,64.0,1078.0
+atl hip hop,pop,1,64.0,1078.0
+atl hip hop,queens hip hop,1,64.0,1078.0
+atl trap,hip pop,1,64.0,1078.0
+atl trap,pop,1,64.0,1078.0
+atl trap,queens hip hop,1,64.0,1078.0
+hip pop,rap,1,64.0,1078.0
+queens hip hop,rap,1,64.0,1078.0
+hip pop,trap,1,64.0,1078.0
+queens hip hop,trap,1,64.0,1078.0
+k-pop,permanent wave,1,84.0,22949.0
+k-pop,pop,1,84.0,22949.0
+k-pop boy group,permanent wave,1,84.0,22949.0
+k-pop boy group,pop,1,84.0,22949.0
+permanent wave,pop,1,84.0,22949.0
+classic icelandic pop,icelandic hip hop,1,24.0,10208.0
+icelandic hip hop,icelandic rock,1,24.0,10208.0
+dance pop,singer-songwriter pop,1,82.0,13756.0
+dance pop,uk pop,1,82.0,13756.0
+canadian contemporary r&b,dfw rap,1,79.0,94538.0
+canadian pop,dfw rap,1,79.0,94538.0
+dfw rap,pop,1,79.0,94538.0
+canadian contemporary r&b,melodic rap,1,79.0,94538.0
+melodic rap,pop,1,79.0,94538.0
+atl hip hop,florida drill,1,0.0,2936.0
+atl hip hop,florida rap,1,0.0,2936.0
+atl hip hop,miami hip hop,1,0.0,2936.0
+atl hip hop,trap latino,1,0.0,2936.0
+florida drill,melodic rap,1,0.0,2936.0
+florida rap,melodic rap,1,0.0,2936.0
+melodic rap,miami hip hop,1,0.0,2936.0
+melodic rap,trap latino,1,0.0,2936.0
+florida drill,rap,1,0.0,2936.0
+miami hip hop,rap,1,0.0,2936.0
+rap,trap latino,1,0.0,2936.0
+florida drill,trap,1,0.0,2936.0
+miami hip hop,trap,1,0.0,2936.0
+trap,trap latino,1,0.0,2936.0
+art pop,hollywood,1,87.0,2112.0
+dance pop,hollywood,1,87.0,2112.0
+hollywood,pop,1,87.0,2112.0
+detroit hip hop,g funk,1,88.0,3046.0
+detroit hip hop,gangster rap,1,88.0,3046.0
+detroit hip hop,hardcore hip hop,1,88.0,3046.0
+detroit hip hop,hip hop,1,88.0,3046.0
+detroit hip hop,west coast rap,1,88.0,3046.0
+hardcore hip hop,hip hop,1,88.0,3046.0
+hardcore hip hop,rap,1,88.0,3046.0
+melodic drill,uk drill,1,73.0,13491.0
+uk drill,uk drill,1,73.0,13491.0
+manchester hip hop,uk hip hop,1,57.0,9736.0
+uk hip hop,uk hip hop,1,57.0,9736.0
+atl hip hop,pluggnb,1,57.0,1107.0
+atl trap,pluggnb,1,57.0,1107.0
+gangster rap,pluggnb,1,57.0,1107.0
+melodic rap,pluggnb,1,57.0,1107.0
+pluggnb,rap,1,57.0,1107.0
+pluggnb,trap,1,57.0,1107.0
+atl hip hop,rage rap,1,57.0,1107.0
+atl trap,rage rap,1,57.0,1107.0
+gangster rap,rage rap,1,57.0,1107.0
+melodic rap,rage rap,1,57.0,1107.0
+rage rap,rap,1,57.0,1107.0
+rage rap,trap,1,57.0,1107.0
+dance pop,r&b,1,84.0,15976.0
+pop,r&b,1,84.0,15976.0
+afrobeats,canadian pop,1,66.0,1028.0
+canadian pop,nigerian pop,1,66.0,1028.0
+atl hip hop,chicago drill,1,0.0,1455.0
+chicago drill,melodic rap,1,0.0,1455.0
+chicago drill,rap,1,0.0,1455.0
+chicago drill,trap,1,0.0,1455.0
+atl hip hop,chicago rap,1,0.0,1455.0
+chicago rap,melodic rap,1,0.0,1455.0
+atl hip hop,drill,1,0.0,1455.0
+drill,melodic rap,1,0.0,1455.0
+drill,rap,1,0.0,1455.0
+drill,trap,1,0.0,1455.0
+brooklyn drill,neo soul,1,66.0,44883.0
+neo soul,new york drill,1,66.0,44883.0
+neo soul,trap,1,66.0,44883.0
+brooklyn drill,pop,1,66.0,44883.0
+new york drill,pop,1,66.0,44883.0
+brooklyn drill,r&b,1,66.0,44883.0
+new york drill,r&b,1,66.0,44883.0
+r&b,trap,1,66.0,44883.0
+chicago rap,neo soul,1,66.0,44883.0
+neo soul,rap,1,66.0,44883.0
+chicago rap,pop,1,66.0,44883.0
+chicago rap,r&b,1,66.0,44883.0
+hip hop,r&b,1,66.0,44883.0
+r&b,rap,1,66.0,44883.0
+brooklyn drill,chicago rap,1,66.0,44883.0
+brooklyn drill,hip hop,1,66.0,44883.0
+brooklyn drill,rap,1,66.0,44883.0
+chicago rap,new york drill,1,66.0,44883.0
+hip hop,new york drill,1,66.0,44883.0
+new york drill,rap,1,66.0,44883.0
+atl hip hop,pop dance,1,84.0,133009.0
+girl group,pop dance,1,84.0,133009.0
+hip pop,pop dance,1,84.0,133009.0
+pop dance,r&b,1,84.0,133009.0
+pop dance,southern hip hop,1,84.0,133009.0
+pop dance,urban contemporary,1,84.0,133009.0
+atl hip hop,tech house,1,84.0,133009.0
+girl group,tech house,1,84.0,133009.0
+hip pop,tech house,1,84.0,133009.0
+r&b,tech house,1,84.0,133009.0
+southern hip hop,tech house,1,84.0,133009.0
+tech house,urban contemporary,1,84.0,133009.0
+belgian edm,pop,1,88.0,84567.0
+pop,tropical house,1,88.0,84567.0
+canadian hip hop,southern hip hop,1,79.0,1067.0
+canadian pop,southern hip hop,1,79.0,1067.0
+southern hip hop,toronto rap,1,79.0,1067.0
+atl trap,canadian hip hop,1,79.0,1067.0
+atl trap,canadian pop,1,79.0,1067.0
+atl trap,toronto rap,1,79.0,1067.0
+chicago rap,east coast hip hop,1,87.0,28908.0
+east coast hip hop,hip hop,1,87.0,28908.0
+east coast hip hop,rap,1,87.0,28908.0
+canadian contemporary r&b,edm,1,14.0,87788.0
+canadian pop,edm,1,14.0,87788.0
+canadian contemporary r&b,pop dance,1,14.0,87788.0
+canadian pop,pop dance,1,14.0,87788.0
+canadian contemporary r&b,progressive electro house,1,14.0,87788.0
+canadian pop,progressive electro house,1,14.0,87788.0
+pop,progressive electro house,1,14.0,87788.0
+canadian hip hop,slap house,1,87.0,4154.0
+canadian pop,slap house,1,87.0,4154.0
+hip hop,slap house,1,87.0,4154.0
+rap,slap house,1,87.0,4154.0
+slap house,toronto rap,1,87.0,4154.0
+dance pop,escape room,1,1.0,4261.0
+escape room,pop,1,1.0,4261.0
+dance pop,hip hop,1,1.0,4261.0
+dance pop,indie soul,1,1.0,4261.0
+indie soul,pop,1,1.0,4261.0
+escape room,neo soul,1,1.0,4261.0
+indie soul,neo soul,1,1.0,4261.0
+neo soul,neo soul,1,1.0,4261.0
+atl hip hop,crunk,1,85.0,6159.0
+atl hip hop,dirty south rap,1,85.0,6159.0
+atl hip hop,memphis hip hop,1,85.0,6159.0
+crunk,trap,1,85.0,6159.0
+dirty south rap,trap,1,85.0,6159.0
+memphis hip hop,trap,1,85.0,6159.0
+canadian hip hop,crunk,1,85.0,6159.0
+canadian hip hop,dirty south rap,1,85.0,6159.0
+canadian hip hop,memphis hip hop,1,85.0,6159.0
+canadian pop,crunk,1,85.0,6159.0
+canadian pop,dirty south rap,1,85.0,6159.0
+canadian pop,memphis hip hop,1,85.0,6159.0
+crunk,toronto rap,1,85.0,6159.0
+dirty south rap,toronto rap,1,85.0,6159.0
+memphis hip hop,toronto rap,1,85.0,6159.0
+cubaton,cubaton,1,0.0,1785.0
+chicago rap,southern hip hop,1,63.0,40934.0
+disco house,house,1,83.0,13997.0
+disco house,pop dance,1,83.0,13997.0
+disco house,uk dance,1,83.0,13997.0
+hip house,house,1,83.0,13997.0
+hip house,pop dance,1,83.0,13997.0
+hip house,uk dance,1,83.0,13997.0
+house,uk dance,1,83.0,13997.0
+pop dance,uk dance,1,83.0,13997.0
+uk dance,uk dance,1,83.0,13997.0
+house,vocal house,1,83.0,13997.0
+pop dance,vocal house,1,83.0,13997.0
+uk dance,vocal house,1,83.0,13997.0
+classic icelandic pop,icelandic singer-songwriter,1,0.0,116723.0
+icelandic rock,icelandic singer-songwriter,1,0.0,116723.0
+icelandic singer-songwriter,icelandic singer-songwriter,1,0.0,116723.0
+deep underground hip hop,lgbtq+ hip hop,1,81.0,153934.0
+kentucky hip hop,lgbtq+ hip hop,1,81.0,153934.0
+lgbtq+ hip hop,pop rap,1,81.0,153934.0
+lgbtq+ hip hop,rap,1,81.0,153934.0
+australian hip hop,canadian pop,1,35.0,158867.0
+australian hip hop,pop,1,35.0,158867.0
+afrobeats,singer-songwriter pop,1,65.0,1523.0
+nigerian pop,singer-songwriter pop,1,65.0,1523.0
+afrobeats,uk pop,1,65.0,1523.0
+nigerian pop,uk pop,1,65.0,1523.0
+gambian hip hop,singer-songwriter pop,1,75.0,4248.0
+hollywood,modern salsa,1,78.0,269882.0
+hollywood,salsa colombiana,1,78.0,269882.0
+latin pop,latino comedy,1,66.0,1024.0
+latino comedy,reggaeton,1,66.0,1024.0
+latino comedy,reggaeton colombiano,1,66.0,1024.0
+latino comedy,urbano latino,1,66.0,1024.0
+hollywood,latino comedy,1,66.0,1024.0
+hollywood,latin pop,1,66.0,1024.0
+hollywood,reggaeton,1,66.0,1024.0
+hollywood,reggaeton colombiano,1,66.0,1024.0
+hollywood,urbano latino,1,66.0,1024.0
+dance pop,houston rap,1,76.0,1175.0
+dance pop,trap queen,1,76.0,1175.0
+houston rap,pop,1,76.0,1175.0
+pop,trap queen,1,76.0,1175.0
+houston rap,uk pop,1,76.0,1175.0
+rap,uk pop,1,76.0,1175.0
+trap queen,uk pop,1,76.0,1175.0
+barnalog,icelandic folk,1,0.0,11834.0
+canadian contemporary r&b,dark clubbing,1,86.0,7316.0
+canadian pop,dark clubbing,1,86.0,7316.0
+dark clubbing,pop,1,86.0,7316.0
+big room,pop,1,84.0,56996.0
+brostep,pop,1,84.0,56996.0
+dutch edm,pop,1,84.0,56996.0
+house,pop,1,84.0,56996.0
+pop,slap house,1,84.0,56996.0
+pop,trance,1,84.0,56996.0
