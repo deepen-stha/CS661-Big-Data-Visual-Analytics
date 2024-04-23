@@ -9,3 +9,5 @@ st.set_page_config(
     initial_sidebar_state='expanded',
 )
 st.title(headline)
+
+# TODO: order of side menu components
