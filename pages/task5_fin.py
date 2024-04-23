@@ -4,8 +4,12 @@ import plotly.graph_objects as go
 
 from datasets import names
 
+@st.cache_data
+def load_data():
+    return pd.read_csv(names.TASK5_DATA)
+
 # Load data
-data = pd.read_csv(names.TASK5_DATA)
+data = load_data()
 
 
 # Streamlit app
