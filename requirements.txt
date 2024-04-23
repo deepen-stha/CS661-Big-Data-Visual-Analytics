@@ -2,6 +2,7 @@ seaborn
 pandasql
 plotly
 pandas
+sklearn
 orjson
 streamlit
 python-dateutil
