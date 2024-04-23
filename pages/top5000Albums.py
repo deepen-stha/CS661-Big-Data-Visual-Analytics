@@ -10,13 +10,17 @@ import numpy as np
 
 from datasets import names
 
+@st.cache_data
+def load_data(data_path):
+    return pd.read_csv(data_path)
 
+
+# Asset constants
 cloud_image_path = './assets/img/cloud.png'
-
+data_path = names.UPDATED_TOP_5000_DATA
 
 # Load your dataset
-data_path = names.UPDATED_TOP_5000_DATA
-data = pd.read_csv(data_path)
+data = load_data(data_path)
 
 # Split genres and create a list of unique genres
 all_genres = set()
