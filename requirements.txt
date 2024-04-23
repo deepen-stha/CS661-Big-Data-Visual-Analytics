@@ -1,0 +1,5 @@
+seaborn
+pandasql
+plotly
+pandas
+orjson
