@@ -1,0 +1,356 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+russian hip hop,russian trap,113,29.023809523809526,1174978.3333333333
+russian drill,russian hip hop,75,35.30434782608695,795337.5217391305
+russian hip hop,russian hip hop,71,30.61904761904762,1210850.2857142857
+russian drill,russian trap,70,34.61904761904762,863317.5714285715
+russian trap,russian trap,52,22.22222222222222,1431390.2222222222
+russian drill,russian drill,33,36.11764705882353,721528.2941176471
+russian hip hop,russian pop,31,49.36363636363637,906706.6363636364
+russian dance,russian hip hop,18,43.5,1156432.0
+russian pop,russian trap,16,41.6,692175.6
+russian emo rap,russian hip hop,15,13.6,1952765.6666666667
+russian emo rap,russian trap,14,7.857142857142857,1817318.7142857143
+russian drill,russian pop,13,26.5,32714.0
+russian dance,russian pop,13,38.0,789527.0
+russian pop,russian pop,12,43.142857142857146,960068.7142857143
+russian drain,russian drain,11,39.55555555555556,2369789.111111111
+russian drain,russian hyperpop,10,40.111111111111114,2403926.0
+russian drain,russian hip hop,10,45.857142857142854,2556108.8571428573
+russian alt pop,russian hip hop,9,41.375,1214715.125
+russian gangster rap,russian hip hop,9,34.6,387782.6
+kazakh hip hop,russian hip hop,9,44.25,476130.5
+russian dance,russian drill,9,0.0,50132.0
+russian dance,russian trap,9,0.0,50132.0
+russian drain,russian trap,8,26.333333333333332,1701917.1666666667
+rap,trap,8,69.0,25916.333333333332
+atl hip hop,rap,7,72.0,29710.0
+pop,rap,6,61.166666666666664,641365.1666666666
+russian drain,russian drill,6,25.0,2149384.0
+kazakh pop,russian hip hop,6,27.5,34436.0
+atl hip hop,trap,6,78.0,37831.0
+kazakh hip hop,russian trap,6,40.666666666666664,628594.0
+hyperpop,russian drain,5,50.25,2715932.25
+russian gangster rap,russian trap,5,23.333333333333332,565377.0
+hip hop,pop,5,60.2,765320.4
+russian gangster rap,russian pop,5,34.333333333333336,97638.0
+rap,rap,5,69.0,25916.333333333332
+russian dance,russian dance,5,38.0,789527.0
+hyperpop,russian hyperpop,4,50.25,2715932.25
+russian drain,russian emo rap,4,47.333333333333336,1680205.0
+russian alt pop,russian trap,4,50.0,862595.5
+russian hip hop,russian rave,4,23.5,825284.0
+kazakh hip hop,russian pop,4,27.5,34436.0
+kazakh pop,russian pop,4,27.5,34436.0
+hip hop,rap,4,70.5,28080.0
+atl hip hop,melodic rap,4,78.0,37831.0
+melodic rap,rap,4,78.0,37831.0
+melodic rap,trap,4,78.0,37831.0
+hyperpop,russian emo rap,3,47.333333333333336,1680205.0
+pop,pop,3,77.33333333333333,204242.0
+russian electronic,russian hip hop,3,39.333333333333336,1355656.0
+pop,trap,3,69.66666666666667,42334.0
+pop,rock,3,75.0,68158.66666666667
+central asian hip hop,russian hip hop,3,59.0,618130.0
+russian alt pop,russian rave,3,24.5,345626.0
+hip hop,trap,3,70.5,28080.0
+rap,southern hip hop,3,70.5,28080.0
+atl trap,rap,3,72.0,29710.0
+gangster rap,rap,3,70.5,28080.0
+atl hip hop,atl hip hop,3,78.0,37831.0
+trap,trap,3,78.0,37831.0
+drift phonk,phonk,3,74.0,1590892.6666666667
+russian drill,russian grime,3,43.333333333333336,934632.3333333334
+russian drill,russian emo rap,3,49.0,934052.6666666666
+russian grime,russian hip hop,3,43.333333333333336,934632.3333333334
+russian hip hop,russian underground rap,3,27.0,1014735.0
+kazakh hip hop,russian drill,3,0.0,50132.0
+kazakh pop,russian drill,3,0.0,50132.0
+kazakh pop,russian trap,3,0.0,50132.0
+russian drill,russian gangster rap,3,0.0,50132.0
+estonian hip hop,kavkaz,2,35.0,822999.5
+estonian hip hop,russian gangster rap,2,35.0,822999.5
+estonian hip hop,russian hip hop,2,35.0,822999.5
+kavkaz,russian hip hop,2,35.0,822999.5
+kavkaz,russian trap,2,35.0,822999.5
+kavkaz,uzbek pop,2,35.0,822999.5
+russian gangster rap,uzbek pop,2,35.0,822999.5
+russian hip hop,uzbek pop,2,35.0,822999.5
+indie poptimism,pop,2,74.0,62319.5
+indie poptimism,post-teen pop,2,74.0,62319.5
+pop,post-teen pop,2,74.0,62319.5
+hip hop,modern rock,2,45.0,1838087.5
+modern rock,rap,2,45.0,1838087.5
+modern rock,underground hip hop,2,45.0,1838087.5
+pop,underground hip hop,2,45.0,1838087.5
+hip hop,rock,2,45.0,1838087.5
+rap,rock,2,45.0,1838087.5
+rock,underground hip hop,2,45.0,1838087.5
+modern rock,speedrun,2,45.0,1838087.5
+modern rock,video game music,2,45.0,1838087.5
+pop,speedrun,2,45.0,1838087.5
+pop,video game music,2,45.0,1838087.5
+rock,speedrun,2,45.0,1838087.5
+rock,video game music,2,45.0,1838087.5
+hip hop,speedrun,2,45.0,1838087.5
+hip hop,video game music,2,45.0,1838087.5
+rap,speedrun,2,45.0,1838087.5
+rap,video game music,2,45.0,1838087.5
+speedrun,underground hip hop,2,45.0,1838087.5
+underground hip hop,video game music,2,45.0,1838087.5
+russian alt pop,russian pop,2,36.0,1627155.5
+russian electronic,russian pop,2,36.0,1627155.5
+aesthetic rap,east coast hip hop,2,64.0,123631.0
+aesthetic rap,hip hop,2,64.0,123631.0
+aesthetic rap,rap,2,64.0,123631.0
+aesthetic rap,trap,2,64.0,123631.0
+cloud rap,east coast hip hop,2,64.0,123631.0
+cloud rap,hip hop,2,64.0,123631.0
+cloud rap,rap,2,64.0,123631.0
+cloud rap,trap,2,64.0,123631.0
+east coast hip hop,florida rap,2,64.0,123631.0
+florida rap,hip hop,2,64.0,123631.0
+florida rap,rap,2,64.0,123631.0
+florida rap,trap,2,64.0,123631.0
+east coast hip hop,underground hip hop,2,64.0,123631.0
+hip hop,underground hip hop,2,64.0,123631.0
+rap,underground hip hop,2,64.0,123631.0
+trap,underground hip hop,2,64.0,123631.0
+russian hip hop,russian indie,2,45.0,54932.0
+canadian contemporary r&b,hip hop,2,69.0,32275.0
+canadian pop,hip hop,2,69.0,32275.0
+pop,pop rap,2,71.5,52706.5
+canadian contemporary r&b,rap,2,69.0,32275.0
+canadian pop,rap,2,69.0,32275.0
+dance pop,rock,2,78.5,87470.0
+rock,uk pop,2,70.5,51695.5
+k-pop,pop,2,70.0,254632.0
+russian alt pop,russian drain,2,37.5,1404071.0
+hard bass,russian alt pop,2,24.5,345626.0
+russian alt pop,russian alt pop,2,54.0,1783155.0
+hard bass,russian rave,2,25.5,1108951.5
+russian rave,russian rave,2,25.5,1108951.5
+gangster rap,hip hop,2,70.5,28080.0
+atl hip hop,hip hop,2,78.0,37831.0
+hip hop,melodic rap,2,78.0,37831.0
+atl hip hop,southern hip hop,2,78.0,37831.0
+melodic rap,southern hip hop,2,78.0,37831.0
+southern hip hop,trap,2,78.0,37831.0
+atl hip hop,atl trap,2,78.0,37831.0
+atl hip hop,gangster rap,2,78.0,37831.0
+atl trap,trap,2,78.0,37831.0
+gangster rap,trap,2,78.0,37831.0
+russian hip hop,russian hyperpop,2,58.0,3686449.0
+pop,russian hip hop,2,48.0,1002590.0
+russian hip hop,singer-songwriter pop,2,48.0,1002590.0
+russian hip hop,uk pop,2,48.0,1002590.0
+russian edm,russian pop,2,51.0,454063.0
+russian emo rap,russian grime,2,50.0,1389405.0
+russian grime,russian trap,2,50.0,1389405.0
+crunk,drift phonk,2,72.0,1558103.5
+drift phonk,memphis hip hop,2,72.0,1558103.5
+russian alt pop,russian underground rap,2,40.5,1487610.0
+central asian hip hop,russian trap,2,61.0,917825.0
+russian hip hop,russian viral rap,2,50.0,117138.5
+kazakh hip hop,russian dance,2,0.0,50132.0
+kazakh pop,russian dance,2,0.0,50132.0
+russian dance,russian gangster rap,2,0.0,50132.0
+russian indie,russian trap,1,45.0,54932.0
+russian rave,russian trap,1,45.0,54932.0
+canadian contemporary r&b,new orleans rap,1,70.0,19536.0
+canadian pop,new orleans rap,1,70.0,19536.0
+new orleans rap,pop,1,70.0,19536.0
+canadian contemporary r&b,pop rap,1,70.0,19536.0
+canadian pop,pop rap,1,70.0,19536.0
+canadian contemporary r&b,trap,1,70.0,19536.0
+canadian pop,trap,1,70.0,19536.0
+dance pop,glam rock,1,73.0,73855.0
+dance pop,mellow gold,1,73.0,73855.0
+dance pop,piano rock,1,73.0,73855.0
+glam rock,pop,1,73.0,73855.0
+mellow gold,pop,1,73.0,73855.0
+piano rock,pop,1,73.0,73855.0
+glam rock,uk pop,1,73.0,73855.0
+mellow gold,uk pop,1,73.0,73855.0
+piano rock,uk pop,1,73.0,73855.0
+alternative dance,dance pop,1,73.0,73855.0
+aussietronica,dance pop,1,73.0,73855.0
+australian dance,dance pop,1,73.0,73855.0
+australian electropop,dance pop,1,73.0,73855.0
+alternative dance,pop,1,73.0,73855.0
+aussietronica,pop,1,73.0,73855.0
+australian dance,pop,1,73.0,73855.0
+australian electropop,pop,1,73.0,73855.0
+alternative dance,uk pop,1,73.0,73855.0
+aussietronica,uk pop,1,73.0,73855.0
+australian dance,uk pop,1,73.0,73855.0
+australian electropop,uk pop,1,73.0,73855.0
+alternative dance,glam rock,1,73.0,73855.0
+aussietronica,glam rock,1,73.0,73855.0
+australian dance,glam rock,1,73.0,73855.0
+australian electropop,glam rock,1,73.0,73855.0
+alternative dance,mellow gold,1,73.0,73855.0
+aussietronica,mellow gold,1,73.0,73855.0
+australian dance,mellow gold,1,73.0,73855.0
+australian electropop,mellow gold,1,73.0,73855.0
+alternative dance,piano rock,1,73.0,73855.0
+aussietronica,piano rock,1,73.0,73855.0
+australian dance,piano rock,1,73.0,73855.0
+australian electropop,piano rock,1,73.0,73855.0
+alternative dance,rock,1,73.0,73855.0
+aussietronica,rock,1,73.0,73855.0
+australian dance,rock,1,73.0,73855.0
+australian electropop,rock,1,73.0,73855.0
+k-pop,permanent wave,1,84.0,488087.0
+k-pop boy group,permanent wave,1,84.0,488087.0
+k-pop boy group,pop,1,84.0,488087.0
+permanent wave,pop,1,84.0,488087.0
+central asian hip hop,russian pop,1,55.0,18740.0
+russian drain,russian pop,1,52.0,2714256.0
+russian emo rap,zhenskiy rep,1,42.0,139823.0
+russian alt pop,russian electronic,1,49.0,622267.0
+russian electronic,russian rave,1,49.0,622267.0
+atl trap,hip hop,1,78.0,37831.0
+atl trap,southern hip hop,1,78.0,37831.0
+gangster rap,southern hip hop,1,78.0,37831.0
+atl trap,melodic rap,1,78.0,37831.0
+gangster rap,melodic rap,1,78.0,37831.0
+melodic rap,melodic rap,1,78.0,37831.0
+drift phonk,wave,1,78.0,1656471.0
+hyperpop,russian hip hop,1,57.0,3730208.0
+estonian hip hop,ukrainian hip hop,1,67.0,114898.0
+russian hip hop,ukrainian hip hop,1,67.0,114898.0
+russian trap,ukrainian hip hop,1,67.0,114898.0
+ukrainian hip hop,uzbek pop,1,67.0,114898.0
+pop,russian trap,1,48.0,1002590.0
+russian trap,singer-songwriter pop,1,48.0,1002590.0
+russian trap,uk pop,1,48.0,1002590.0
+russian hyperpop,russian hyperpop,1,54.0,217416.0
+dance pop,hip hop,1,73.0,85877.0
+dance pop,pop rap,1,73.0,85877.0
+dance pop,rap,1,73.0,85877.0
+dance pop,trap,1,73.0,85877.0
+g-house,russian pop,1,46.0,19113.0
+pop edm,russian pop,1,46.0,19113.0
+russian dance,russian edm,1,56.0,889013.0
+russian edm,russian hip hop,1,56.0,889013.0
+russian dance pop,russian pop,1,48.0,1598276.0
+k-pop,k-pop,1,56.0,21177.0
+k-pop,k-pop boy group,1,56.0,21177.0
+atl hip hop,hip pop,1,66.0,21589.0
+atl hip hop,pop,1,66.0,21589.0
+atl hip hop,queens hip hop,1,66.0,21589.0
+atl trap,hip pop,1,66.0,21589.0
+atl trap,pop,1,66.0,21589.0
+atl trap,queens hip hop,1,66.0,21589.0
+hip pop,rap,1,66.0,21589.0
+queens hip hop,rap,1,66.0,21589.0
+hip pop,trap,1,66.0,21589.0
+queens hip hop,trap,1,66.0,21589.0
+melodic metalcore,pop,1,68.0,29536.0
+melodic metalcore,singer-songwriter pop,1,68.0,29536.0
+melodic metalcore,uk pop,1,68.0,29536.0
+metalcore,pop,1,68.0,29536.0
+metalcore,singer-songwriter pop,1,68.0,29536.0
+metalcore,uk pop,1,68.0,29536.0
+modern rock,pop,1,68.0,29536.0
+modern rock,singer-songwriter pop,1,68.0,29536.0
+modern rock,uk pop,1,68.0,29536.0
+pop,pop punk,1,68.0,29536.0
+pop punk,singer-songwriter pop,1,68.0,29536.0
+pop punk,uk pop,1,68.0,29536.0
+rock,singer-songwriter pop,1,68.0,29536.0
+pop,uk metalcore,1,68.0,29536.0
+singer-songwriter pop,uk metalcore,1,68.0,29536.0
+uk metalcore,uk pop,1,68.0,29536.0
+chill phonk,crunk,1,69.0,1850863.0
+chill phonk,memphis hip hop,1,69.0,1850863.0
+chill phonk,phonk,1,69.0,1850863.0
+hard bass,russian hip hop,1,2.0,1595636.0
+atl hip hop,pop dance,1,84.0,193425.0
+girl group,pop dance,1,84.0,193425.0
+hip pop,pop dance,1,84.0,193425.0
+pop dance,r&b,1,84.0,193425.0
+pop dance,southern hip hop,1,84.0,193425.0
+pop dance,urban contemporary,1,84.0,193425.0
+atl hip hop,tech house,1,84.0,193425.0
+girl group,tech house,1,84.0,193425.0
+hip pop,tech house,1,84.0,193425.0
+r&b,tech house,1,84.0,193425.0
+southern hip hop,tech house,1,84.0,193425.0
+tech house,urban contemporary,1,84.0,193425.0
+classic russian rock,russian viral pop,1,47.0,2983382.0
+classic russian rock,russian viral rap,1,47.0,2983382.0
+russian punk,russian viral pop,1,47.0,2983382.0
+russian punk,russian viral rap,1,47.0,2983382.0
+russian rock,russian viral pop,1,47.0,2983382.0
+russian rock,russian viral rap,1,47.0,2983382.0
+aesthetic rap,drift phonk,1,68.0,1266973.0
+drift phonk,drift phonk,1,68.0,1266973.0
+central asian hip hop,kazakh hip hop,1,61.0,1820357.0
+kazakh hip hop,kazakh hip hop,1,61.0,1820357.0
+russian drain,zxc,1,53.0,2154492.0
+russian trap,russian viral rap,1,57.0,149524.0
+hard bass,russian underground rap,1,0.0,68985.0
+russian rave,russian underground rap,1,0.0,68985.0
+chicago rap,gangster rap,1,63.0,18329.0
+chicago rap,hip hop,1,63.0,18329.0
+chicago rap,pop rap,1,63.0,18329.0
+chicago rap,rap,1,63.0,18329.0
+chicago rap,southern hip hop,1,63.0,18329.0
+chicago rap,trap,1,63.0,18329.0
+hip hop,hip hop,1,63.0,18329.0
+hip hop,pop rap,1,63.0,18329.0
+hip hop,southern hip hop,1,63.0,18329.0
+pop rap,rap,1,63.0,18329.0
+russian alt pop,russian viral pop,1,44.0,4711444.0
+russian pop,russian viral pop,1,44.0,4711444.0
+russian electronic,russian trap,1,46.0,812657.0
+russian witch house,viral rap,1,46.0,24071.0
+viral rap,witch house,1,46.0,24071.0
+hyperpop,pink noise,1,77.0,1379632.0
+hyperpop,scenecore,1,77.0,1379632.0
+pink noise,pov: indie,1,77.0,1379632.0
+pov: indie,scenecore,1,77.0,1379632.0
+pink noise,sped up,1,77.0,1379632.0
+scenecore,sped up,1,77.0,1379632.0
+deep underground hip hop,lgbtq+ hip hop,1,81.0,2230169.0
+kentucky hip hop,lgbtq+ hip hop,1,81.0,2230169.0
+lgbtq+ hip hop,pop rap,1,81.0,2230169.0
+lgbtq+ hip hop,rap,1,81.0,2230169.0
+australian hip hop,canadian pop,1,35.0,2728098.0
+australian hip hop,pop,1,35.0,2728098.0
+melodic metalcore,russian witch house,1,53.0,828027.0
+melodic metalcore,witch house,1,53.0,828027.0
+metalcore,russian witch house,1,53.0,828027.0
+metalcore,witch house,1,53.0,828027.0
+modern rock,russian witch house,1,53.0,828027.0
+modern rock,witch house,1,53.0,828027.0
+pop punk,russian witch house,1,53.0,828027.0
+pop punk,witch house,1,53.0,828027.0
+rock,russian witch house,1,53.0,828027.0
+rock,witch house,1,53.0,828027.0
+russian witch house,uk metalcore,1,53.0,828027.0
+uk metalcore,witch house,1,53.0,828027.0
+belarusian hip hop,russian underground rap,1,22.0,31177.0
+russian alt pop,russian hyperpop,1,23.0,93886.0
+russian drain,russian indie rock,1,23.0,93886.0
+russian hyperpop,russian indie rock,1,23.0,93886.0
+kazakh hip hop,russian gangster rap,1,0.0,50132.0
+kazakh pop,russian gangster rap,1,0.0,50132.0
+disco,electro,1,84.0,101085.0
+disco,filter house,1,84.0,101085.0
+disco,rock,1,84.0,101085.0
+dance pop,electro,1,84.0,101085.0
+electro,pop,1,84.0,101085.0
+dance pop,filter house,1,84.0,101085.0
+filter house,pop,1,84.0,101085.0
+dance pop,disco,1,84.0,101085.0
+disco,pop,1,84.0,101085.0
+big room,pop,1,84.0,60045.0
+brostep,pop,1,84.0,60045.0
+dutch edm,pop,1,84.0,60045.0
+edm,pop,1,84.0,60045.0
+house,pop,1,84.0,60045.0
+pop,pop dance,1,84.0,60045.0
+pop,slap house,1,84.0,60045.0
+pop,trance,1,84.0,60045.0

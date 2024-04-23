@@ -1,0 +1,188 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+movie tunes,movie tunes,15,78.0,1449839.0
+indonesian pop,indonesian pop,12,56.7,6015837.1
+indonesian jazz,indonesian pop,8,47.666666666666664,3261936.3333333335
+pop,pop,6,80.33333333333333,4626791.0
+indonesian edm,indonesian edm,6,64.0,5016406.0
+hip hop,pop,5,35.6,2244072.0
+pop,rap,5,52.8,2391141.0
+modern salsa,movie tunes,5,78.0,1449839.0
+movie tunes,salsa colombiana,5,78.0,1449839.0
+hollywood,movie tunes,5,78.0,1449839.0
+dance pop,neo soul,4,1.0,1780799.0
+neo soul,pop,4,1.0,1780799.0
+indonesian edm,indonesian hip hop,4,64.0,5016406.0
+k-pop,pop,3,56.0,2499568.3333333335
+dance pop,pop,3,76.66666666666667,5593219.333333333
+indonesian pop,indonesian singer-songwriter,3,37.5,1930215.0
+dance pop,escape room,2,1.0,1780799.0
+escape room,pop,2,1.0,1780799.0
+dance pop,hip hop,2,1.0,1780799.0
+dance pop,indie soul,2,1.0,1780799.0
+indie soul,pop,2,1.0,1780799.0
+escape room,neo soul,2,1.0,1780799.0
+hip hop,neo soul,2,1.0,1780799.0
+indie soul,neo soul,2,1.0,1780799.0
+neo soul,neo soul,2,1.0,1780799.0
+hip hop,modern rock,2,45.0,2020801.0
+modern rock,rap,2,45.0,2020801.0
+modern rock,underground hip hop,2,45.0,2020801.0
+pop,underground hip hop,2,45.0,2020801.0
+hip hop,rock,2,45.0,2020801.0
+rap,rock,2,45.0,2020801.0
+rock,underground hip hop,2,45.0,2020801.0
+modern rock,speedrun,2,45.0,2020801.0
+modern rock,video game music,2,45.0,2020801.0
+pop,speedrun,2,45.0,2020801.0
+pop,video game music,2,45.0,2020801.0
+rock,speedrun,2,45.0,2020801.0
+rock,video game music,2,45.0,2020801.0
+hip hop,speedrun,2,45.0,2020801.0
+hip hop,video game music,2,45.0,2020801.0
+rap,speedrun,2,45.0,2020801.0
+rap,video game music,2,45.0,2020801.0
+speedrun,underground hip hop,2,45.0,2020801.0
+underground hip hop,video game music,2,45.0,2020801.0
+k-pop boy group,pop,2,82.0,3667087.5
+canadian pop,pop,2,76.0,2853191.5
+indonesian indie,indonesian pop,2,74.0,11382697.0
+pop,uk pop,2,75.5,6026866.0
+canadian contemporary r&b,r&b,2,78.5,2451311.0
+pop,r&b,2,84.5,3069032.0
+dangdut,javanese dangdut,2,70.0,502910.0
+dangdut,lagu jawa,2,70.0,502910.0
+javanese dangdut,lagu jawa,2,70.0,502910.0
+chicago rap,k-pop,2,4.0,164530.0
+k-pop,melodic rap,2,4.0,164530.0
+k-pop,rap,2,4.0,164530.0
+indonesian jazz,indonesian jazz,2,37.5,1930215.0
+indonesian jazz,indonesian singer-songwriter,2,37.5,1930215.0
+dance pop,glam rock,1,73.0,2971526.0
+dance pop,mellow gold,1,73.0,2971526.0
+dance pop,piano rock,1,73.0,2971526.0
+dance pop,rock,1,73.0,2971526.0
+glam rock,pop,1,73.0,2971526.0
+mellow gold,pop,1,73.0,2971526.0
+piano rock,pop,1,73.0,2971526.0
+pop,rock,1,73.0,2971526.0
+glam rock,uk pop,1,73.0,2971526.0
+mellow gold,uk pop,1,73.0,2971526.0
+piano rock,uk pop,1,73.0,2971526.0
+rock,uk pop,1,73.0,2971526.0
+alternative dance,dance pop,1,73.0,2971526.0
+aussietronica,dance pop,1,73.0,2971526.0
+australian dance,dance pop,1,73.0,2971526.0
+australian electropop,dance pop,1,73.0,2971526.0
+alternative dance,pop,1,73.0,2971526.0
+aussietronica,pop,1,73.0,2971526.0
+australian dance,pop,1,73.0,2971526.0
+australian electropop,pop,1,73.0,2971526.0
+alternative dance,uk pop,1,73.0,2971526.0
+aussietronica,uk pop,1,73.0,2971526.0
+australian dance,uk pop,1,73.0,2971526.0
+australian electropop,uk pop,1,73.0,2971526.0
+alternative dance,glam rock,1,73.0,2971526.0
+aussietronica,glam rock,1,73.0,2971526.0
+australian dance,glam rock,1,73.0,2971526.0
+australian electropop,glam rock,1,73.0,2971526.0
+alternative dance,mellow gold,1,73.0,2971526.0
+aussietronica,mellow gold,1,73.0,2971526.0
+australian dance,mellow gold,1,73.0,2971526.0
+australian electropop,mellow gold,1,73.0,2971526.0
+alternative dance,piano rock,1,73.0,2971526.0
+aussietronica,piano rock,1,73.0,2971526.0
+australian dance,piano rock,1,73.0,2971526.0
+australian electropop,piano rock,1,73.0,2971526.0
+alternative dance,rock,1,73.0,2971526.0
+aussietronica,rock,1,73.0,2971526.0
+australian dance,rock,1,73.0,2971526.0
+australian electropop,rock,1,73.0,2971526.0
+k-pop,permanent wave,1,84.0,7292251.0
+k-pop boy group,permanent wave,1,84.0,7292251.0
+permanent wave,pop,1,84.0,7292251.0
+alt z,neo soul,1,69.0,1465957.0
+alt z,pop,1,69.0,1465957.0
+alt z,pop soul,1,69.0,1465957.0
+alt z,urban contemporary,1,69.0,1465957.0
+canadian pop,neo soul,1,69.0,1465957.0
+canadian pop,pop soul,1,69.0,1465957.0
+canadian pop,urban contemporary,1,69.0,1465957.0
+indonesian pop,malaysian pop,1,82.0,6125610.0
+boy band,latin pop,1,64.0,3350061.0
+boy band,latin viral pop,1,64.0,3350061.0
+boy band,mexican pop,1,64.0,3350061.0
+asian american hip hop,indonesian r&b,1,73.0,3128893.0
+dance pop,girl group,1,78.0,10354534.0
+dance pop,talent show,1,78.0,10354534.0
+dance pop,uk pop,1,78.0,10354534.0
+girl group,pop,1,78.0,10354534.0
+pop,talent show,1,78.0,10354534.0
+canadian pop,contemporary country,1,73.0,40103.0
+contemporary country,pop,1,73.0,40103.0
+canadian pop,country,1,73.0,40103.0
+country,pop,1,73.0,40103.0
+canadian pop,country road,1,73.0,40103.0
+country road,pop,1,73.0,40103.0
+canadian contemporary r&b,canadian pop,1,85.0,2005651.0
+canadian contemporary r&b,pop,1,85.0,2005651.0
+canadian pop,r&b,1,85.0,2005651.0
+pop,singer-songwriter pop,1,73.0,1699198.0
+electropop,k-pop,1,80.0,41924.0
+etherpop,k-pop,1,80.0,41924.0
+indie poptimism,k-pop,1,80.0,41924.0
+electropop,k-pop boy group,1,80.0,41924.0
+etherpop,k-pop boy group,1,80.0,41924.0
+indie poptimism,k-pop boy group,1,80.0,41924.0
+electropop,pop,1,80.0,41924.0
+etherpop,pop,1,80.0,41924.0
+indie poptimism,pop,1,80.0,41924.0
+dance pop,r&b,1,84.0,4132413.0
+dance pop,rap,1,84.0,4132413.0
+bandung indie,indonesian pop,1,84.0,17541552.0
+indonesian folk pop,indonesian pop,1,84.0,17541552.0
+indonesian pop,indonesian pop punk,1,84.0,17541552.0
+electro house,k-pop,1,75.0,676060.0
+electro house,k-pop boy group,1,75.0,676060.0
+alt z,electro house,1,75.0,676060.0
+electro house,modern indie pop,1,75.0,676060.0
+alt z,k-pop,1,75.0,676060.0
+k-pop,modern indie pop,1,75.0,676060.0
+alt z,k-pop boy group,1,75.0,676060.0
+k-pop boy group,modern indie pop,1,75.0,676060.0
+edm,pop,1,68.0,2292711.0
+electro house,pop,1,68.0,2292711.0
+electropowerpop,pop,1,68.0,2292711.0
+pop,pop dance,1,68.0,2292711.0
+canadian contemporary r&b,rap,1,72.0,2896971.0
+edm,swedish pop,1,81.0,2284124.0
+pop,swedish pop,1,81.0,2284124.0
+pop dance,swedish pop,1,81.0,2284124.0
+deep underground hip hop,lgbtq+ hip hop,1,81.0,5716868.0
+kentucky hip hop,lgbtq+ hip hop,1,81.0,5716868.0
+lgbtq+ hip hop,pop rap,1,81.0,5716868.0
+lgbtq+ hip hop,rap,1,81.0,5716868.0
+australian hip hop,canadian pop,1,35.0,11364589.0
+australian hip hop,pop,1,35.0,11364589.0
+german underground rap,uk pop,1,43.0,3696774.0
+hollywood,modern salsa,1,78.0,1449839.0
+hollywood,salsa colombiana,1,78.0,1449839.0
+canadian hip hop,indonesian hip hop,1,72.0,453308.0
+dark trap,indonesian hip hop,1,72.0,453308.0
+indonesian hip hop,meme rap,1,72.0,453308.0
+dangdut,dangdut,1,70.0,502910.0
+javanese dangdut,javanese dangdut,1,70.0,502910.0
+lagu jawa,lagu jawa,1,70.0,502910.0
+indonesian city pop,indonesian jazz,1,68.0,5925379.0
+indonesian city pop,indonesian pop,1,68.0,5925379.0
+chicago rap,k-pop boy group,1,4.0,164530.0
+k-pop boy group,melodic rap,1,4.0,164530.0
+k-pop boy group,rap,1,4.0,164530.0
+chicago rap,pop,1,4.0,164530.0
+melodic rap,pop,1,4.0,164530.0
+k-pop,k-pop,1,4.0,164530.0
+k-pop,k-pop boy group,1,4.0,164530.0
+pittsburgh rap,pop,1,86.0,3617160.0
+pop,pop rap,1,86.0,3617160.0
+pop,southern hip hop,1,86.0,3617160.0
+pop,trap,1,86.0,3617160.0
+indonesian pop,indonesian pop rock,1,62.0,9705479.0

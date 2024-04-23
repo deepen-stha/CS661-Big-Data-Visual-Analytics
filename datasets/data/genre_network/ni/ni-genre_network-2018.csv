@@ -1,0 +1,416 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+reggaeton,urbano latino,221,51.05882352941177,2603.6176470588234
+trap latino,urbano latino,194,53.67741935483871,2626.3870967741937
+reggaeton,trap latino,186,50.7,2717.0666666666666
+urbano latino,urbano latino,115,52.60606060606061,2579.757575757576
+reggaeton,reggaeton,106,49.12903225806452,2696.9032258064517
+trap latino,trap latino,83,48.80952380952381,2774.7619047619046
+latin hip hop,urbano latino,48,47.357142857142854,2506.8571428571427
+latin hip hop,reggaeton,46,47.357142857142854,2506.8571428571427
+latin hip hop,trap latino,43,47.357142857142854,2506.8571428571427
+reggaeton flow,urbano latino,38,50.833333333333336,3649.5
+reggaeton,reggaeton flow,34,50.833333333333336,3649.5
+puerto rican pop,reggaeton,33,47.57142857142857,2901.4285714285716
+puerto rican pop,urbano latino,33,53.93333333333333,2701.733333333333
+latin pop,urbano latino,32,60.05,2742.5
+reggaeton flow,trap latino,30,50.833333333333336,3649.5
+latin pop,reggaeton,30,59.526315789473685,2801.4736842105262
+puerto rican pop,trap latino,27,51.2,2756.9
+latin pop,trap latino,24,61.8235294117647,2840.3529411764707
+reggaeton colombiano,urbano latino,19,52.833333333333336,2833.75
+reggaeton,reggaeton colombiano,18,52.833333333333336,2833.75
+reggaeton colombiano,trap latino,14,53.125,3442.75
+bachata,reggaeton,11,73.4,2895.8
+bachata,urbano latino,11,73.4,2895.8
+rap latina,urbano latino,11,59.5,2590.1666666666665
+bachata,trap latino,10,73.4,2895.8
+rap latina,trap latino,10,59.5,2590.1666666666665
+latin hip hop,reggaeton flow,9,45.4,3248.4
+rap latina,reggaeton,9,57.4,2783.8
+reggaeton,trap argentino,9,35.0,1336.0
+trap argentino,urbano latino,9,35.0,1336.0
+latin hip hop,puerto rican pop,8,48.333333333333336,1793.0
+pop,reggaeton,8,47.6,2771.0
+pop,trap latino,8,47.6,2771.0
+pop,urbano latino,8,47.6,2771.0
+colombian pop,reggaeton,8,60.714285714285715,2633.714285714286
+colombian pop,urbano latino,8,60.714285714285715,2633.714285714286
+trap argentino,trap latino,8,0.0,1050.0
+latin pop,reggaeton colombiano,7,50.714285714285715,3253.4285714285716
+colombian pop,latin pop,7,46.833333333333336,2682.1666666666665
+rap,reggaeton,6,36.2,2905.8
+rap,trap latino,6,36.2,2905.8
+rap,urbano latino,6,36.2,2905.8
+latin pop,reggaeton flow,6,74.0,4499.5
+reggaeton,slovenian pop,6,0.0,2286.0
+slovenian pop,trap latino,6,0.0,2286.0
+slovenian pop,urbano latino,6,0.0,2286.0
+latin pop,puerto rican pop,5,56.8,2383.2
+pop,puerto rican pop,5,26.333333333333332,3345.0
+latin hip hop,latin hip hop,5,74.33333333333333,1736.0
+latin viral pop,urbano latino,5,70.33333333333333,2231.3333333333335
+argentine hip hop,reggaeton,5,35.0,1336.0
+argentine hip hop,urbano latino,5,35.0,1336.0
+pop,rap,5,59.75,2409.0
+reggaeton flow,reggaeton flow,4,56.5,4521.0
+puerto rican pop,reggaeton flow,4,52.333333333333336,3156.0
+bachata,reggaeton flow,4,74.0,4499.5
+latin pop,latin pop,4,56.0,2220.5
+mexican pop,reggaeton,4,21.666666666666668,2658.3333333333335
+mexican pop,urbano latino,4,21.666666666666668,2658.3333333333335
+latin viral pop,trap latino,4,70.33333333333333,2231.3333333333335
+colombian pop,trap latino,4,69.66666666666667,3472.3333333333335
+argentine hip hop,trap latino,4,0.0,1050.0
+reggaeton,trap boricua,4,0.0,1050.0
+trap boricua,trap latino,4,0.0,1050.0
+trap boricua,urbano latino,4,0.0,1050.0
+pop,pop,4,78.0,2315.5
+funk pop,reggaeton,3,26.0,3755.0
+funk pop,reggaeton colombiano,3,26.0,3755.0
+funk pop,urbano latino,3,26.0,3755.0
+pop,reggaeton colombiano,3,53.0,2698.3333333333335
+puerto rican pop,reggaeton colombiano,3,49.333333333333336,3510.3333333333335
+hip hop,reggaeton,3,29.0,2833.3333333333335
+hip hop,trap latino,3,29.0,2833.3333333333335
+hip hop,urbano latino,3,29.0,2833.3333333333335
+colombian pop,reggaeton colombiano,3,71.5,4437.0
+mexican pop,trap latino,3,21.666666666666668,2658.3333333333335
+latin arena pop,reggaeton,3,0.5,2291.0
+latin arena pop,urbano latino,3,0.5,2291.0
+latin viral pop,reggaeton,3,70.5,2536.0
+latin hip hop,latin pop,3,75.0,2250.5
+latin hip hop,reggaeton colombiano,3,25.0,3565.3333333333335
+bachata,puerto rican pop,2,71.5,1648.5
+puerto rican pop,rap,2,39.5,2880.0
+funk pop,trap latino,2,39.0,3334.0
+funk rj,reggaeton,2,39.0,3334.0
+funk rj,reggaeton colombiano,2,39.0,3334.0
+funk rj,trap latino,2,39.0,3334.0
+funk rj,urbano latino,2,39.0,3334.0
+pagode baiano,reggaeton,2,39.0,3334.0
+pagode baiano,reggaeton colombiano,2,39.0,3334.0
+pagode baiano,trap latino,2,39.0,3334.0
+pagode baiano,urbano latino,2,39.0,3334.0
+pop nacional,reggaeton,2,39.0,3334.0
+pop nacional,reggaeton colombiano,2,39.0,3334.0
+pop nacional,trap latino,2,39.0,3334.0
+pop nacional,urbano latino,2,39.0,3334.0
+rap dominicano,reggaeton,2,38.5,1460.0
+rap dominicano,trap latino,2,38.5,1460.0
+rap dominicano,urbano latino,2,38.5,1460.0
+funk carioca,reggaeton,2,0.0,3755.5
+funk ostentacao,reggaeton,2,0.0,3755.5
+funk carioca,reggaeton colombiano,2,0.0,3755.5
+funk ostentacao,reggaeton colombiano,2,0.0,3755.5
+funk carioca,urbano latino,2,0.0,3755.5
+funk ostentacao,urbano latino,2,0.0,3755.5
+colombian pop,colombian pop,2,71.5,4437.0
+reggaeton,vallenato,2,71.5,2468.5
+urbano latino,vallenato,2,71.5,2468.5
+latin arena pop,trap latino,2,0.5,2291.0
+rap,reggaeton colombiano,2,40.5,2170.5
+puerto rican pop,rap latina,2,39.0,2890.5
+rap latina,trap argentino,2,35.0,1336.0
+trap argentino,trap boricua,2,0.0,1050.0
+puerto rican pop,trap argentino,2,0.0,1050.0
+edm,reggaeton,2,74.0,2881.5
+edm,trap latino,2,74.0,2881.5
+edm,urbano latino,2,74.0,2881.5
+pop dance,reggaeton,2,74.0,2881.5
+pop dance,trap latino,2,74.0,2881.5
+pop dance,urbano latino,2,74.0,2881.5
+post-teen pop,puerto rican pop,2,39.5,3828.0
+edm,pop,2,79.0,3381.0
+electronic trap,pop,2,79.0,3381.0
+pop,pop dance,2,79.0,3381.0
+pop,post-teen pop,2,79.0,3381.0
+colombian pop,pop venezolano,2,69.0,1369.0
+pop venezolano,reggaeton,2,69.0,1369.0
+pop venezolano,reggaeton colombiano,2,69.0,1369.0
+pop venezolano,urbano latino,2,69.0,1369.0
+reggaeton colombiano,reggaeton colombiano,2,60.5,3519.0
+electro latino,reggaeton,2,0.0,2482.0
+electro latino,reggaeton colombiano,2,0.0,2482.0
+electro latino,trap latino,2,0.0,2482.0
+electro latino,urbano latino,2,0.0,2482.0
+reggaeton,spanish pop,2,0.0,2482.0
+reggaeton colombiano,spanish pop,2,0.0,2482.0
+spanish pop,trap latino,2,0.0,2482.0
+spanish pop,urbano latino,2,0.0,2482.0
+bachata,latin hip hop,2,76.0,2183.0
+atl hip hop,pop,2,41.5,2502.5
+pop,trap,2,41.5,2502.5
+latin viral pop,reggaeton flow,2,74.0,2318.0
+rap latina,reggaeton flow,2,74.0,2318.0
+reggaeton colombiano,reggaeton flow,2,74.0,6681.0
+funk carioca,latin pop,1,0.0,4597.0
+funk das antigas,latin pop,1,0.0,4597.0
+funk ostentacao,latin pop,1,0.0,4597.0
+funk pop,latin pop,1,0.0,4597.0
+latin pop,sertanejo universitario,1,0.0,4597.0
+funk das antigas,reggaeton,1,0.0,4597.0
+reggaeton,sertanejo universitario,1,0.0,4597.0
+funk das antigas,reggaeton colombiano,1,0.0,4597.0
+reggaeton colombiano,sertanejo universitario,1,0.0,4597.0
+funk das antigas,urbano latino,1,0.0,4597.0
+sertanejo universitario,urbano latino,1,0.0,4597.0
+canadian hip hop,reggaeton,1,21.0,4428.0
+canadian pop,reggaeton,1,21.0,4428.0
+reggaeton,toronto rap,1,21.0,4428.0
+canadian hip hop,trap latino,1,21.0,4428.0
+canadian pop,trap latino,1,21.0,4428.0
+toronto rap,trap latino,1,21.0,4428.0
+canadian hip hop,urbano latino,1,21.0,4428.0
+canadian pop,urbano latino,1,21.0,4428.0
+toronto rap,urbano latino,1,21.0,4428.0
+colombian pop,vallenato,1,78.0,2850.0
+latin pop,vallenato,1,78.0,2850.0
+reggaeton colombiano,vallenato,1,78.0,2850.0
+latin arena pop,puerto rican pop,1,1.0,2532.0
+mexican pop,puerto rican pop,1,1.0,2532.0
+colombian pop,latin hip hop,1,65.0,2087.0
+latin hip hop,vallenato,1,65.0,2087.0
+latin hip hop,vallenato moderno,1,65.0,2087.0
+reggaeton,vallenato moderno,1,65.0,2087.0
+trap latino,vallenato,1,65.0,2087.0
+trap latino,vallenato moderno,1,65.0,2087.0
+urbano latino,vallenato moderno,1,65.0,2087.0
+argentine hip hop,latin pop,1,70.0,1622.0
+latin pop,trap argentino,1,70.0,1622.0
+argentine hip hop,latin viral pop,1,70.0,1622.0
+latin viral pop,trap argentino,1,70.0,1622.0
+argentine hip hop,rap latina,1,70.0,1622.0
+argentine hip hop,trap argentino,1,0.0,1050.0
+trap argentino,trap argentino,1,0.0,1050.0
+argentine hip hop,trap boricua,1,0.0,1050.0
+rap latina,trap boricua,1,0.0,1050.0
+argentine hip hop,puerto rican pop,1,0.0,1050.0
+puerto rican pop,trap boricua,1,0.0,1050.0
+latin hip hop,slovenian pop,1,0.0,2286.0
+reggaeton flow,slovenian pop,1,0.0,2286.0
+puerto rican pop,slovenian pop,1,0.0,2286.0
+edm,rap,1,79.0,3381.0
+electronic trap,rap,1,79.0,3381.0
+pop dance,rap,1,79.0,3381.0
+post-teen pop,rap,1,79.0,3381.0
+edm,puerto rican pop,1,79.0,3381.0
+electronic trap,puerto rican pop,1,79.0,3381.0
+electronic trap,reggaeton,1,79.0,3381.0
+electronic trap,trap latino,1,79.0,3381.0
+electronic trap,urbano latino,1,79.0,3381.0
+pop dance,puerto rican pop,1,79.0,3381.0
+edm,post-teen pop,1,79.0,3381.0
+electronic trap,post-teen pop,1,79.0,3381.0
+pop dance,post-teen pop,1,79.0,3381.0
+post-teen pop,reggaeton,1,79.0,3381.0
+post-teen pop,trap latino,1,79.0,3381.0
+post-teen pop,urbano latino,1,79.0,3381.0
+dance pop,reggaeton,1,64.0,3393.0
+dance pop,trap latino,1,64.0,3393.0
+dance pop,urbano latino,1,64.0,3393.0
+latin pop,pop venezolano,1,72.0,1283.0
+latin arena pop,pop edm,1,0.0,2050.0
+latin pop,pop edm,1,0.0,2050.0
+mexican pop,pop edm,1,0.0,2050.0
+electro latino,pop edm,1,0.0,2050.0
+pop edm,spanish pop,1,0.0,2050.0
+colombian pop,pop edm,1,0.0,2050.0
+pop edm,reggaeton,1,0.0,2050.0
+pop edm,reggaeton colombiano,1,0.0,2050.0
+pop edm,trap latino,1,0.0,2050.0
+pop edm,urbano latino,1,0.0,2050.0
+electro latino,latin arena pop,1,0.0,2050.0
+latin arena pop,spanish pop,1,0.0,2050.0
+electro latino,latin pop,1,0.0,2050.0
+latin pop,spanish pop,1,0.0,2050.0
+electro latino,mexican pop,1,0.0,2050.0
+mexican pop,spanish pop,1,0.0,2050.0
+colombian pop,latin arena pop,1,0.0,2050.0
+latin arena pop,reggaeton colombiano,1,0.0,2050.0
+colombian pop,mexican pop,1,0.0,2050.0
+mexican pop,reggaeton colombiano,1,0.0,2050.0
+colombian pop,electro latino,1,0.0,2050.0
+colombian pop,spanish pop,1,0.0,2050.0
+electro house,reggaeton,1,69.0,2382.0
+moombahton,reggaeton,1,69.0,2382.0
+electro house,trap latino,1,69.0,2382.0
+moombahton,trap latino,1,69.0,2382.0
+electro house,urbano latino,1,69.0,2382.0
+moombahton,urbano latino,1,69.0,2382.0
+modern salsa,reggaeton,1,66.0,1158.0
+reggaeton,salsa,1,66.0,1158.0
+reggaeton,tropical,1,66.0,1158.0
+modern salsa,trap latino,1,66.0,1158.0
+salsa,trap latino,1,66.0,1158.0
+trap latino,tropical,1,66.0,1158.0
+modern salsa,urbano latino,1,66.0,1158.0
+salsa,urbano latino,1,66.0,1158.0
+tropical,urbano latino,1,66.0,1158.0
+pop rap,reggaeton,1,66.0,1158.0
+pop rap,trap latino,1,66.0,1158.0
+pop rap,urbano latino,1,66.0,1158.0
+hip hop,latin pop,1,66.0,1158.0
+latin pop,pop rap,1,66.0,1158.0
+hip hop,modern salsa,1,66.0,1158.0
+modern salsa,pop rap,1,66.0,1158.0
+hip hop,salsa,1,66.0,1158.0
+pop rap,salsa,1,66.0,1158.0
+hip hop,tropical,1,66.0,1158.0
+pop rap,tropical,1,66.0,1158.0
+funk pop,ritmo kombina,1,0.0,2651.0
+funk rj,ritmo kombina,1,0.0,2651.0
+pagode baiano,ritmo kombina,1,0.0,2651.0
+pop,ritmo kombina,1,0.0,2651.0
+pop nacional,ritmo kombina,1,0.0,2651.0
+reggaeton,ritmo kombina,1,0.0,2651.0
+reggaeton colombiano,ritmo kombina,1,0.0,2651.0
+ritmo kombina,trap latino,1,0.0,2651.0
+ritmo kombina,urbano latino,1,0.0,2651.0
+atl hip hop,dfw rap,1,0.0,2633.0
+atl hip hop,melodic rap,1,0.0,2633.0
+atl hip hop,rap,1,0.0,2633.0
+dfw rap,hip hop,1,0.0,2633.0
+hip hop,melodic rap,1,0.0,2633.0
+hip hop,pop,1,0.0,2633.0
+hip hop,rap,1,0.0,2633.0
+dfw rap,rap,1,0.0,2633.0
+melodic rap,rap,1,0.0,2633.0
+rap,rap,1,0.0,2633.0
+dfw rap,trap,1,0.0,2633.0
+melodic rap,trap,1,0.0,2633.0
+rap,trap,1,0.0,2633.0
+puerto rican pop,puerto rican pop,1,62.0,1356.0
+atl hip hop,reggaeton,1,0.0,2914.0
+atl hip hop,reggaeton colombiano,1,0.0,2914.0
+atl hip hop,trap latino,1,0.0,2914.0
+atl hip hop,urbano latino,1,0.0,2914.0
+hip hop,reggaeton colombiano,1,0.0,2914.0
+reggaeton,southern hip hop,1,0.0,2914.0
+reggaeton colombiano,southern hip hop,1,0.0,2914.0
+southern hip hop,trap latino,1,0.0,2914.0
+southern hip hop,urbano latino,1,0.0,2914.0
+reggaeton,trap,1,0.0,2914.0
+reggaeton colombiano,trap,1,0.0,2914.0
+trap,trap latino,1,0.0,2914.0
+trap,urbano latino,1,0.0,2914.0
+atl hip hop,electro latino,1,0.0,2914.0
+atl hip hop,spanish pop,1,0.0,2914.0
+electro latino,hip hop,1,0.0,2914.0
+hip hop,spanish pop,1,0.0,2914.0
+electro latino,rap,1,0.0,2914.0
+rap,spanish pop,1,0.0,2914.0
+electro latino,southern hip hop,1,0.0,2914.0
+southern hip hop,spanish pop,1,0.0,2914.0
+electro latino,trap,1,0.0,2914.0
+spanish pop,trap,1,0.0,2914.0
+atl hip hop,funk carioca,1,0.0,2914.0
+atl hip hop,funk ostentacao,1,0.0,2914.0
+atl hip hop,funk paulista,1,0.0,2914.0
+funk carioca,hip hop,1,0.0,2914.0
+funk ostentacao,hip hop,1,0.0,2914.0
+funk paulista,hip hop,1,0.0,2914.0
+funk carioca,rap,1,0.0,2914.0
+funk ostentacao,rap,1,0.0,2914.0
+funk paulista,rap,1,0.0,2914.0
+funk carioca,southern hip hop,1,0.0,2914.0
+funk ostentacao,southern hip hop,1,0.0,2914.0
+funk paulista,southern hip hop,1,0.0,2914.0
+funk carioca,trap,1,0.0,2914.0
+funk ostentacao,trap,1,0.0,2914.0
+funk paulista,trap,1,0.0,2914.0
+atl hip hop,dancehall,1,0.0,2914.0
+atl hip hop,dancehall queen,1,0.0,2914.0
+atl hip hop,uk dancehall,1,0.0,2914.0
+atl hip hop,uk hip hop,1,0.0,2914.0
+dancehall,hip hop,1,0.0,2914.0
+dancehall queen,hip hop,1,0.0,2914.0
+hip hop,uk dancehall,1,0.0,2914.0
+hip hop,uk hip hop,1,0.0,2914.0
+dancehall,rap,1,0.0,2914.0
+dancehall queen,rap,1,0.0,2914.0
+rap,uk dancehall,1,0.0,2914.0
+rap,uk hip hop,1,0.0,2914.0
+dancehall,southern hip hop,1,0.0,2914.0
+dancehall queen,southern hip hop,1,0.0,2914.0
+southern hip hop,uk dancehall,1,0.0,2914.0
+southern hip hop,uk hip hop,1,0.0,2914.0
+dancehall,trap,1,0.0,2914.0
+dancehall queen,trap,1,0.0,2914.0
+trap,uk dancehall,1,0.0,2914.0
+trap,uk hip hop,1,0.0,2914.0
+funk paulista,reggaeton,1,0.0,2914.0
+funk paulista,reggaeton colombiano,1,0.0,2914.0
+funk carioca,trap latino,1,0.0,2914.0
+funk ostentacao,trap latino,1,0.0,2914.0
+funk paulista,trap latino,1,0.0,2914.0
+funk paulista,urbano latino,1,0.0,2914.0
+dancehall,reggaeton,1,0.0,2914.0
+dancehall queen,reggaeton,1,0.0,2914.0
+reggaeton,uk dancehall,1,0.0,2914.0
+reggaeton,uk hip hop,1,0.0,2914.0
+dancehall,reggaeton colombiano,1,0.0,2914.0
+dancehall queen,reggaeton colombiano,1,0.0,2914.0
+reggaeton colombiano,uk dancehall,1,0.0,2914.0
+reggaeton colombiano,uk hip hop,1,0.0,2914.0
+dancehall,trap latino,1,0.0,2914.0
+dancehall queen,trap latino,1,0.0,2914.0
+trap latino,uk dancehall,1,0.0,2914.0
+trap latino,uk hip hop,1,0.0,2914.0
+dancehall,urbano latino,1,0.0,2914.0
+dancehall queen,urbano latino,1,0.0,2914.0
+uk dancehall,urbano latino,1,0.0,2914.0
+uk hip hop,urbano latino,1,0.0,2914.0
+electro latino,funk carioca,1,0.0,2914.0
+electro latino,funk ostentacao,1,0.0,2914.0
+electro latino,funk paulista,1,0.0,2914.0
+funk carioca,spanish pop,1,0.0,2914.0
+funk ostentacao,spanish pop,1,0.0,2914.0
+funk paulista,spanish pop,1,0.0,2914.0
+dancehall,electro latino,1,0.0,2914.0
+dancehall queen,electro latino,1,0.0,2914.0
+electro latino,uk dancehall,1,0.0,2914.0
+electro latino,uk hip hop,1,0.0,2914.0
+dancehall,spanish pop,1,0.0,2914.0
+dancehall queen,spanish pop,1,0.0,2914.0
+spanish pop,uk dancehall,1,0.0,2914.0
+spanish pop,uk hip hop,1,0.0,2914.0
+dancehall,funk carioca,1,0.0,2914.0
+dancehall queen,funk carioca,1,0.0,2914.0
+funk carioca,uk dancehall,1,0.0,2914.0
+funk carioca,uk hip hop,1,0.0,2914.0
+dancehall,funk ostentacao,1,0.0,2914.0
+dancehall queen,funk ostentacao,1,0.0,2914.0
+funk ostentacao,uk dancehall,1,0.0,2914.0
+funk ostentacao,uk hip hop,1,0.0,2914.0
+dancehall,funk paulista,1,0.0,2914.0
+dancehall queen,funk paulista,1,0.0,2914.0
+funk paulista,uk dancehall,1,0.0,2914.0
+funk paulista,uk hip hop,1,0.0,2914.0
+latin pop,pop,1,0.0,4275.0
+latin pop,post-teen pop,1,0.0,4275.0
+colombian hip hop,reggaeton,1,56.0,1014.0
+colombian hip hop,reggaeton colombiano,1,56.0,1014.0
+colombian hip hop,trap latino,1,56.0,1014.0
+colombian hip hop,urbano latino,1,56.0,1014.0
+dembow,reggaeton,1,77.0,1904.0
+dembow,trap latino,1,77.0,1904.0
+dembow,urbano latino,1,77.0,1904.0
+colombian pop,puerto rican pop,1,79.0,2306.0
+bachata,latin pop,1,74.0,2318.0
+bachata,latin viral pop,1,74.0,2318.0
+latin hip hop,latin viral pop,1,74.0,2318.0
+latin pop,latin viral pop,1,74.0,2318.0
+bachata,rap latina,1,74.0,2318.0
+latin hip hop,rap latina,1,74.0,2318.0
+latin pop,rap latina,1,74.0,2318.0
+atl hip hop,dance pop,1,83.0,2372.0
+atl trap,dance pop,1,83.0,2372.0
+dance pop,gangster rap,1,83.0,2372.0
+dance pop,melodic rap,1,83.0,2372.0
+dance pop,rap,1,83.0,2372.0
+dance pop,trap,1,83.0,2372.0
+atl trap,pop,1,83.0,2372.0
+gangster rap,pop,1,83.0,2372.0
+melodic rap,pop,1,83.0,2372.0
+pop venezolano,trap latino,1,66.0,1455.0
+bachata,reggaeton colombiano,1,74.0,6681.0

@@ -1,0 +1,782 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+trap latino,urbano latino,482,73.33333333333333,424201.3466666667
+reggaeton,urbano latino,477,74.24657534246575,407682.38356164383
+reggaeton,trap latino,408,74.30434782608695,397201.6231884058
+urbano latino,urbano latino,283,73.25974025974025,417414.4675324675
+reggaeton,reggaeton,210,73.70689655172414,396264.3793103448
+trap latino,trap latino,205,73.14925373134328,410960.0895522388
+reggaeton flow,urbano latino,115,73.55,265419.1
+reggaeton,reggaeton flow,103,73.55,265419.1
+reggaeton flow,trap latino,98,73.88888888888889,276809.3888888889
+reggaeton colombiano,urbano latino,83,71.62962962962963,316712.74074074073
+trap argentino,urbano latino,74,68.27777777777777,381970.8333333333
+reggaeton colombiano,trap latino,64,71.29166666666667,306011.375
+reggaeton,reggaeton colombiano,62,71.43478260869566,330863.4347826087
+trap argentino,trap latino,61,68.27777777777777,381970.8333333333
+reggaeton,trap argentino,48,71.33333333333333,358581.75
+latin hip hop,urbano latino,46,74.46153846153847,380185.46153846156
+latin hip hop,reggaeton,43,75.14285714285714,353435.0714285714
+latin hip hop,trap latino,41,74.46153846153847,380185.46153846156
+puerto rican pop,urbano latino,40,73.625,332737.125
+puerto rican pop,reggaeton,36,73.28571428571429,221211.35714285713
+puerto rican pop,trap latino,36,73.8,305646.0
+panamanian pop,urbano latino,30,71.3,470282.2
+argentine hip hop,urbano latino,30,66.8,355819.4
+panamanian pop,trap latino,27,71.3,470282.2
+argentine hip hop,trap latino,26,66.8,355819.4
+panamanian pop,reggaeton,25,71.3,470282.2
+r&b en espanol,urbano latino,22,76.33333333333333,359268.5
+r&b en espanol,trap latino,18,76.33333333333333,359268.5
+colombian pop,urbano latino,18,73.0909090909091,211365.63636363635
+latin pop,urbano latino,18,73.84615384615384,403424.23076923075
+reggaeton flow,trap argentino,17,71.28571428571429,307952.71428571426
+r&b en espanol,reggaeton,17,75.6,391010.2
+argentine hip hop,reggaeton,17,71.4,201954.2
+latin pop,reggaeton,16,73.25,427072.4166666667
+latin pop,trap latino,16,74.45454545454545,447154.7272727273
+trap triste,urbano latino,16,73.44444444444444,276404.6666666667
+movie tunes,movie tunes,16,71.5,213243.5
+colombian pop,trap latino,15,73.66666666666667,222134.33333333334
+argentine hip hop,trap argentino,15,64.375,405808.0
+trap latino,trap triste,15,73.44444444444444,276404.6666666667
+reggaeton flow,reggaeton flow,14,73.6,273380.3
+pop reggaeton,urbano latino,14,74.85714285714286,485879.0
+colombian pop,reggaeton,14,73.55555555555556,244104.44444444444
+pop reggaeton,trap latino,13,74.85714285714286,485879.0
+trap argentino,trap argentino,13,64.11111111111111,363392.77777777775
+reggaeton colombiano,reggaeton colombiano,13,70.25,194203.25
+reggaeton colombiano,reggaeton flow,12,71.0,195709.85714285713
+rap latina,urbano latino,12,77.75,490021.25
+latin pop,musica mexicana,12,64.81818181818181,87717.18181818182
+trap boricua,trap latino,12,73.625,284882.75
+trap boricua,urbano latino,12,73.625,284882.75
+pop reggaeton,reggaeton,11,77.16666666666667,565452.8333333334
+rap latina,trap latino,11,77.75,490021.25
+latin pop,ranchera,11,64.81818181818181,87717.18181818182
+pop,pop,11,74.0,155705.9090909091
+puerto rican pop,reggaeton flow,10,77.57142857142857,342072.28571428574
+latin hip hop,reggaeton flow,10,74.6,331261.4
+rap latina,reggaeton,10,77.75,490021.25
+mexican pop,musica mexicana,10,63.888888888888886,51193.333333333336
+r&b en espanol,reggaeton flow,9,73.75,323923.25
+pop costarricense,pop costarricense,9,35.5,530553.0
+mexican pop,ranchera,9,63.888888888888886,51193.333333333336
+musica mexicana,ranchera,9,66.5,271548.0
+latin hip hop,reggaeton colombiano,9,69.0,179519.33333333334
+panamanian pop,reggaeton flow,8,67.0,339504.8
+latin arena pop,musica mexicana,8,63.714285714285715,45275.71428571428
+latin pop,nueva musica mexicana,8,66.125,101931.25
+pop,rap,8,70.125,184065.875
+reggaeton,trap boricua,8,73.4,354316.8
+rap,reggaeton,7,50.2,343528.0
+rap,trap latino,7,50.2,343528.0
+rap,urbano latino,7,50.2,343528.0
+latin pop,mariachi,7,67.0,98856.0
+latin arena pop,ranchera,7,63.714285714285715,45275.71428571428
+trap argentino,trap triste,7,74.2,343048.2
+mariachi,musica mexicana,7,67.8,301166.0
+musica mexicana,nueva musica mexicana,7,68.2,324108.0
+reggaeton,trap triste,7,75.33333333333333,260874.66666666666
+r&b en espanol,trap argentino,6,73.75,323923.25
+panamanian pop,trap argentino,6,69.25,410077.25
+latin arena pop,nueva musica mexicana,6,65.16666666666667,51883.5
+mexican pop,nueva musica mexicana,6,65.16666666666667,51883.5
+puerto rican pop,reggaeton colombiano,6,72.5,118964.0
+modern salsa,movie tunes,6,71.5,213243.5
+movie tunes,salsa colombiana,6,71.5,213243.5
+latin pop,tropical,6,60.6,55567.0
+musica mexicana,musica mexicana,6,66.5,271548.0
+reggaeton colombiano,trap argentino,5,69.33333333333333,260317.0
+latin arena pop,mariachi,5,66.2,37568.6
+mariachi,mexican pop,5,66.2,37568.6
+hip hop,rap,5,60.0,38077.666666666664
+hip hop,pop,5,62.8,216390.4
+dance pop,pop,5,81.75,133496.5
+mariachi,ranchera,5,64.0,178342.0
+nueva musica mexicana,ranchera,5,66.0,191366.0
+latin hip hop,puerto rican pop,5,73.75,200464.5
+musica mexicana,urbano latino,5,62.5,174234.0
+pop,reggaeton,5,75.66666666666667,421720.6666666667
+pop,trap latino,5,75.66666666666667,421720.6666666667
+pop,urbano latino,5,75.66666666666667,421720.6666666667
+musica mexicana,reggaeton,5,67.0,173706.75
+rap canario,urbano espanol,5,76.0,261419.0
+hollywood,movie tunes,5,78.0,7086.0
+panamanian pop,reggaeton colombiano,4,69.25,307512.0
+latin pop,reggaeton flow,4,70.66666666666667,161634.66666666666
+rap,rap,4,66.75,39606.5
+g funk,gangster rap,4,85.0,55172.5
+g funk,hip hop,4,85.0,55172.5
+g funk,rap,4,85.0,55172.5
+g funk,west coast rap,4,85.0,55172.5
+gangster rap,hip hop,4,85.0,55172.5
+gangster rap,rap,4,85.0,55172.5
+gangster rap,west coast rap,4,85.0,55172.5
+hip hop,west coast rap,4,85.0,55172.5
+rap,west coast rap,4,85.0,55172.5
+gruperas inmortales,latin pop,4,61.0,68224.25
+gruperas inmortales,mexican pop,4,61.0,68224.25
+latin pop,nu-cumbia,4,61.0,68224.25
+mexican pop,nu-cumbia,4,61.0,68224.25
+mexican pop,tropical,4,61.0,68224.25
+mariachi,nueva musica mexicana,4,68.0,214002.0
+ranchera,urbano latino,4,62.5,174234.0
+musica mexicana,trap latino,4,62.0,231056.33333333334
+trap latino,tropical,4,66.5,371647.25
+tropical,urbano latino,4,66.5,371647.25
+pop argentino,trap latino,4,77.5,586291.5
+pop argentino,urbano latino,4,77.5,586291.5
+nueva musica mexicana,reggaeton,4,67.0,173706.75
+ranchera,reggaeton,4,67.0,173706.75
+musica mexicana,reggaeton colombiano,4,66.0,209202.33333333334
+pop costarricense,rap tico,4,35.5,397059.0
+pop venezolano,urbano latino,4,48.666666666666664,290178.6666666667
+hip hop,reggaeton,3,31.666666666666668,97121.0
+hip hop,trap latino,3,31.666666666666668,97121.0
+hip hop,urbano latino,3,31.666666666666668,97121.0
+reggaeton,toronto rap,3,15.5,11812.5
+toronto rap,trap latino,3,15.5,11812.5
+toronto rap,urbano latino,3,15.5,11812.5
+colombian pop,reggaeton flow,3,72.66666666666667,181677.33333333334
+rap latina,trap argentino,3,75.5,340826.5
+mexican rock,musica mexicana,3,65.33333333333333,37930.0
+musica mexicana,rock en espanol,3,69.0,78733.33333333333
+mexican rock,ranchera,3,65.33333333333333,37930.0
+ranchera,rock en espanol,3,69.0,78733.33333333333
+pop,post-teen pop,3,74.33333333333333,24559.0
+canadian pop,rap,3,49.333333333333336,5798.0
+pop,trap,3,81.0,115837.66666666667
+permanent wave,pop,3,83.0,240138.66666666666
+mexican hip hop,nueva musica mexicana,3,79.0,500093.5
+pop,uk pop,3,81.0,67757.66666666667
+ranchera,ranchera,3,64.0,178342.0
+latin alternative,reggaeton,3,69.0,845309.5
+latin alternative,urbano latino,3,69.0,845309.5
+latin rock,reggaeton,3,69.0,845309.5
+latin rock,urbano latino,3,69.0,845309.5
+reggaeton,rock en espanol,3,69.0,845309.5
+rock en espanol,urbano latino,3,69.0,845309.5
+ranchera,trap latino,3,62.0,231056.33333333334
+dance pop,reggaeton,3,68.0,271094.0
+reggaeton,uk pop,3,68.0,271094.0
+dance pop,trap latino,3,68.0,271094.0
+trap latino,uk pop,3,68.0,271094.0
+dance pop,urbano latino,3,68.0,271094.0
+uk pop,urbano latino,3,68.0,271094.0
+latin pop,reggaeton colombiano,3,71.0,387902.3333333333
+reggaeton,tropical,3,71.33333333333333,472420.0
+mariachi,reggaeton,3,69.33333333333333,190456.33333333334
+nueva musica mexicana,reggaeton colombiano,3,66.0,209202.33333333334
+nueva musica mexicana,urbano latino,3,66.0,209202.33333333334
+ranchera,reggaeton colombiano,3,66.0,209202.33333333334
+bases de freestyle,urbano latino,3,62.0,261277.0
+trap latino,venezuelan hip hop,3,72.33333333333333,150441.33333333334
+urbano latino,venezuelan hip hop,3,72.33333333333333,150441.33333333334
+trap latino,urbano espanol,3,78.0,230989.5
+urbano espanol,urbano latino,3,78.0,230989.5
+rap canario,rap canario,3,76.0,261419.0
+rap latina,reggaeton colombiano,3,79.0,499217.0
+canadian contemporary r&b,pop,3,59.0,141425.66666666666
+r&b,reggaeton,3,45.0,547727.5
+r&b,trap latino,3,45.0,547727.5
+r&b,urbano latino,3,45.0,547727.5
+trap argentino,trap boricua,3,77.5,380458.0
+r&b argentino,trap latino,3,74.5,286058.0
+r&b argentino,urbano latino,3,74.5,286058.0
+argentine hip hop,argentine hip hop,3,69.66666666666667,262385.0
+pop venezolano,trap latino,3,48.666666666666664,290178.6666666667
+banda,musica mexicana,3,69.0,364754.0
+banda,ranchera,3,69.0,364754.0
+musica mexicana,norteno,3,69.0,364754.0
+norteno,ranchera,3,69.0,364754.0
+dance pop,rap,3,82.0,215142.0
+latin pop,latin pop,3,70.0,80101.33333333333
+argentine hip hop,trap triste,3,78.33333333333333,358856.3333333333
+reggaeton colombiano,trap triste,3,69.66666666666667,214561.33333333334
+colombian pop,trap argentino,3,77.0,219219.0
+pop reggaeton,trap argentino,3,77.0,219219.0
+pop argentino,trap argentino,3,77.0,558868.0
+mexican hip hop,mexican hip hop,3,77.0,23686.0
+canadian hip hop,reggaeton,2,15.5,11812.5
+canadian pop,reggaeton,2,15.5,11812.5
+canadian hip hop,trap latino,2,15.5,11812.5
+canadian pop,trap latino,2,15.5,11812.5
+canadian hip hop,urbano latino,2,15.5,11812.5
+canadian pop,urbano latino,2,15.5,11812.5
+latin hip hop,panamanian pop,2,74.0,572891.5
+panamanian pop,r&b en espanol,2,73.0,539288.5
+latin rock,mariachi,2,68.5,51545.0
+mariachi,mexican rock,2,68.5,51545.0
+mariachi,rock en espanol,2,68.5,51545.0
+latin rock,musica mexicana,2,68.5,51545.0
+latin rock,nueva musica mexicana,2,68.5,51545.0
+mexican rock,nueva musica mexicana,2,68.5,51545.0
+nueva musica mexicana,rock en espanol,2,68.5,51545.0
+latin rock,ranchera,2,68.5,51545.0
+g funk,g funk,2,85.0,55172.5
+g funk,pop rap,2,85.0,55172.5
+gangster rap,gangster rap,2,85.0,55172.5
+gangster rap,pop rap,2,85.0,55172.5
+hip hop,hip hop,2,85.0,55172.5
+hip hop,pop rap,2,85.0,55172.5
+pop rap,rap,2,85.0,55172.5
+pop rap,west coast rap,2,85.0,55172.5
+west coast rap,west coast rap,2,85.0,55172.5
+indie poptimism,pop,2,73.0,21996.0
+indie poptimism,post-teen pop,2,73.0,21996.0
+hip hop,modern rock,2,45.0,384701.0
+modern rock,rap,2,45.0,384701.0
+modern rock,underground hip hop,2,45.0,384701.0
+pop,underground hip hop,2,45.0,384701.0
+hip hop,rock,2,45.0,384701.0
+rap,rock,2,45.0,384701.0
+rock,underground hip hop,2,45.0,384701.0
+modern rock,speedrun,2,45.0,384701.0
+modern rock,video game music,2,45.0,384701.0
+pop,speedrun,2,45.0,384701.0
+pop,video game music,2,45.0,384701.0
+rock,speedrun,2,45.0,384701.0
+rock,video game music,2,45.0,384701.0
+hip hop,speedrun,2,45.0,384701.0
+hip hop,video game music,2,45.0,384701.0
+rap,speedrun,2,45.0,384701.0
+rap,video game music,2,45.0,384701.0
+speedrun,underground hip hop,2,45.0,384701.0
+underground hip hop,video game music,2,45.0,384701.0
+spanish pop,spanish pop,2,82.0,246472.0
+puerto rican pop,spanish pop,2,83.0,489281.0
+reggaeton,spanish pop,2,83.0,489281.0
+spanish pop,trap latino,2,83.0,489281.0
+spanish pop,urbano latino,2,83.0,489281.0
+gruperas inmortales,latin alternative,2,64.5,71905.0
+latin alternative,musica mexicana,2,64.5,71905.0
+latin alternative,nu-cumbia,2,64.5,71905.0
+latin alternative,ranchera,2,64.5,71905.0
+latin alternative,tropical,2,64.5,71905.0
+brostep,reggaeton,2,76.5,277037.5
+edm,reggaeton,2,76.5,277037.5
+pop dance,reggaeton,2,76.5,277037.5
+brostep,reggaeton colombiano,2,76.5,277037.5
+edm,reggaeton colombiano,2,76.5,277037.5
+pop dance,reggaeton colombiano,2,76.5,277037.5
+brostep,trap latino,2,76.5,277037.5
+edm,trap latino,2,76.5,277037.5
+pop dance,trap latino,2,76.5,277037.5
+brostep,urbano latino,2,76.5,277037.5
+edm,urbano latino,2,76.5,277037.5
+pop dance,urbano latino,2,76.5,277037.5
+canadian contemporary r&b,hip hop,2,69.0,6753.0
+canadian pop,hip hop,2,69.0,6753.0
+pop,pop rap,2,77.5,68202.5
+canadian contemporary r&b,rap,2,69.0,6753.0
+dembow,reggaeton,2,71.0,384962.0
+dembow,urbano latino,2,71.0,384962.0
+rap dominicano,reggaeton,2,71.0,384962.0
+rap dominicano,urbano latino,2,71.0,384962.0
+dance pop,uk pop,2,83.5,93802.0
+mariachi,mariachi,2,67.0,263139.0
+colombian pop,rock en espanol,2,67.0,5231.0
+gruperas inmortales,trap latino,2,56.0,96393.5
+gruperas inmortales,urbano latino,2,56.0,96393.5
+nu-cumbia,trap latino,2,56.0,96393.5
+nu-cumbia,urbano latino,2,56.0,96393.5
+pop,reggaeton colombiano,2,72.0,302902.0
+pop reggaeton,reggaeton colombiano,2,71.0,254674.5
+latin hip hop,latin pop,2,72.0,81954.0
+latin pop,puerto rican pop,2,70.5,195397.0
+colombian pop,mariachi,2,69.0,252074.5
+mariachi,reggaeton colombiano,2,69.0,252074.5
+mariachi,urbano latino,2,69.0,252074.5
+colombian pop,musica mexicana,2,69.0,252074.5
+colombian pop,nueva musica mexicana,2,69.0,252074.5
+nueva musica mexicana,trap latino,2,67.0,311920.0
+colombian pop,ranchera,2,69.0,252074.5
+colombian pop,puerto rican pop,2,70.0,217751.0
+bases de freestyle,trap argentino,2,62.0,261277.0
+bases de freestyle,trap latino,2,62.0,261277.0
+reggaeton,venezuelan hip hop,2,74.0,66684.0
+melodic rap,rap,2,87.0,44193.0
+spanish hip hop,trap latino,2,78.0,230989.5
+spanish hip hop,urbano latino,2,78.0,230989.5
+rap canario,spanish hip hop,2,76.0,261419.0
+rap canario,trap latino,2,76.0,261419.0
+rap canario,urbano latino,2,76.0,261419.0
+canadian pop,r&b,2,47.5,6897.0
+pop,r&b,2,84.5,170309.5
+gruperas inmortales,latin arena pop,2,57.5,64543.5
+latin arena pop,nu-cumbia,2,57.5,64543.5
+latin arena pop,tropical,2,57.5,64543.5
+argentine hip hop,trap boricua,2,77.5,380458.0
+puerto rican pop,trap boricua,2,72.5,600769.0
+puerto rican pop,trap argentino,2,74.0,462434.0
+latin alternative,trap latino,2,84.0,1687270.0
+latin rock,trap latino,2,84.0,1687270.0
+rock en espanol,trap latino,2,84.0,1687270.0
+canadian pop,pop,2,46.0,207185.5
+colombian pop,reggaeton colombiano,2,70.0,159051.5
+rap,toronto rap,2,10.0,3888.0
+pop venezolano,trap argentino,2,32.5,286027.0
+gruperas inmortales,musica mexicana,2,59.0,66103.0
+musica mexicana,nu-cumbia,2,59.0,66103.0
+musica mexicana,tropical,2,59.0,66103.0
+colombian hip hop,musica mexicana,2,60.0,123458.0
+r&b en espanol,trap triste,2,78.5,209889.5
+colombian pop,ghanaian alternative,2,80.0,3267.0
+latin pop,spanish pop,2,81.0,3663.0
+colombian pop,trap triste,2,69.0,113827.5
+pop reggaeton,trap triste,2,69.0,113827.5
+argentine hip hop,r&b en espanol,2,77.0,219219.0
+argentine hip hop,colombian pop,2,77.0,219219.0
+argentine hip hop,pop reggaeton,2,77.0,219219.0
+argentine hip hop,reggaeton colombiano,2,77.0,219219.0
+argentine hip hop,reggaeton flow,2,77.0,219219.0
+argentine hip hop,panamanian pop,2,77.0,219219.0
+banda,mariachi,2,73.5,485402.0
+mariachi,norteno,2,73.5,485402.0
+banda,nueva musica mexicana,2,73.5,485402.0
+norteno,nueva musica mexicana,2,73.5,485402.0
+nueva musica mexicana,nueva musica mexicana,2,71.5,314212.5
+argentine hip hop,pop argentino,2,77.0,558868.0
+r&b argentino,trap argentino,2,77.0,558868.0
+musica popular colombiana,reggaeton,2,66.0,79848.0
+musica popular colombiana,reggaeton colombiano,2,66.0,79848.0
+musica popular colombiana,trap latino,2,66.0,79848.0
+musica popular colombiana,urbano latino,2,66.0,79848.0
+colombian pop,latin pop,2,75.0,119408.0
+colombian pop,mexican pop,2,75.0,119408.0
+reggaeton colombiano,trap boricua,2,66.0,212232.5
+rap,uk pop,2,81.0,157356.5
+latin pop,salsa,2,59.0,4938.0
+salsa,tropical,2,59.0,4938.0
+mexican hip hop,rap femenino mexicano,2,77.0,23686.0
+gruperas inmortales,rock en espanol,1,70.0,133110.0
+gruperas inmortales,veracruz indie,1,70.0,133110.0
+musica mexicana,veracruz indie,1,70.0,133110.0
+nu-cumbia,rock en espanol,1,70.0,133110.0
+nu-cumbia,veracruz indie,1,70.0,133110.0
+ranchera,veracruz indie,1,70.0,133110.0
+rock en espanol,tropical,1,70.0,133110.0
+tropical,veracruz indie,1,70.0,133110.0
+complextro,reggaeton,1,72.0,187118.0
+electro,reggaeton,1,72.0,187118.0
+complextro,reggaeton colombiano,1,72.0,187118.0
+electro,reggaeton colombiano,1,72.0,187118.0
+complextro,trap latino,1,72.0,187118.0
+electro,trap latino,1,72.0,187118.0
+complextro,urbano latino,1,72.0,187118.0
+electro,urbano latino,1,72.0,187118.0
+canadian contemporary r&b,new orleans rap,1,70.0,4276.0
+canadian pop,new orleans rap,1,70.0,4276.0
+new orleans rap,pop,1,70.0,4276.0
+canadian contemporary r&b,pop rap,1,70.0,4276.0
+canadian pop,pop rap,1,70.0,4276.0
+canadian contemporary r&b,trap,1,70.0,4276.0
+canadian pop,trap,1,70.0,4276.0
+dance pop,glam rock,1,73.0,1058130.0
+dance pop,mellow gold,1,73.0,1058130.0
+dance pop,piano rock,1,73.0,1058130.0
+dance pop,rock,1,73.0,1058130.0
+glam rock,pop,1,73.0,1058130.0
+mellow gold,pop,1,73.0,1058130.0
+piano rock,pop,1,73.0,1058130.0
+pop,rock,1,73.0,1058130.0
+glam rock,uk pop,1,73.0,1058130.0
+mellow gold,uk pop,1,73.0,1058130.0
+piano rock,uk pop,1,73.0,1058130.0
+rock,uk pop,1,73.0,1058130.0
+alternative dance,dance pop,1,73.0,1058130.0
+aussietronica,dance pop,1,73.0,1058130.0
+australian dance,dance pop,1,73.0,1058130.0
+australian electropop,dance pop,1,73.0,1058130.0
+alternative dance,pop,1,73.0,1058130.0
+aussietronica,pop,1,73.0,1058130.0
+australian dance,pop,1,73.0,1058130.0
+australian electropop,pop,1,73.0,1058130.0
+alternative dance,uk pop,1,73.0,1058130.0
+aussietronica,uk pop,1,73.0,1058130.0
+australian dance,uk pop,1,73.0,1058130.0
+australian electropop,uk pop,1,73.0,1058130.0
+alternative dance,glam rock,1,73.0,1058130.0
+aussietronica,glam rock,1,73.0,1058130.0
+australian dance,glam rock,1,73.0,1058130.0
+australian electropop,glam rock,1,73.0,1058130.0
+alternative dance,mellow gold,1,73.0,1058130.0
+aussietronica,mellow gold,1,73.0,1058130.0
+australian dance,mellow gold,1,73.0,1058130.0
+australian electropop,mellow gold,1,73.0,1058130.0
+alternative dance,piano rock,1,73.0,1058130.0
+aussietronica,piano rock,1,73.0,1058130.0
+australian dance,piano rock,1,73.0,1058130.0
+australian electropop,piano rock,1,73.0,1058130.0
+alternative dance,rock,1,73.0,1058130.0
+aussietronica,rock,1,73.0,1058130.0
+australian dance,rock,1,73.0,1058130.0
+australian electropop,rock,1,73.0,1058130.0
+k-pop,permanent wave,1,84.0,570266.0
+k-pop,pop,1,84.0,570266.0
+k-pop boy group,permanent wave,1,84.0,570266.0
+k-pop boy group,pop,1,84.0,570266.0
+dembow,trap latino,1,71.0,384962.0
+rap dominicano,trap latino,1,71.0,384962.0
+mariachi,mexican hip hop,1,81.0,976501.0
+mariachi,rap conciencia,1,81.0,976501.0
+mexican hip hop,musica mexicana,1,81.0,976501.0
+musica mexicana,rap conciencia,1,81.0,976501.0
+nueva musica mexicana,rap conciencia,1,81.0,976501.0
+mexican hip hop,ranchera,1,81.0,976501.0
+ranchera,rap conciencia,1,81.0,976501.0
+dance pop,singer-songwriter pop,1,82.0,55475.0
+pop,singer-songwriter pop,1,82.0,55475.0
+australian pop,bergen indie,1,82.0,7262.0
+australian pop,electropop,1,82.0,7262.0
+australian pop,nz pop,1,82.0,7262.0
+colombian pop,latin alternative,1,54.0,3349.0
+latin alternative,latin pop,1,54.0,3349.0
+latin alternative,r&b en espanol,1,54.0,3349.0
+latin alternative,reggaeton colombiano,1,54.0,3349.0
+colombian pop,latin rock,1,54.0,3349.0
+latin pop,latin rock,1,54.0,3349.0
+latin rock,r&b en espanol,1,54.0,3349.0
+latin rock,reggaeton colombiano,1,54.0,3349.0
+colombian pop,reggae en espanol,1,54.0,3349.0
+latin pop,reggae en espanol,1,54.0,3349.0
+r&b en espanol,reggae en espanol,1,54.0,3349.0
+reggae en espanol,reggaeton,1,54.0,3349.0
+reggae en espanol,reggaeton colombiano,1,54.0,3349.0
+reggae en espanol,urbano latino,1,54.0,3349.0
+latin pop,rock en espanol,1,54.0,3349.0
+r&b en espanol,rock en espanol,1,54.0,3349.0
+reggaeton colombiano,rock en espanol,1,54.0,3349.0
+latin hip hop,latin hip hop,1,68.0,3571.0
+argentine hip hop,gruperas inmortales,1,52.0,69329.0
+gruperas inmortales,r&b argentino,1,52.0,69329.0
+gruperas inmortales,trap argentino,1,52.0,69329.0
+argentine hip hop,musica mexicana,1,52.0,69329.0
+musica mexicana,r&b argentino,1,52.0,69329.0
+musica mexicana,trap argentino,1,52.0,69329.0
+argentine hip hop,nu-cumbia,1,52.0,69329.0
+nu-cumbia,r&b argentino,1,52.0,69329.0
+nu-cumbia,trap argentino,1,52.0,69329.0
+argentine hip hop,ranchera,1,52.0,69329.0
+r&b argentino,ranchera,1,52.0,69329.0
+ranchera,trap argentino,1,52.0,69329.0
+argentine hip hop,tropical,1,52.0,69329.0
+r&b argentino,tropical,1,52.0,69329.0
+trap argentino,tropical,1,52.0,69329.0
+dance pop,reggaeton colombiano,1,68.0,271094.0
+reggaeton colombiano,uk pop,1,68.0,271094.0
+dance pop,pop reggaeton,1,68.0,271094.0
+pop,pop reggaeton,1,68.0,271094.0
+pop reggaeton,uk pop,1,68.0,271094.0
+latin hip hop,modern salsa,1,73.0,4817.0
+latin hip hop,salsa,1,73.0,4817.0
+latin hip hop,tropical,1,73.0,4817.0
+modern salsa,reggaeton,1,73.0,4817.0
+reggaeton,salsa,1,73.0,4817.0
+modern salsa,trap latino,1,73.0,4817.0
+salsa,trap latino,1,73.0,4817.0
+modern salsa,urbano latino,1,73.0,4817.0
+salsa,urbano latino,1,73.0,4817.0
+deep talent show,reggae fusion,1,72.0,90009.0
+pop argentino,reggaeton,1,78.0,613715.0
+pop argentino,reggaeton colombiano,1,78.0,613715.0
+mariachi,trap latino,1,74.0,500382.0
+hip hop,panamanian pop,1,64.0,267738.0
+miami hip hop,panamanian pop,1,64.0,267738.0
+miami hip hop,reggaeton,1,64.0,267738.0
+miami hip hop,trap latino,1,64.0,267738.0
+miami hip hop,urbano latino,1,64.0,267738.0
+panamanian pop,pop rap,1,64.0,267738.0
+pop rap,reggaeton,1,64.0,267738.0
+pop rap,trap latino,1,64.0,267738.0
+pop rap,urbano latino,1,64.0,267738.0
+panamanian pop,rap,1,64.0,267738.0
+gruperas inmortales,mexican rock,1,59.0,10700.0
+mexican rock,nu-cumbia,1,59.0,10700.0
+mexican rock,tropical,1,59.0,10700.0
+dfw rap,melodic rap,1,87.0,44193.0
+dfw rap,rap,1,87.0,44193.0
+dfw rap,trap,1,87.0,44193.0
+melodic rap,melodic rap,1,87.0,44193.0
+melodic rap,trap,1,87.0,44193.0
+melodic rap,pop,1,87.0,44193.0
+rap,trap,1,87.0,44193.0
+spanish hip hop,urbano espanol,1,76.0,261419.0
+urbano espanol,urbano espanol,1,76.0,261419.0
+canadian contemporary r&b,r&b,1,85.0,9906.0
+canadian contemporary r&b,canadian pop,1,85.0,9906.0
+latin hip hop,r&b en espanol,1,69.0,859358.0
+latin hip hop,trap argentino,1,69.0,859358.0
+latin viral pop,reggaeton,1,82.0,881158.0
+latin viral pop,reggaeton colombiano,1,82.0,881158.0
+latin viral pop,trap latino,1,82.0,881158.0
+latin viral pop,urbano latino,1,82.0,881158.0
+puerto rican pop,r&b,1,80.0,1091567.0
+puerto rican pop,rap,1,80.0,1091567.0
+dutch moombahton,shatta,1,0.0,298767.0
+rap latina,trap boricua,1,74.0,462434.0
+argentine hip hop,puerto rican pop,1,74.0,462434.0
+puerto rican pop,rap latina,1,74.0,462434.0
+latin alternative,pop reggaeton,1,84.0,1687270.0
+latin pop,pop reggaeton,1,84.0,1687270.0
+latin rock,pop reggaeton,1,84.0,1687270.0
+pop reggaeton,rock en espanol,1,84.0,1687270.0
+canadian contemporary r&b,r&b en espanol,1,8.0,327203.0
+canadian pop,r&b en espanol,1,8.0,327203.0
+pop,r&b en espanol,1,8.0,327203.0
+dance pop,dance pop,1,85.0,132129.0
+dance pop,dancehall,1,85.0,132129.0
+dance pop,pop rap,1,85.0,132129.0
+dancehall,pop,1,85.0,132129.0
+dancehall,uk pop,1,85.0,132129.0
+pop rap,uk pop,1,85.0,132129.0
+dembow dominicano,reggaeton,1,64.0,63041.0
+dembow dominicano,trap latino,1,64.0,63041.0
+dembow dominicano,urbano latino,1,64.0,63041.0
+classic disco polo,pop costarricense,1,46.0,760967.0
+classic disco polo,rap tico,1,46.0,760967.0
+reggaeton,urban contemporary,1,10.0,3888.0
+trap latino,urban contemporary,1,10.0,3888.0
+urban contemporary,urbano latino,1,10.0,3888.0
+canadian hip hop,r&b,1,10.0,3888.0
+canadian hip hop,rap,1,10.0,3888.0
+canadian hip hop,toronto rap,1,10.0,3888.0
+canadian hip hop,urban contemporary,1,10.0,3888.0
+canadian pop,toronto rap,1,10.0,3888.0
+canadian pop,urban contemporary,1,10.0,3888.0
+hip hop,r&b,1,10.0,3888.0
+hip hop,toronto rap,1,10.0,3888.0
+hip hop,urban contemporary,1,10.0,3888.0
+r&b,rap,1,10.0,3888.0
+rap,urban contemporary,1,10.0,3888.0
+r&b,toronto rap,1,10.0,3888.0
+toronto rap,toronto rap,1,10.0,3888.0
+toronto rap,urban contemporary,1,10.0,3888.0
+r&b argentino,reggaeton,1,72.0,13248.0
+pop venezolano,reggaeton,1,55.0,9068.0
+argentine hip hop,bases de freestyle,1,55.0,9068.0
+argentine hip hop,pop venezolano,1,55.0,9068.0
+bases de freestyle,pop venezolano,1,55.0,9068.0
+bases de freestyle,reggaeton,1,55.0,9068.0
+electropop,permanent wave,1,88.0,120465.0
+electropop,pop,1,88.0,120465.0
+banda,latin arena pop,1,60.0,123458.0
+latin arena pop,norteno,1,60.0,123458.0
+banda,latin pop,1,60.0,123458.0
+latin pop,norteno,1,60.0,123458.0
+banda,mexican pop,1,60.0,123458.0
+mexican pop,norteno,1,60.0,123458.0
+colombian hip hop,latin arena pop,1,60.0,123458.0
+latin arena pop,reggaeton,1,60.0,123458.0
+latin arena pop,reggaeton colombiano,1,60.0,123458.0
+latin arena pop,trap latino,1,60.0,123458.0
+latin arena pop,urbano latino,1,60.0,123458.0
+colombian hip hop,latin pop,1,60.0,123458.0
+colombian hip hop,mexican pop,1,60.0,123458.0
+mexican pop,reggaeton,1,60.0,123458.0
+mexican pop,reggaeton colombiano,1,60.0,123458.0
+mexican pop,trap latino,1,60.0,123458.0
+mexican pop,urbano latino,1,60.0,123458.0
+banda,colombian hip hop,1,60.0,123458.0
+banda,reggaeton,1,60.0,123458.0
+banda,reggaeton colombiano,1,60.0,123458.0
+banda,trap latino,1,60.0,123458.0
+banda,urbano latino,1,60.0,123458.0
+colombian hip hop,norteno,1,60.0,123458.0
+norteno,reggaeton,1,60.0,123458.0
+norteno,reggaeton colombiano,1,60.0,123458.0
+norteno,trap latino,1,60.0,123458.0
+norteno,urbano latino,1,60.0,123458.0
+colombian hip hop,nueva musica mexicana,1,60.0,123458.0
+banda,gruperas inmortales,1,60.0,123458.0
+banda,nu-cumbia,1,60.0,123458.0
+banda,tropical,1,60.0,123458.0
+gruperas inmortales,norteno,1,60.0,123458.0
+norteno,nu-cumbia,1,60.0,123458.0
+norteno,tropical,1,60.0,123458.0
+gruperas inmortales,nueva musica mexicana,1,60.0,123458.0
+nu-cumbia,nueva musica mexicana,1,60.0,123458.0
+nueva musica mexicana,tropical,1,60.0,123458.0
+colombian hip hop,gruperas inmortales,1,60.0,123458.0
+colombian hip hop,nu-cumbia,1,60.0,123458.0
+colombian hip hop,ranchera,1,60.0,123458.0
+colombian hip hop,tropical,1,60.0,123458.0
+gruperas inmortales,reggaeton,1,60.0,123458.0
+nu-cumbia,reggaeton,1,60.0,123458.0
+gruperas inmortales,reggaeton colombiano,1,60.0,123458.0
+nu-cumbia,reggaeton colombiano,1,60.0,123458.0
+reggaeton colombiano,tropical,1,60.0,123458.0
+hip pop,reggaeton,1,76.0,334710.0
+queens hip hop,reggaeton,1,76.0,334710.0
+hip pop,reggaeton colombiano,1,76.0,334710.0
+queens hip hop,reggaeton colombiano,1,76.0,334710.0
+rap,reggaeton colombiano,1,76.0,334710.0
+hip pop,trap latino,1,76.0,334710.0
+queens hip hop,trap latino,1,76.0,334710.0
+hip pop,urbano latino,1,76.0,334710.0
+queens hip hop,urbano latino,1,76.0,334710.0
+dance pop,r&b,1,84.0,330713.0
+r&b en espanol,trap boricua,1,80.0,200560.0
+spanish hip hop,trap boricua,1,80.0,200560.0
+trap boricua,urbano espanol,1,80.0,200560.0
+spanish hip hop,trap triste,1,80.0,200560.0
+trap triste,urbano espanol,1,80.0,200560.0
+colombian pop,muzica etno,1,75.0,155474.0
+muzica etno,reggaeton,1,75.0,155474.0
+muzica etno,reggaeton colombiano,1,75.0,155474.0
+muzica etno,trap latino,1,75.0,155474.0
+muzica etno,urbano latino,1,75.0,155474.0
+atl hip hop,pop dance,1,84.0,160904.0
+girl group,pop dance,1,84.0,160904.0
+hip pop,pop dance,1,84.0,160904.0
+pop dance,r&b,1,84.0,160904.0
+pop dance,southern hip hop,1,84.0,160904.0
+pop dance,urban contemporary,1,84.0,160904.0
+atl hip hop,tech house,1,84.0,160904.0
+girl group,tech house,1,84.0,160904.0
+hip pop,tech house,1,84.0,160904.0
+r&b,tech house,1,84.0,160904.0
+southern hip hop,tech house,1,84.0,160904.0
+tech house,urban contemporary,1,84.0,160904.0
+afro r&b,colombian pop,1,80.0,3267.0
+afrobeats,colombian pop,1,80.0,3267.0
+alternative r&b,colombian pop,1,80.0,3267.0
+colombian pop,ghanaian pop,1,80.0,3267.0
+afro r&b,ghanaian alternative,1,80.0,3267.0
+afrobeats,ghanaian alternative,1,80.0,3267.0
+alternative r&b,ghanaian alternative,1,80.0,3267.0
+ghanaian alternative,ghanaian alternative,1,80.0,3267.0
+ghanaian alternative,ghanaian pop,1,80.0,3267.0
+latin pop,pop peruano,1,79.0,302611.0
+pop peruano,salsa,1,79.0,302611.0
+pop peruano,tropical,1,79.0,302611.0
+argentine hip hop,venezuelan hip hop,1,69.0,317956.0
+pop venezolano,venezuelan hip hop,1,69.0,317956.0
+trap argentino,venezuelan hip hop,1,69.0,317956.0
+colombian pop,trap colombiano,1,80.0,494900.0
+pop reggaeton,trap colombiano,1,80.0,494900.0
+reggaeton colombiano,trap colombiano,1,80.0,494900.0
+trap colombiano,trap latino,1,80.0,494900.0
+trap colombiano,urbano latino,1,80.0,494900.0
+pop venezolano,trap boricua,1,81.0,298482.0
+pop venezolano,trap triste,1,81.0,298482.0
+r&b en espanol,rap latina,1,77.0,219219.0
+colombian pop,rap latina,1,77.0,219219.0
+pop reggaeton,rap latina,1,77.0,219219.0
+argentine hip hop,rap latina,1,77.0,219219.0
+rap latina,trap triste,1,77.0,219219.0
+rap latina,reggaeton flow,1,77.0,219219.0
+panamanian pop,rap latina,1,77.0,219219.0
+colombian pop,r&b en espanol,1,77.0,219219.0
+pop reggaeton,r&b en espanol,1,77.0,219219.0
+r&b en espanol,reggaeton colombiano,1,77.0,219219.0
+pop reggaeton,reggaeton flow,1,77.0,219219.0
+colombian pop,panamanian pop,1,77.0,219219.0
+panamanian pop,pop reggaeton,1,77.0,219219.0
+reggaeton flow,trap triste,1,77.0,219219.0
+panamanian pop,trap triste,1,77.0,219219.0
+corrido,mariachi,1,70.0,115728.0
+mariachi,sierreno,1,70.0,115728.0
+corrido,musica mexicana,1,70.0,115728.0
+musica mexicana,sierreno,1,70.0,115728.0
+corrido,nueva musica mexicana,1,70.0,115728.0
+nueva musica mexicana,sierreno,1,70.0,115728.0
+corrido,ranchera,1,70.0,115728.0
+ranchera,sierreno,1,70.0,115728.0
+big room,reggaeton,1,81.0,366957.0
+dutch edm,reggaeton,1,81.0,366957.0
+house,reggaeton,1,81.0,366957.0
+reggaeton,slap house,1,81.0,366957.0
+reggaeton,trance,1,81.0,366957.0
+big room,reggaeton colombiano,1,81.0,366957.0
+dutch edm,reggaeton colombiano,1,81.0,366957.0
+house,reggaeton colombiano,1,81.0,366957.0
+reggaeton colombiano,slap house,1,81.0,366957.0
+reggaeton colombiano,trance,1,81.0,366957.0
+big room,trap latino,1,81.0,366957.0
+dutch edm,trap latino,1,81.0,366957.0
+house,trap latino,1,81.0,366957.0
+slap house,trap latino,1,81.0,366957.0
+trance,trap latino,1,81.0,366957.0
+big room,urbano latino,1,81.0,366957.0
+dutch edm,urbano latino,1,81.0,366957.0
+house,urbano latino,1,81.0,366957.0
+slap house,urbano latino,1,81.0,366957.0
+trance,urbano latino,1,81.0,366957.0
+colombian pop,trap venezolano,1,81.0,119646.0
+latin pop,trap venezolano,1,81.0,119646.0
+reggaeton,trap venezolano,1,81.0,119646.0
+reggaeton colombiano,trap venezolano,1,81.0,119646.0
+trap latino,trap venezolano,1,81.0,119646.0
+trap venezolano,urbano latino,1,81.0,119646.0
+colombian pop,venezuelan hip hop,1,81.0,119646.0
+latin pop,venezuelan hip hop,1,81.0,119646.0
+reggaeton colombiano,venezuelan hip hop,1,81.0,119646.0
+latin pop,pop argentino,1,78.0,665390.0
+pop argentino,pop argentino,1,78.0,665390.0
+pop argentino,trap triste,1,77.0,558868.0
+argentine hip hop,r&b argentino,1,77.0,558868.0
+r&b argentino,trap triste,1,77.0,558868.0
+pop argentino,r&b argentino,1,77.0,558868.0
+colombian pop,musica popular colombiana,1,66.0,79848.0
+musica popular colombiana,musica popular colombiana,1,66.0,79848.0
+latin pop,mexican pop,1,70.0,231703.0
+latin pop,vallenato,1,70.0,231703.0
+mexican pop,vallenato,1,70.0,231703.0
+puerto rican pop,vallenato,1,70.0,231703.0
+colombian pop,trap boricua,1,61.0,8436.0
+pop reggaeton,trap boricua,1,61.0,8436.0
+deep underground hip hop,lgbtq+ hip hop,1,81.0,500570.0
+kentucky hip hop,lgbtq+ hip hop,1,81.0,500570.0
+lgbtq+ hip hop,pop rap,1,81.0,500570.0
+lgbtq+ hip hop,rap,1,81.0,500570.0
+dance pop,hip hop,1,86.0,299044.0
+hip hop,uk pop,1,86.0,299044.0
+dance pop,north carolina hip hop,1,86.0,299044.0
+north carolina hip hop,pop,1,86.0,299044.0
+north carolina hip hop,uk pop,1,86.0,299044.0
+dance pop,trap,1,86.0,299044.0
+trap,uk pop,1,86.0,299044.0
+colombian pop,colombian pop,1,80.0,7113.0
+australian hip hop,canadian pop,1,35.0,520469.0
+australian hip hop,pop,1,35.0,520469.0
+alternative r&b,reggaeton,1,73.0,3806.0
+alternative r&b,trap latino,1,73.0,3806.0
+alternative r&b,urbano latino,1,73.0,3806.0
+latin pop,modern salsa,1,59.0,4938.0
+modern salsa,salsa,1,59.0,4938.0
+salsa,salsa,1,59.0,4938.0
+latin pop,salsa puertorriquena,1,59.0,4938.0
+modern salsa,salsa puertorriquena,1,59.0,4938.0
+salsa,salsa puertorriquena,1,59.0,4938.0
+salsa puertorriquena,tropical,1,59.0,4938.0
+modern salsa,tropical,1,59.0,4938.0
+tropical,tropical,1,59.0,4938.0
+hollywood,modern salsa,1,78.0,7086.0
+hollywood,salsa colombiana,1,78.0,7086.0
+nueva musica mexicana,rap femenino mexicano,1,77.0,23686.0
+dance pop,houston rap,1,76.0,15669.0
+dance pop,trap queen,1,76.0,15669.0
+houston rap,pop,1,76.0,15669.0
+pop,trap queen,1,76.0,15669.0
+houston rap,uk pop,1,76.0,15669.0
+trap queen,uk pop,1,76.0,15669.0
+permanent wave,post-teen pop,1,77.0,29685.0
+bachata,reggaeton,1,81.0,1288985.0
+bachata,trap latino,1,81.0,1288985.0
+bachata,urbano latino,1,81.0,1288985.0
+bachata dominicana,reggaeton,1,81.0,1288985.0
+bachata dominicana,trap latino,1,81.0,1288985.0
+bachata dominicana,urbano latino,1,81.0,1288985.0
+reggaeton flow,trap boricua,1,73.0,6641.0
+gruperas inmortales,latin talent show,1,58.0,8748.0
+gruperas inmortales,mariachi,1,58.0,8748.0
+gruperas inmortales,ranchera,1,58.0,8748.0
+latin talent show,musica mexicana,1,58.0,8748.0
+latin talent show,nu-cumbia,1,58.0,8748.0
+mariachi,nu-cumbia,1,58.0,8748.0
+nu-cumbia,ranchera,1,58.0,8748.0
+latin talent show,ranchera,1,58.0,8748.0
+latin talent show,tropical,1,58.0,8748.0
+mariachi,tropical,1,58.0,8748.0
+ranchera,tropical,1,58.0,8748.0

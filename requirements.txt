@@ -2,7 +2,7 @@ seaborn
 pandasql
 plotly
 pandas
-sklearn
+scikit-learn
 orjson
 streamlit
 python-dateutil
@@ -11,3 +11,4 @@ wordcloud
 matplotlib
 Pillow
 numpy
+chardet

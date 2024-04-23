@@ -1,0 +1,963 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+filmi,modern bollywood,964,58.48108108108108,4819040.475675676
+desi pop,modern bollywood,937,58.72043010752688,4917346.424731183
+desi pop,filmi,797,58.89071038251366,5031516.426229509
+modern bollywood,modern bollywood,553,58.54651162790697,4930330.848837209
+filmi,filmi,434,58.63030303030303,4818436.266666667
+desi pop,desi pop,421,58.0,5043903.895027624
+desi pop,punjabi pop,125,44.78787878787879,3149599.090909091
+desi hip hop,desi pop,83,48.27272727272727,3972766.090909091
+modern bollywood,punjabi pop,81,57.73529411764706,3688000.6764705884
+desi hip hop,filmi,71,56.06666666666667,4323905.633333334
+desi hip hop,modern bollywood,66,56.11538461538461,4966013.461538462
+filmi,punjabi pop,64,57.92857142857143,3818864.964285714
+pop,pop,60,58.07142857142857,3956374.5178571427
+gujarati pop,modern bollywood,49,58.15,3641781.1
+desi pop,desi trap,45,50.666666666666664,4786125.416666667
+filmi,gujarati pop,43,58.15,3641781.1
+rap,trap,43,70.47058823529412,3364065.470588235
+modern bollywood,sufi,43,58.09090909090909,2453039.6363636362
+desi trap,filmi,42,61.5,6167454.642857143
+desi trap,modern bollywood,42,61.5,6167454.642857143
+desi pop,gujarati pop,42,58.15,3641781.1
+hare krishna,modern bollywood,41,57.44444444444444,3791913.8333333335
+classic pakistani pop,modern bollywood,41,65.4,3193704.8
+filmi,hare krishna,38,57.125,3811313.8125
+rap,rap,38,73.0,3205890.52
+punjabi pop,punjabi pop,37,42.32258064516129,3134819.9677419355
+pop,rap,37,60.84848484848485,3439115.0606060605
+desi pop,sufi,37,53.25,3542169.25
+classic pakistani pop,desi pop,35,65.4,3193704.8
+filmi,sufi,33,47.083333333333336,3538986.0
+hip hop,rap,33,74.4,2244560.55
+indian instrumental,modern bollywood,32,64.33333333333333,6861988.75
+desi pop,hare krishna,32,58.875,4230415.75
+classic pakistani pop,filmi,31,64.44444444444444,3541619.888888889
+melodic rap,rap,29,67.8,3787727.0
+filmi,indian instrumental,27,64.33333333333333,6861988.75
+desi hip hop,desi hip hop,26,39.3,2391444.6
+desi hip hop,desi trap,23,40.266666666666666,2022882.3333333333
+desi pop,indian instrumental,22,63.095238095238095,6978141.333333333
+desi hip hop,punjabi pop,22,26.047619047619047,1981117.5714285714
+desi hip hop,hindi hip hop,21,34.5,2431034.0
+melodic rap,trap,20,65.25,4191714.5
+atl hip hop,rap,16,69.25,2000950.3333333333
+pop rap,rap,16,72.0,2186031.714285714
+melodic rap,pop,15,50.13333333333333,3687012.3333333335
+edm,pop,15,74.35714285714286,4402039.571428572
+modern bollywood,qawwali,15,63.0,1404783.6666666667
+punjabi hip hop,punjabi pop,14,21.083333333333332,1638480.0833333333
+canadian hip hop,rap,14,74.33333333333333,2046822.5555555555
+rap,toronto rap,14,74.33333333333333,2046822.5555555555
+pop,trap,14,65.07692307692308,4770554.615384615
+hip hop,pop,14,67.53846153846153,2503328.6923076925
+hip hop,trap,14,72.6,2223822.6
+electropop,pop,13,64.27272727272727,6130215.909090909
+trap,trap,13,70.85714285714286,3355825.1428571427
+desi pop,hindi hip hop,13,33.0,2560494.5384615385
+desi pop,qawwali,13,63.0,1404783.6666666667
+pakistani hip hop,punjabi pop,12,17.727272727272727,1748633.9090909092
+dance pop,pop,12,68.66666666666667,3604091.75
+canadian pop,pop,12,74.5,6811749.9
+canadian pop,rap,11,74.54545454545455,4151351.4545454546
+pop rap,trap,11,69.66666666666667,2680079.3333333335
+pop,reggaeton,11,70.28571428571429,3722501.4285714286
+pop,urbano latino,11,70.28571428571429,3722501.4285714286
+k-pop,pop,10,50.5,3565344.7
+reggaeton,trap latino,10,80.0,269113.3333333333
+reggaeton,urbano latino,10,80.0,269113.3333333333
+trap latino,urbano latino,10,80.0,269113.3333333333
+filmi,tamil pop,10,60.0,3073000.5555555555
+pop dance,uk dance,10,80.0,1363336.0
+pop,trap latino,10,69.83333333333333,4226267.333333333
+filmi,qawwali,10,63.0,1404783.6666666667
+pop,viral pop,9,33.44444444444444,4256359.666666667
+canadian hip hop,trap,9,73.0,2231765.6666666665
+toronto rap,trap,9,73.0,2231765.6666666665
+canadian trap,rap,9,69.25,2020748.5
+hip hop,hip hop,9,73.44444444444444,1477097.0
+hip hop,melodic rap,9,74.71428571428571,4353091.571428572
+desi pop,punjabi hip hop,9,34.42857142857143,3267772.4285714286
+australian pop,pop,8,21.875,1490161.25
+desi trap,hindi hip hop,8,49.0,2515361.4
+melodic rap,melodic rap,8,60.375,3280347.75
+desi pop,indian fusion,8,55.25,6482902.25
+indian fusion,modern bollywood,8,55.25,6482902.25
+pop,post-teen pop,8,70.0,4275685.285714285
+pop,pop dance,8,72.0,4446949.0
+melodic rap,slap house,7,58.333333333333336,3190988.6666666665
+canadian trap,trap,7,69.25,2020748.5
+atl hip hop,pop,7,64.0,5088390.0
+chicago rap,pop,7,43.57142857142857,1993213.2857142857
+canadian hip hop,pop rap,7,72.66666666666667,2425389.5
+filmi,indian fusion,7,55.25,6482902.25
+atl trap,rap,7,64.0,740468.6666666666
+pop,uk pop,7,66.42857142857143,3610344.5714285714
+canadian hip hop,hip hop,7,76.0,1809364.5
+hip hop,toronto rap,7,76.0,1809364.5
+hip hop,pop rap,7,74.2,1570595.8
+north carolina hip hop,rap,7,73.75,3999694.25
+detroit hip hop,hip hop,7,65.0,53240.666666666664
+desi hip hop,punjabi hip hop,7,31.0,3360112.8333333335
+classic bollywood,filmi,7,51.0,556545.6666666666
+classic bollywood,modern bollywood,7,51.0,556545.6666666666
+filmi,tollywood,7,44.2,444299.6
+atl hip hop,melodic rap,6,62.333333333333336,3184989.3333333335
+atl hip hop,trap,6,70.75,2119249.5
+pop rap,toronto rap,6,72.0,2591014.8
+melodic rap,pop rap,6,69.66666666666667,2680079.3333333335
+gangster rap,rap,6,60.666666666666664,525041.3333333334
+canadian pop,hip hop,6,74.33333333333333,2974112.6666666665
+detroit hip hop,rap,6,69.0,1276292.6
+r&b,rap,6,77.75,615588.25
+atl hip hop,hip hop,6,74.33333333333333,799997.6666666666
+pop,pop rap,6,66.2,1713467.6
+detroit hip hop,east coast hip hop,6,62.0,20530.0
+filmi,kollywood,5,56.4,1431365.8
+atl hip hop,canadian hip hop,5,72.0,2104915.6
+atl hip hop,toronto rap,5,72.0,2104915.6
+canadian pop,melodic rap,5,72.6,5865790.0
+k-pop girl group,pop,5,69.0,2625738.4
+art pop,pop,5,76.6,4401386.0
+desi pop,pakistani pop,5,24.333333333333332,7036105.666666667
+filmi,pakistani pop,5,24.333333333333332,7036105.666666667
+reggaeton,reggaeton,5,80.0,269113.3333333333
+trap latino,trap latino,5,80.0,269113.3333333333
+urbano latino,urbano latino,5,80.0,269113.3333333333
+north carolina hip hop,trap,5,73.75,3999694.25
+filmi,hindi indie,5,55.0,5765971.333333333
+desi trap,punjabi pop,5,37.4,3420474.0
+pop,reggaeton colombiano,5,74.2,635063.0
+brostep,pop,5,78.8,6002412.0
+pop,progressive electro house,5,78.8,6002412.0
+pakistani hip hop,punjabi hip hop,5,18.0,4132627.5
+pop dance,pop dance,5,80.0,1363336.0
+uk dance,uk dance,5,80.0,1363336.0
+etherpop,pop,5,62.75,9168461.75
+indie poptimism,pop,5,62.75,9168461.75
+bhangra,modern bollywood,5,48.0,343998.0
+chutney,filmi,5,36.5,108700.5
+desi hip hop,tamil pop,5,57.25,403388.5
+rap,slap house,5,70.75,775782.0
+modern bollywood,tollywood,5,58.0,290444.6666666667
+indian folk,modern bollywood,5,63.5,464688.5
+electro house,melodic rap,4,53.0,4701095.75
+electro house,slap house,4,53.0,4701095.75
+melodic rap,pop dance,4,53.0,4701095.75
+pop dance,slap house,4,53.0,4701095.75
+slap house,slap house,4,53.0,4701095.75
+kollywood,tamil pop,4,54.75,1777912.25
+desi trap,desi trap,4,53.0,3133343.0
+electropop,uk pop,4,54.25,3436729.0
+dancehall,desi hip hop,4,58.5,6099301.0
+desi hip hop,uk dancehall,4,58.5,6099301.0
+dancehall,desi trap,4,58.5,6099301.0
+desi trap,uk dancehall,4,58.5,6099301.0
+modern rock,pop,4,72.75,2254082.0
+atl hip hop,canadian pop,4,77.5,6634736.5
+canadian pop,trap,4,78.0,7203491.75
+canadian trap,pop rap,4,69.66666666666667,2680079.3333333335
+dfw rap,rap,4,65.0,6839351.5
+dfw rap,trap,4,65.0,6839351.5
+desi hip hop,indian edm,4,0.0,2756633.0
+edm,rap,4,55.25,2414229.0
+pop,tropical house,4,66.5,433910.75
+dance pop,rap,4,57.0,2572824.25
+rap,uk pop,4,57.0,1631825.25
+desi hip hop,indian underground rap,4,41.0,135918.5
+canadian pop,pop rap,4,70.5,3128459.5
+filmi,new beat,4,56.25,4528904.0
+detroit hip hop,detroit hip hop,4,64.5,66647.0
+tollywood,tollywood,4,53.5,1333794.25
+punjabi hip hop,punjabi hip hop,4,18.0,4132627.5
+pop,pop r&b,4,83.33333333333333,8705571.333333334
+dance pop,reggaeton,4,75.0,187607.0
+dance pop,trap latino,4,75.0,187607.0
+dance pop,urbano latino,4,75.0,187607.0
+desi pop,indian singer-songwriter,4,53.5,3054079.0
+filmi,indian singer-songwriter,4,53.5,3054079.0
+k-pop boy group,pop,4,21.25,5469317.0
+indietronica,pop,4,67.75,212367.75
+bhangra,desi pop,4,48.0,343998.0
+desi pop,haryanvi hip hop,4,66.0,72731.0
+filmi,haryanvi hip hop,4,66.0,72731.0
+haryanvi hip hop,modern bollywood,4,66.0,72731.0
+pop dance,uk pop,4,79.0,3814557.3333333335
+desi pop,pakistani hip hop,4,63.5,7011381.0
+hindi indie,modern bollywood,4,55.0,5765971.333333333
+new beat,tollywood,4,55.0,2316922.0
+tamil pop,tollywood,4,55.0,2316922.0
+slap house,trap,4,68.33333333333333,260802.66666666666
+desi pop,tollywood,4,57.0,281288.5
+pop dance,pop house,4,79.0,336071.0
+pop house,uk dance,4,79.0,336071.0
+east coast hip hop,hip hop,4,62.0,20530.0
+desi hip hop,tollywood,4,47.0,567206.0
+gujarati pop,hare krishna,3,55.666666666666664,1582046.0
+atl hip hop,canadian trap,3,67.0,2497333.0
+canadian hip hop,melodic rap,3,67.0,2497333.0
+canadian trap,melodic rap,3,67.0,2497333.0
+melodic rap,toronto rap,3,67.0,2497333.0
+la pop,pop,3,0.0,159519.66666666666
+hip hop,viral pop,3,69.0,234039.33333333334
+rap,viral pop,3,69.0,234039.33333333334
+chamber pop,pop,3,68.66666666666667,446217.3333333333
+indie folk,pop,3,68.66666666666667,446217.3333333333
+nz pop,pop,3,75.0,11839244.5
+dance pop,k-pop,3,70.66666666666667,2789088.0
+atl hip hop,dfw rap,3,57.666666666666664,3872645.6666666665
+dfw rap,melodic rap,3,57.666666666666664,6104464.0
+atl trap,pop,3,51.0,1004927.3333333334
+australian dance,pop,3,53.666666666666664,3279244.6666666665
+hindi hip hop,indian edm,3,0.0,2756633.0
+desi hip hop,gujarati pop,3,59.333333333333336,3040544.6666666665
+desi hip hop,hare krishna,3,64.33333333333333,512942.6666666667
+desi trap,hare krishna,3,64.33333333333333,512942.6666666667
+dance pop,hip hop,3,54.333333333333336,3245853.3333333335
+hip hop,uk pop,3,51.0,1444212.0
+dance pop,north carolina hip hop,3,54.333333333333336,3245853.3333333335
+north carolina hip hop,pop,3,54.333333333333336,3245853.3333333335
+dance pop,trap,3,54.333333333333336,3245853.3333333335
+desi hip hop,sufi,3,21.666666666666668,5645779.333333333
+hindi hip hop,hindi hip hop,3,42.666666666666664,126068.33333333333
+desi trap,indian underground rap,3,41.0,135918.5
+pop,slap house,3,67.0,1666445.6666666667
+r&b en espanol,rap,3,70.5,2475098.5
+melodic rap,north carolina hip hop,3,71.0,5004592.666666667
+gangster rap,hip hop,3,66.33333333333333,144029.0
+detroit hip hop,gangster rap,3,64.5,66647.0
+detroit hip hop,hardcore hip hop,3,64.5,66647.0
+hindi hip hop,punjabi pop,3,21.333333333333332,5095036.333333333
+pop,r&b,3,46.666666666666664,636174.0
+post-teen pop,rap,3,61.666666666666664,2521718.6666666665
+edm,post-teen pop,3,76.0,4610690.333333333
+edm,electropop,3,71.66666666666667,5957673.333333333
+electro house,pop,3,64.66666666666667,8593285.0
+canadian pop,chicago rap,3,76.33333333333333,3920185.0
+indietronica,rap,3,72.5,1246729.0
+metropopolis,pop,3,74.66666666666667,2744247.6666666665
+hip hop,r&b,3,81.0,308207.5
+filmi,tamil hip hop,3,62.333333333333336,2751879.3333333335
+bhangra,filmi,3,48.0,343998.0
+gujarati pop,punjabi pop,3,59.333333333333336,1697951.6666666667
+uk dance,uk pop,3,80.5,334618.5
+r&b,trap,3,77.5,367616.5
+desi pop,hindi indie,3,55.0,5765971.333333333
+chutney,modern bollywood,3,36.5,108700.5
+tamil hip hop,tamil pop,3,60.666666666666664,348782.6666666667
+atl trap,hip hop,3,73.0,574883.6666666666
+atl hip hop,slap house,3,68.33333333333333,260802.66666666666
+canadian trap,hip hop,3,72.0,316875.5
+canadian contemporary r&b,pop,3,70.0,1080986.6666666667
+electronic trap,pop,3,81.0,9309282.5
+pop,puerto rican pop,3,76.0,7464704.0
+modern bollywood,pakistani pop,3,73.0,5561452.0
+filmi,indian folk,3,63.5,464688.5
+canadian pop,edm,3,78.0,7387572.0
+deep underground hip hop,rap,3,76.0,590995.0
+kentucky hip hop,rap,3,76.0,590995.0
+deep underground hip hop,trap,3,76.0,590995.0
+kentucky hip hop,trap,3,76.0,590995.0
+new orleans rap,rap,3,76.0,590995.0
+reggaeton,uk pop,3,75.0,275063.0
+trap latino,uk pop,3,75.0,275063.0
+uk pop,urbano latino,3,75.0,275063.0
+hindi hip hop,modern bollywood,3,49.0,5704663.5
+alternative hip hop,detroit hip hop,3,62.0,20530.0
+detroit hip hop,queens hip hop,3,62.0,20530.0
+dancehall,desi pop,2,58.5,6099301.0
+desi pop,uk dancehall,2,58.5,6099301.0
+dancehall,hindi hip hop,2,58.5,6099301.0
+hindi hip hop,uk dancehall,2,58.5,6099301.0
+detroit hip hop,piano rock,2,60.5,73680.0
+detroit hip hop,viral pop,2,60.5,73680.0
+hip hop,piano rock,2,60.5,73680.0
+piano rock,rap,2,60.5,73680.0
+eau claire indie,pop,2,72.5,648839.5
+melancholia,pop,2,72.5,648839.5
+chicago rap,electropop,2,0.0,281374.0
+electropop,melodic rap,2,0.0,281374.0
+electropop,rap,2,0.0,281374.0
+chicago rap,etherpop,2,0.0,281374.0
+etherpop,melodic rap,2,0.0,281374.0
+etherpop,rap,2,0.0,281374.0
+chicago rap,indie poptimism,2,0.0,281374.0
+indie poptimism,melodic rap,2,0.0,281374.0
+indie poptimism,rap,2,0.0,281374.0
+atl hip hop,pop rap,2,66.5,3724621.5
+dance pop,nz pop,2,75.0,11839244.5
+art pop,k-pop,2,70.0,568038.5
+art pop,k-pop girl group,2,70.0,568038.5
+dance pop,k-pop girl group,2,70.0,568038.5
+cali rap,melodic rap,2,38.0,9206149.0
+indian fusion,indian instrumental,2,61.5,12345137.0
+k-pop,post-teen pop,2,69.5,5275494.5
+k-pop girl group,post-teen pop,2,69.5,5275494.5
+atl trap,dfw rap,2,43.0,1286961.5
+dfw rap,gangster rap,2,43.0,1286961.5
+atl trap,melodic rap,2,43.0,1286961.5
+gangster rap,melodic rap,2,43.0,1286961.5
+gangster rap,pop,2,43.0,1286961.5
+australian dance,uk pop,2,80.5,4513457.5
+australian pop,uk pop,2,80.5,4513457.5
+gujarati pop,indian instrumental,2,66.0,10008106.5
+desi hip hop,hindi indie,2,0.0,2756633.0
+hindi hip hop,hindi indie,2,0.0,2756633.0
+desi trap,gujarati pop,2,61.5,3203952.0
+brostep,chicago rap,2,41.5,912759.5
+chicago rap,edm,2,41.5,912759.5
+chicago rap,progressive electro house,2,41.5,912759.5
+brostep,melodic rap,2,41.5,912759.5
+edm,melodic rap,2,41.5,912759.5
+melodic rap,progressive electro house,2,41.5,912759.5
+brostep,rap,2,41.5,912759.5
+progressive electro house,rap,2,41.5,912759.5
+edm,piano rock,2,71.0,589434.5
+piano rock,pop,2,71.0,589434.5
+piano rock,pop dance,2,71.0,589434.5
+piano rock,tropical house,2,71.0,589434.5
+north carolina hip hop,uk pop,2,43.0,2068565.0
+trap,uk pop,2,43.0,2068565.0
+desi hip hop,pakistani pop,2,0.0,7773432.5
+desi pop,indian underground rap,2,41.0,135918.5
+hindi hip hop,indian underground rap,2,41.0,135918.5
+canadian pop,canadian pop,2,72.0,2081519.5
+canadian pop,viral pop,2,72.0,2081519.5
+canadian hip hop,miami hip hop,2,75.5,2457418.0
+canadian pop,miami hip hop,2,75.5,2457418.0
+hip hop,miami hip hop,2,75.5,2457418.0
+miami hip hop,rap,2,75.5,2457418.0
+miami hip hop,toronto rap,2,75.5,2457418.0
+melodic rap,philly rap,2,54.5,218695.5
+melodic rap,rage rap,2,54.5,218695.5
+hip hop,r&b en espanol,2,70.5,2475098.5
+r&b en espanol,slap house,2,70.5,2475098.5
+hardcore hip hop,hip hop,2,64.5,66647.0
+hardcore hip hop,rap,2,64.5,66647.0
+kollywood,malayalam indie,2,51.5,358793.5
+kollywood,mollywood,2,51.5,358793.5
+melodic rap,post-teen pop,2,29.0,1539955.5
+canadian pop,reggaeton,2,71.0,1162319.5
+canadian pop,reggaeton colombiano,2,71.0,1162319.5
+canadian pop,urbano latino,2,71.0,1162319.5
+houston rap,pop,2,75.5,5592086.5
+pop,trap queen,2,75.5,5592086.5
+brostep,post-teen pop,2,76.0,3183683.5
+post-teen pop,progressive electro house,2,76.0,3183683.5
+electropop,pop dance,2,69.0,5482258.0
+pop,singer-songwriter pop,2,78.5,3874192.0
+basshall,desi pop,2,63.0,5775538.0
+basshall,modern bollywood,2,63.0,5775538.0
+electropop,pop r&b,2,86.5,10666333.0
+pop dance,scandipop,2,70.5,1893732.0
+indietronica,melodic rap,2,72.5,1246729.0
+chicago rap,hip hop,2,83.5,4231647.0
+chicago rap,rap,2,83.5,4231647.0
+dance pop,reggaeton colombiano,2,75.0,187607.0
+k-rap,korean pop,2,31.5,23568.5
+indian singer-songwriter,punjabi pop,2,69.0,5999395.0
+indian singer-songwriter,modern bollywood,2,38.0,108763.0
+brostep,metropopolis,2,80.5,3981025.0
+edm,metropopolis,2,80.5,3981025.0
+metropopolis,progressive electro house,2,80.5,3981025.0
+conscious hip hop,pop,2,80.0,3799260.0
+desi pop,pakistani folk,2,56.0,887603.0
+desi pop,world,2,56.0,887603.0
+modern bollywood,pakistani folk,2,56.0,887603.0
+modern bollywood,world,2,56.0,887603.0
+hindi indie,indian edm,2,17.5,68122.0
+indian edm,indian edm,2,17.5,68122.0
+desi hip hop,indian electronic,2,0.0,100961.0
+filmi,pakistani hip hop,2,55.0,2713730.0
+filmi,punjabi hip hop,2,55.0,2713730.0
+modern bollywood,pakistani hip hop,2,55.0,2713730.0
+modern bollywood,punjabi hip hop,2,55.0,2713730.0
+classic bollywood,hare krishna,2,46.0,283898.5
+rap,reggaeton,2,77.5,3970083.0
+rap,trap latino,2,77.5,3970083.0
+rap,urbano latino,2,77.5,3970083.0
+desi trap,punjabi hip hop,2,57.0,1815083.5
+hindi hip hop,punjabi hip hop,2,57.0,1815083.5
+atl trap,slap house,2,68.5,369826.0
+escape room,rap,2,70.0,298793.0
+new rave,rap,2,70.0,298793.0
+classic pakistani pop,punjabi pop,2,64.5,2224521.0
+punjabi pop,sufi,2,64.5,2224521.0
+hare krishna,punjabi pop,2,68.0,6083967.0
+pop dance,rap,2,69.0,3915698.5
+brooklyn drill,rap,2,82.0,984999.0
+brooklyn drill,trap,2,82.0,984999.0
+house,pop,2,71.5,243925.5
+pop,uk dance,2,71.5,243925.5
+hip hop,ohio hip hop,2,72.0,1173574.0
+ohio hip hop,rap,2,72.0,1173574.0
+alabama rap,pop,2,70.0,2401389.0
+canadian pop,dance pop,2,77.5,13462948.5
+alt z,pop,2,78.0,6869385.5
+deep underground hip hop,hip hop,2,76.0,590995.0
+hip hop,kentucky hip hop,2,76.0,590995.0
+north carolina hip hop,pop rap,2,76.0,590995.0
+new orleans rap,trap,2,76.0,590995.0
+pop rap,r&b,2,76.0,590995.0
+reggaeton,reggaeton colombiano,2,75.0,275063.0
+reggaeton colombiano,trap latino,2,75.0,275063.0
+reggaeton colombiano,urbano latino,2,75.0,275063.0
+pop reggaeton,reggaeton,2,75.0,275063.0
+pop reggaeton,trap latino,2,75.0,275063.0
+pop reggaeton,urbano latino,2,75.0,275063.0
+canadian pop,pop dance,2,81.0,10964148.0
+desi pop,indian folk,2,69.0,904093.0
+desi hip hop,pakistani hip hop,2,72.0,11309032.0
+bhajan,filmi,2,60.0,25611.0
+bhajan,modern bollywood,2,60.0,25611.0
+filmi,ghazal,2,60.0,25611.0
+ghazal,modern bollywood,2,60.0,25611.0
+filmi,hindi hip hop,2,49.0,5704663.5
+desi pop,indian indie,2,74.0,11013786.0
+filmi,indian indie,2,74.0,11013786.0
+indian indie,modern bollywood,2,74.0,11013786.0
+alternative hip hop,hip hop,2,62.0,20530.0
+east coast hip hop,rap,2,62.0,20530.0
+east coast hip hop,gangster rap,2,62.0,20530.0
+east coast hip hop,hardcore hip hop,2,62.0,20530.0
+hip hop,queens hip hop,2,62.0,20530.0
+desi hip hop,new beat,2,47.0,567206.0
+telugu hip hop,tollywood,2,47.0,567206.0
+hip hop,viral rap,2,78.0,2320720.0
+rap,viral rap,2,78.0,2320720.0
+atl hip hop,post-teen pop,1,57.0,53567.0
+post-teen pop,r&b,1,57.0,53567.0
+post-teen pop,trap,1,57.0,53567.0
+canadian contemporary r&b,latin pop,1,73.0,699906.0
+canadian pop,latin pop,1,73.0,699906.0
+latin pop,pop,1,73.0,699906.0
+canadian contemporary r&b,reggaeton,1,73.0,699906.0
+canadian contemporary r&b,reggaeton colombiano,1,73.0,699906.0
+canadian contemporary r&b,urbano latino,1,73.0,699906.0
+dance pop,desi pop,1,51.0,2187819.0
+desi pop,pop,1,51.0,2187819.0
+desi pop,pop rap,1,51.0,2187819.0
+dance pop,filmi,1,51.0,2187819.0
+filmi,pop,1,51.0,2187819.0
+filmi,pop rap,1,51.0,2187819.0
+dance pop,modern bollywood,1,51.0,2187819.0
+modern bollywood,pop,1,51.0,2187819.0
+modern bollywood,pop rap,1,51.0,2187819.0
+k-pop,rap,1,66.0,1441626.0
+k-pop girl group,rap,1,66.0,1441626.0
+k-pop,k-pop,1,75.0,647487.0
+houston rap,r&b,1,70.0,1701700.0
+r&b,trap queen,1,70.0,1701700.0
+atl hip hop,uk hip hop,1,43.0,19736.0
+rap,uk hip hop,1,43.0,19736.0
+trap,uk hip hop,1,43.0,19736.0
+electropop,tropical house,1,62.0,190081.0
+canadian contemporary r&b,electro,1,94.0,891677.0
+canadian pop,electro,1,94.0,891677.0
+electro,pop,1,94.0,891677.0
+canadian contemporary r&b,filter house,1,94.0,891677.0
+canadian pop,filter house,1,94.0,891677.0
+filter house,pop,1,94.0,891677.0
+canadian contemporary r&b,rock,1,94.0,891677.0
+canadian pop,rock,1,94.0,891677.0
+pop,rock,1,94.0,891677.0
+classic bollywood,desi pop,1,61.0,1101840.0
+pop r&b,singer-songwriter pop,1,77.0,4784048.0
+pop r&b,uk pop,1,77.0,4784048.0
+kollywood,kollywood,1,42.0,30761.0
+basshall,filmi,1,63.0,5775538.0
+tamil pop,tamil pop,1,61.0,2414092.0
+canadian contemporary r&b,chicago rap,1,73.0,1796461.0
+canadian contemporary r&b,melodic rap,1,73.0,1796461.0
+canadian contemporary r&b,rap,1,73.0,1796461.0
+art pop,pop r&b,1,91.0,18743954.0
+alternative r&b,detroit hip hop,1,65.0,149441.0
+detroit hip hop,lgbtq+ hip hop,1,65.0,149441.0
+detroit hip hop,nyc rap,1,65.0,149441.0
+detroit hip hop,trap,1,65.0,149441.0
+alternative r&b,hip hop,1,65.0,149441.0
+hip hop,lgbtq+ hip hop,1,65.0,149441.0
+hip hop,nyc rap,1,65.0,149441.0
+alternative r&b,rap,1,65.0,149441.0
+lgbtq+ hip hop,rap,1,65.0,149441.0
+nyc rap,rap,1,65.0,149441.0
+sad lo-fi,spanish indie pop,1,78.0,16512534.0
+german dance,pop dance,1,79.0,3420771.0
+pop dance,pop edm,1,79.0,3420771.0
+german dance,scandipop,1,79.0,3420771.0
+pop edm,scandipop,1,79.0,3420771.0
+scandipop,uk dance,1,79.0,3420771.0
+german dance,uk dance,1,79.0,3420771.0
+pop edm,uk dance,1,79.0,3420771.0
+chicago rap,indietronica,1,75.0,2194665.0
+chicago rap,metropopolis,1,75.0,2194665.0
+melodic rap,metropopolis,1,75.0,2194665.0
+metropopolis,rap,1,75.0,2194665.0
+chicago rap,uk pop,1,75.0,2194665.0
+melodic rap,uk pop,1,75.0,2194665.0
+desi hip hop,rock kapak,1,60.0,7341485.0
+desi pop,rock kapak,1,60.0,7341485.0
+punjabi pop,rock kapak,1,60.0,7341485.0
+dark trap,pop rap,1,76.0,1597263.0
+meme rap,pop rap,1,76.0,1597263.0
+canadian hip hop,viral rap,1,76.0,1597263.0
+dark trap,viral rap,1,76.0,1597263.0
+meme rap,viral rap,1,76.0,1597263.0
+chicago rap,detroit hip hop,1,85.0,6072300.0
+detroit hip hop,melodic rap,1,85.0,6072300.0
+pop rap,reggaeton,1,75.0,100151.0
+pop rap,reggaeton colombiano,1,75.0,100151.0
+pop rap,trap latino,1,75.0,100151.0
+pop rap,urbano latino,1,75.0,100151.0
+houston rap,rap,1,81.0,9482473.0
+rap,trap queen,1,81.0,9482473.0
+etherpop,pop r&b,1,82.0,2588712.0
+indie poptimism,pop r&b,1,82.0,2588712.0
+desi hip hop,uk hip hop,1,40.0,155150.0
+desi pop,uk hip hop,1,40.0,155150.0
+desi trap,uk hip hop,1,40.0,155150.0
+hindi hip hop,uk hip hop,1,40.0,155150.0
+k-rap,k-rap,1,0.0,64913.0
+electropop,electropop,1,87.0,13668152.0
+electropop,etherpop,1,87.0,13668152.0
+electropop,indie poptimism,1,87.0,13668152.0
+gujarati pop,gujarati pop,1,59.0,3244592.0
+dance pop,k-pop boy group,1,72.0,7231187.0
+k-pop,nz pop,1,72.0,7231187.0
+k-pop boy group,nz pop,1,72.0,7231187.0
+cali rap,reggaeton,1,69.0,1624733.0
+cali rap,reggaeton colombiano,1,69.0,1624733.0
+cali rap,trap latino,1,69.0,1624733.0
+cali rap,urbano latino,1,69.0,1624733.0
+cali rap,canadian pop,1,69.0,1624733.0
+cali rap,pop,1,69.0,1624733.0
+canadian pop,trap latino,1,69.0,1624733.0
+melodic rap,reggaeton,1,69.0,1624733.0
+melodic rap,reggaeton colombiano,1,69.0,1624733.0
+melodic rap,trap latino,1,69.0,1624733.0
+melodic rap,urbano latino,1,69.0,1624733.0
+desi pop,new beat,1,67.0,17281304.0
+desi pop,tamil pop,1,67.0,17281304.0
+modern bollywood,new beat,1,67.0,17281304.0
+modern bollywood,tamil pop,1,67.0,17281304.0
+canadian hip hop,plugg,1,80.0,115973.0
+canadian hip hop,pluggnb,1,80.0,115973.0
+canadian hip hop,rage rap,1,80.0,115973.0
+canadian pop,plugg,1,80.0,115973.0
+canadian pop,pluggnb,1,80.0,115973.0
+canadian pop,rage rap,1,80.0,115973.0
+hip hop,plugg,1,80.0,115973.0
+hip hop,pluggnb,1,80.0,115973.0
+hip hop,rage rap,1,80.0,115973.0
+plugg,rap,1,80.0,115973.0
+pluggnb,rap,1,80.0,115973.0
+rage rap,rap,1,80.0,115973.0
+plugg,toronto rap,1,80.0,115973.0
+pluggnb,toronto rap,1,80.0,115973.0
+rage rap,toronto rap,1,80.0,115973.0
+brostep,indietronica,1,76.0,284374.0
+edm,indietronica,1,76.0,284374.0
+indietronica,progressive electro house,1,76.0,284374.0
+brostep,neo-synthpop,1,76.0,284374.0
+edm,neo-synthpop,1,76.0,284374.0
+neo-synthpop,pop,1,76.0,284374.0
+neo-synthpop,progressive electro house,1,76.0,284374.0
+brostep,shimmer pop,1,76.0,284374.0
+edm,shimmer pop,1,76.0,284374.0
+pop,shimmer pop,1,76.0,284374.0
+progressive electro house,shimmer pop,1,76.0,284374.0
+hip hop,post-teen pop,1,52.0,46885.0
+ohio hip hop,pop,1,52.0,46885.0
+ohio hip hop,post-teen pop,1,52.0,46885.0
+pop rap,post-teen pop,1,52.0,46885.0
+conscious hip hop,r&b,1,86.0,25420.0
+conscious hip hop,rap,1,86.0,25420.0
+pop,west coast rap,1,86.0,25420.0
+r&b,west coast rap,1,86.0,25420.0
+rap,west coast rap,1,86.0,25420.0
+desi pop,tamil hip hop,1,65.0,7320383.0
+modern bollywood,tamil hip hop,1,65.0,7320383.0
+post-teen pop,uk pop,1,63.0,177572.0
+desi hip hop,haryanvi hip hop,1,66.0,72731.0
+desi trap,haryanvi hip hop,1,66.0,72731.0
+classic pakistani pop,indian fusion,1,56.0,887603.0
+classic pakistani pop,pakistani folk,1,56.0,887603.0
+classic pakistani pop,qawwali,1,56.0,887603.0
+classic pakistani pop,sufi,1,56.0,887603.0
+classic pakistani pop,world,1,56.0,887603.0
+filmi,pakistani folk,1,56.0,887603.0
+filmi,world,1,56.0,887603.0
+indian fusion,sufi,1,56.0,887603.0
+pakistani folk,sufi,1,56.0,887603.0
+qawwali,sufi,1,56.0,887603.0
+sufi,sufi,1,56.0,887603.0
+sufi,world,1,56.0,887603.0
+dance pop,house,1,82.0,333166.0
+dance pop,pop dance,1,82.0,333166.0
+dance pop,uk contemporary r&b,1,82.0,333166.0
+dance pop,uk dance,1,82.0,333166.0
+dance pop,uk pop,1,82.0,333166.0
+house,pop dance,1,82.0,333166.0
+pop dance,uk contemporary r&b,1,82.0,333166.0
+house,uk dance,1,82.0,333166.0
+uk contemporary r&b,uk dance,1,82.0,333166.0
+atl hip hop,r&b,1,79.0,144238.0
+atl trap,r&b,1,79.0,144238.0
+gangster rap,r&b,1,79.0,144238.0
+melodic rap,r&b,1,79.0,144238.0
+desi pop,indian edm,1,0.0,100961.0
+desi pop,indian electronic,1,0.0,100961.0
+hindi indie,indian electronic,1,0.0,100961.0
+indian edm,indian electronic,1,0.0,100961.0
+hindi hip hop,indian electronic,1,0.0,100961.0
+gujarati pop,pakistani hip hop,1,55.0,2713730.0
+gujarati pop,punjabi hip hop,1,55.0,2713730.0
+pittsburgh rap,pop,1,86.0,554758.0
+pop,southern hip hop,1,86.0,554758.0
+pittsburgh rap,viral pop,1,86.0,554758.0
+pop rap,viral pop,1,86.0,554758.0
+southern hip hop,viral pop,1,86.0,554758.0
+trap,viral pop,1,86.0,554758.0
+canadian pop,contemporary country,1,79.0,44454.0
+contemporary country,pop,1,79.0,44454.0
+canadian pop,country,1,79.0,44454.0
+country,pop,1,79.0,44454.0
+canadian pop,country road,1,79.0,44454.0
+country road,pop,1,79.0,44454.0
+hip pop,reggaeton,1,79.0,475462.0
+queens hip hop,reggaeton,1,79.0,475462.0
+hip pop,reggaeton colombiano,1,79.0,475462.0
+queens hip hop,reggaeton colombiano,1,79.0,475462.0
+rap,reggaeton colombiano,1,79.0,475462.0
+hip pop,trap latino,1,79.0,475462.0
+queens hip hop,trap latino,1,79.0,475462.0
+hip pop,urbano latino,1,79.0,475462.0
+queens hip hop,urbano latino,1,79.0,475462.0
+chutney,hare krishna,1,42.0,27131.0
+chutney,classic bollywood,1,42.0,27131.0
+escape room,hip hop,1,70.0,298793.0
+escape room,slap house,1,70.0,298793.0
+hip hop,indietronica,1,70.0,298793.0
+indietronica,slap house,1,70.0,298793.0
+hip hop,new rave,1,70.0,298793.0
+new rave,slap house,1,70.0,298793.0
+atl hip hop,escape room,1,70.0,298793.0
+atl trap,escape room,1,70.0,298793.0
+escape room,gangster rap,1,70.0,298793.0
+escape room,melodic rap,1,70.0,298793.0
+escape room,trap,1,70.0,298793.0
+atl hip hop,indietronica,1,70.0,298793.0
+atl trap,indietronica,1,70.0,298793.0
+gangster rap,indietronica,1,70.0,298793.0
+indietronica,trap,1,70.0,298793.0
+atl hip hop,new rave,1,70.0,298793.0
+atl trap,new rave,1,70.0,298793.0
+gangster rap,new rave,1,70.0,298793.0
+melodic rap,new rave,1,70.0,298793.0
+new rave,trap,1,70.0,298793.0
+gangster rap,slap house,1,70.0,298793.0
+electro house,reggaeton,1,45.0,15417491.0
+electro house,trap latino,1,45.0,15417491.0
+electro house,urbano latino,1,45.0,15417491.0
+canadian pop,slap house,1,60.0,49140.0
+canadian hip hop,chicago drill,1,82.0,2390994.0
+canadian hip hop,chicago rap,1,82.0,2390994.0
+canadian hip hop,drill,1,82.0,2390994.0
+canadian pop,chicago drill,1,82.0,2390994.0
+canadian pop,drill,1,82.0,2390994.0
+chicago drill,hip hop,1,82.0,2390994.0
+drill,hip hop,1,82.0,2390994.0
+chicago drill,rap,1,82.0,2390994.0
+drill,rap,1,82.0,2390994.0
+chicago drill,toronto rap,1,82.0,2390994.0
+chicago rap,toronto rap,1,82.0,2390994.0
+drill,toronto rap,1,82.0,2390994.0
+k-rap,viral pop,1,0.0,56471.0
+latin pop,reggaeton,1,74.0,104747.0
+latin viral pop,reggaeton,1,74.0,104747.0
+reggaeton,viral pop,1,74.0,104747.0
+latin pop,reggaeton flow,1,74.0,104747.0
+latin viral pop,reggaeton flow,1,74.0,104747.0
+reggaeton flow,viral pop,1,74.0,104747.0
+latin pop,urbano latino,1,74.0,104747.0
+latin viral pop,urbano latino,1,74.0,104747.0
+urbano latino,viral pop,1,74.0,104747.0
+electro house,norwegian pop,1,77.0,5110522.0
+electro house,nordic house,1,77.0,5110522.0
+nordic house,norwegian pop,1,77.0,5110522.0
+arab alternative,filmi,1,38.0,259787.0
+filmi,palestinian pop,1,38.0,259787.0
+filmi,palestinian traditional,1,38.0,259787.0
+arab alternative,desi hip hop,1,38.0,259787.0
+desi hip hop,palestinian pop,1,38.0,259787.0
+desi hip hop,palestinian traditional,1,38.0,259787.0
+desi hip hop,tamil hip hop,1,63.0,96153.0
+canadian hip hop,slap house,1,68.0,42756.0
+canadian trap,slap house,1,68.0,42756.0
+slap house,toronto rap,1,68.0,42756.0
+classic pakistani pop,desi hip hop,1,65.0,1390473.0
+classic pakistani pop,desi trap,1,65.0,1390473.0
+desi trap,sufi,1,65.0,1390473.0
+classic pakistani pop,hare krishna,1,65.0,1390473.0
+hare krishna,sufi,1,65.0,1390473.0
+classic pakistani pop,gujarati pop,1,65.0,1390473.0
+gujarati pop,sufi,1,65.0,1390473.0
+electronic trap,rap,1,76.0,7464704.0
+puerto rican pop,rap,1,76.0,7464704.0
+edm,puerto rican pop,1,76.0,7464704.0
+edm,reggaeton,1,76.0,7464704.0
+edm,trap latino,1,76.0,7464704.0
+edm,urbano latino,1,76.0,7464704.0
+electronic trap,puerto rican pop,1,76.0,7464704.0
+electronic trap,reggaeton,1,76.0,7464704.0
+electronic trap,trap latino,1,76.0,7464704.0
+electronic trap,urbano latino,1,76.0,7464704.0
+pop dance,puerto rican pop,1,76.0,7464704.0
+pop dance,reggaeton,1,76.0,7464704.0
+pop dance,trap latino,1,76.0,7464704.0
+pop dance,urbano latino,1,76.0,7464704.0
+electronic trap,post-teen pop,1,76.0,7464704.0
+pop dance,post-teen pop,1,76.0,7464704.0
+post-teen pop,puerto rican pop,1,76.0,7464704.0
+post-teen pop,reggaeton,1,76.0,7464704.0
+post-teen pop,trap latino,1,76.0,7464704.0
+post-teen pop,urbano latino,1,76.0,7464704.0
+electropop,permanent wave,1,88.0,4126226.0
+permanent wave,pop,1,88.0,4126226.0
+k-pop,viral pop,1,65.0,33764.0
+atl hip hop,north carolina hip hop,1,82.0,984999.0
+atl trap,north carolina hip hop,1,82.0,984999.0
+atl trap,trap,1,82.0,984999.0
+brooklyn drill,hip hop,1,82.0,984999.0
+brooklyn drill,north carolina hip hop,1,82.0,984999.0
+atl hip hop,brooklyn drill,1,82.0,984999.0
+atl trap,brooklyn drill,1,82.0,984999.0
+dfw rap,hip hop,1,87.0,9044014.0
+edm,pop r&b,1,71.0,253431.0
+house,pop r&b,1,71.0,253431.0
+indietronica,pop r&b,1,71.0,253431.0
+pop r&b,uk dance,1,71.0,253431.0
+detroit hip hop,ohio hip hop,1,66.0,26428.0
+detroit hip hop,pop rap,1,66.0,26428.0
+brostep,electropop,1,77.0,6908504.0
+electropop,progressive electro house,1,77.0,6908504.0
+brostep,etherpop,1,77.0,6908504.0
+edm,etherpop,1,77.0,6908504.0
+etherpop,progressive electro house,1,77.0,6908504.0
+brostep,indie poptimism,1,77.0,6908504.0
+edm,indie poptimism,1,77.0,6908504.0
+indie poptimism,progressive electro house,1,77.0,6908504.0
+desi hip hop,kollywood,1,63.0,45180.0
+kollywood,tamil hip hop,1,63.0,45180.0
+post-teen pop,viral pop,1,60.0,5369165.0
+canadian hip hop,southern hip hop,1,79.0,2916606.0
+canadian pop,southern hip hop,1,79.0,2916606.0
+hip hop,southern hip hop,1,79.0,2916606.0
+rap,southern hip hop,1,79.0,2916606.0
+southern hip hop,toronto rap,1,79.0,2916606.0
+country rock,lgbtq+ hip hop,1,80.0,2187004.0
+brostep,modern rock,1,85.0,7677676.0
+edm,modern rock,1,85.0,7677676.0
+modern rock,progressive electro house,1,85.0,7677676.0
+bedroom pop,sad lo-fi,1,84.0,23368425.0
+bubblegrunge,sad lo-fi,1,84.0,23368425.0
+indie pop,sad lo-fi,1,84.0,23368425.0
+pov: indie,sad lo-fi,1,84.0,23368425.0
+bedroom pop,sad rap,1,84.0,23368425.0
+bubblegrunge,sad rap,1,84.0,23368425.0
+indie pop,sad rap,1,84.0,23368425.0
+pov: indie,sad rap,1,84.0,23368425.0
+k-rap,korean ost,1,0.0,27113.0
+punjabi pop,qawwali,1,64.0,3058569.0
+alabama rap,canadian pop,1,70.0,2401389.0
+alabama rap,dfw rap,1,70.0,2401389.0
+alabama rap,melodic rap,1,70.0,2401389.0
+alabama rap,rap,1,70.0,2401389.0
+canadian pop,dfw rap,1,70.0,2401389.0
+dfw rap,pop,1,70.0,2401389.0
+canadian pop,comedy rap,1,57.0,25902.0
+canadian pop,indie pop rap,1,57.0,25902.0
+comedy rap,pop,1,57.0,25902.0
+indie pop rap,pop,1,57.0,25902.0
+dance pop,electropop,1,74.0,4725786.0
+canadian contemporary r&b,dance pop,1,72.0,234420.0
+canadian contemporary r&b,edm,1,72.0,234420.0
+canadian contemporary r&b,electro house,1,72.0,234420.0
+canadian pop,electro house,1,72.0,234420.0
+canadian contemporary r&b,house,1,72.0,234420.0
+canadian pop,house,1,72.0,234420.0
+canadian contemporary r&b,progressive house,1,72.0,234420.0
+canadian pop,progressive house,1,72.0,234420.0
+pop,progressive house,1,72.0,234420.0
+canadian contemporary r&b,uk dance,1,72.0,234420.0
+canadian pop,uk dance,1,72.0,234420.0
+edm,hip hop,1,62.0,366693.0
+edm,pop rap,1,62.0,366693.0
+edm,trap,1,62.0,366693.0
+hip hop,pop dance,1,62.0,366693.0
+pop dance,pop rap,1,62.0,366693.0
+pop dance,trap,1,62.0,366693.0
+hip hop,tropical house,1,62.0,366693.0
+pop rap,tropical house,1,62.0,366693.0
+rap,tropical house,1,62.0,366693.0
+trap,tropical house,1,62.0,366693.0
+edm,scandipop,1,62.0,366693.0
+edm,swedish electropop,1,62.0,366693.0
+edm,swedish pop,1,62.0,366693.0
+pop,scandipop,1,62.0,366693.0
+pop,swedish electropop,1,62.0,366693.0
+pop,swedish pop,1,62.0,366693.0
+pop dance,swedish electropop,1,62.0,366693.0
+pop dance,swedish pop,1,62.0,366693.0
+scandipop,tropical house,1,62.0,366693.0
+swedish electropop,tropical house,1,62.0,366693.0
+swedish pop,tropical house,1,62.0,366693.0
+hip hop,scandipop,1,62.0,366693.0
+hip hop,swedish electropop,1,62.0,366693.0
+hip hop,swedish pop,1,62.0,366693.0
+pop rap,scandipop,1,62.0,366693.0
+pop rap,swedish electropop,1,62.0,366693.0
+pop rap,swedish pop,1,62.0,366693.0
+rap,scandipop,1,62.0,366693.0
+rap,swedish electropop,1,62.0,366693.0
+rap,swedish pop,1,62.0,366693.0
+scandipop,trap,1,62.0,366693.0
+swedish electropop,trap,1,62.0,366693.0
+swedish pop,trap,1,62.0,366693.0
+deep underground hip hop,north carolina hip hop,1,76.0,590995.0
+kentucky hip hop,north carolina hip hop,1,76.0,590995.0
+hip hop,new orleans rap,1,76.0,590995.0
+hip hop,north carolina hip hop,1,76.0,590995.0
+new orleans rap,north carolina hip hop,1,76.0,590995.0
+canadian hip hop,north carolina hip hop,1,76.0,590995.0
+canadian trap,north carolina hip hop,1,76.0,590995.0
+north carolina hip hop,r&b,1,76.0,590995.0
+north carolina hip hop,toronto rap,1,76.0,590995.0
+deep underground hip hop,new orleans rap,1,76.0,590995.0
+deep underground hip hop,pop rap,1,76.0,590995.0
+kentucky hip hop,new orleans rap,1,76.0,590995.0
+kentucky hip hop,pop rap,1,76.0,590995.0
+new orleans rap,pop rap,1,76.0,590995.0
+pop rap,pop rap,1,76.0,590995.0
+canadian hip hop,deep underground hip hop,1,76.0,590995.0
+canadian trap,deep underground hip hop,1,76.0,590995.0
+deep underground hip hop,melodic rap,1,76.0,590995.0
+deep underground hip hop,r&b,1,76.0,590995.0
+deep underground hip hop,toronto rap,1,76.0,590995.0
+canadian hip hop,kentucky hip hop,1,76.0,590995.0
+canadian trap,kentucky hip hop,1,76.0,590995.0
+kentucky hip hop,melodic rap,1,76.0,590995.0
+kentucky hip hop,r&b,1,76.0,590995.0
+kentucky hip hop,toronto rap,1,76.0,590995.0
+canadian hip hop,new orleans rap,1,76.0,590995.0
+canadian trap,new orleans rap,1,76.0,590995.0
+melodic rap,new orleans rap,1,76.0,590995.0
+new orleans rap,r&b,1,76.0,590995.0
+new orleans rap,toronto rap,1,76.0,590995.0
+reggaeton colombiano,uk pop,1,75.0,275063.0
+dance pop,pop reggaeton,1,75.0,275063.0
+pop,pop reggaeton,1,75.0,275063.0
+pop reggaeton,uk pop,1,75.0,275063.0
+pop reggaeton,reggaeton colombiano,1,75.0,275063.0
+classic kollywood,filmi,1,59.0,21355.0
+alt z,edm,1,76.0,10774435.0
+edm,uk pop,1,76.0,10774435.0
+alt z,melodic dubstep,1,76.0,10774435.0
+canadian pop,melodic dubstep,1,76.0,10774435.0
+melodic dubstep,uk pop,1,76.0,10774435.0
+alt z,pop dance,1,76.0,10774435.0
+electropop,melodic dubstep,1,76.0,10774435.0
+melodic dubstep,pop,1,76.0,10774435.0
+alt z,electropop,1,76.0,10774435.0
+canadian pop,electropop,1,76.0,10774435.0
+indie rock,pop,1,61.0,40973.0
+pop,stomp and holler,1,61.0,40973.0
+pakistani hip hop,pakistani hip hop,1,72.0,11309032.0
+edm,russian dance,1,62.0,1945596.0
+electro house,russian dance,1,62.0,1945596.0
+pop dance,russian dance,1,62.0,1945596.0
+progressive electro house,russian dance,1,62.0,1945596.0
+canadian pop,conscious hip hop,1,74.0,7573100.0
+barbadian pop,r&b,1,13.0,153255.0
+r&b,urban contemporary,1,13.0,153255.0
+barbadian pop,rap,1,13.0,153255.0
+rap,urban contemporary,1,13.0,153255.0
+barbadian pop,toronto rap,1,13.0,153255.0
+pop,toronto rap,1,13.0,153255.0
+toronto rap,urban contemporary,1,13.0,153255.0
+barbadian pop,urban contemporary,1,13.0,153255.0
+pop,urban contemporary,1,13.0,153255.0
+urban contemporary,urban contemporary,1,13.0,153255.0
+canadian pop,electronic trap,1,86.0,11153861.0
+bhajan,desi hip hop,1,60.0,25611.0
+bhajan,desi pop,1,60.0,25611.0
+bhajan,desi trap,1,60.0,25611.0
+desi hip hop,ghazal,1,60.0,25611.0
+desi pop,ghazal,1,60.0,25611.0
+desi trap,ghazal,1,60.0,25611.0
+australian dance,k-pop,1,0.0,810819.0
+australian pop,k-pop,1,0.0,810819.0
+australian dance,k-pop boy group,1,0.0,810819.0
+australian pop,k-pop boy group,1,0.0,810819.0
+desi hip hop,viral rap,1,43.0,517961.0
+desi pop,viral rap,1,43.0,517961.0
+desi trap,viral rap,1,43.0,517961.0
+filmi,viral rap,1,43.0,517961.0
+modern bollywood,viral rap,1,43.0,517961.0
+alt z,bedroom pop,1,72.0,3503447.0
+alt z,indie poptimism,1,72.0,3503447.0
+alt z,pov: indie,1,72.0,3503447.0
+bedroom pop,nz pop,1,72.0,3503447.0
+indie poptimism,nz pop,1,72.0,3503447.0
+nz pop,pov: indie,1,72.0,3503447.0
+pop house,pop house,1,79.0,336071.0
+pop house,uk pop,1,79.0,336071.0
+alternative hip hop,rap,1,62.0,20530.0
+alternative hip hop,east coast hip hop,1,62.0,20530.0
+alternative hip hop,queens hip hop,1,62.0,20530.0
+east coast hip hop,east coast hip hop,1,62.0,20530.0
+east coast hip hop,queens hip hop,1,62.0,20530.0
+alternative hip hop,gangster rap,1,62.0,20530.0
+alternative hip hop,hardcore hip hop,1,62.0,20530.0
+queens hip hop,rap,1,62.0,20530.0
+gangster rap,queens hip hop,1,62.0,20530.0
+hardcore hip hop,queens hip hop,1,62.0,20530.0
+dance pop,viral pop,1,83.0,26691477.0
+dance pop,hip pop,1,65.0,553737.0
+dance pop,queens hip hop,1,65.0,553737.0
+hip pop,pop,1,65.0,553737.0
+pop,queens hip hop,1,65.0,553737.0
+detroit hip hop,pop,1,67.0,195506.0
+detroit hip hop,singer-songwriter pop,1,67.0,195506.0
+hip hop,singer-songwriter pop,1,67.0,195506.0
+rap,singer-songwriter pop,1,67.0,195506.0
+detroit hip hop,uk pop,1,67.0,195506.0
+desi hip hop,telugu hip hop,1,47.0,567206.0
+filmi,telugu hip hop,1,47.0,567206.0
+new beat,telugu hip hop,1,47.0,567206.0
+tamil pop,telugu hip hop,1,47.0,567206.0
+atl hip hop,r&b en espanol,1,67.0,440859.0
+atl trap,r&b en espanol,1,67.0,440859.0
+r&b en espanol,trap,1,67.0,440859.0
+indian edm,nyc pop,1,59.0,2215175.0
+nyc pop,traprun,1,59.0,2215175.0
+nyc pop,vapor twitch,1,59.0,2215175.0
+indian folk,nyc pop,1,59.0,2215175.0
+indian edm,indian folk,1,59.0,2215175.0
+indian folk,traprun,1,59.0,2215175.0
+indian folk,vapor twitch,1,59.0,2215175.0
+electropop,k-pop,1,5.0,13508479.0
+etherpop,k-pop,1,5.0,13508479.0
+indie poptimism,k-pop,1,5.0,13508479.0
+electropop,k-pop boy group,1,5.0,13508479.0
+etherpop,k-pop boy group,1,5.0,13508479.0
+indie poptimism,k-pop boy group,1,5.0,13508479.0
+ohio hip hop,viral rap,1,78.0,2320720.0
+pop rap,viral rap,1,78.0,2320720.0
+hip hop,slap house,1,78.0,2320720.0
+ohio hip hop,slap house,1,78.0,2320720.0
+pop rap,slap house,1,78.0,2320720.0
+slap house,viral rap,1,78.0,2320720.0
+desi pop,gujarati garba,1,0.0,19274.0
+filmi,gujarati garba,1,0.0,19274.0
+gujarati garba,modern bollywood,1,0.0,19274.0

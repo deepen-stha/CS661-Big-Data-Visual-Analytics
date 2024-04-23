@@ -1,0 +1,484 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+rap maroc,rap maroc,72,37.020833333333336,197688.27083333334
+french hip hop,pop urbaine,47,58.0,24795.81818181818
+arabic hip hop,rap maroc,34,34.80952380952381,215809.2857142857
+pop urbaine,r&b francais,32,60.8,47566.6
+french hip hop,r&b francais,27,60.8,47566.6
+pop urbaine,pop urbaine,26,58.0,27021.0
+pop urbaine,rap francais,24,55.142857142857146,9303.42857142857
+rap,trap,23,31.22222222222222,16106.888888888889
+french hip hop,rap francais,22,55.142857142857146,9303.42857142857
+french hip hop,french hip hop,21,56.9,26357.2
+pop urbaine,rap marseille,21,60.0,8939.0
+atl hip hop,rap,20,21.714285714285715,18026.14285714286
+atl hip hop,trap,19,14.666666666666666,19913.666666666668
+r&b francais,rap marseille,19,60.0,8939.0
+french hip hop,rap marseille,17,60.0,8939.0
+rap,rap,14,38.8,28367.1
+melodic rap,rap,14,14.666666666666666,19913.666666666668
+melodic rap,trap,14,14.666666666666666,19913.666666666668
+atl hip hop,melodic rap,13,14.666666666666666,19913.666666666668
+rap maroc,trap maroc,13,41.875,94612.875
+hip hop,rap,11,54.0,45167.5
+r&b francais,r&b francais,11,64.5,9060.5
+drill francais,french hip hop,10,56.75,7506.5
+drill francais,pop urbaine,10,56.75,7506.5
+drill francais,rap francais,10,56.75,7506.5
+trap,trap,10,14.666666666666666,19913.666666666668
+pop,rap,10,60.7,51792.8
+r&b francais,rap francais,10,55.0,16373.5
+atl hip hop,atl hip hop,9,17.6,23525.8
+gangster rap,rap,8,47.0,31446.4
+rap francais,rap francais,7,57.4,7793.0
+atl trap,rap,7,30.0,24381.6
+pop,pop,7,79.28571428571429,16634.571428571428
+hip hop,trap,7,43.4,26459.2
+rap francais,rap marseille,7,60.0,8939.0
+atl hip hop,atl trap,6,21.5,28801.75
+atl trap,trap,6,21.5,28801.75
+k-pop,pop,6,56.5,19294.75
+hip hop,pop,6,63.333333333333336,76382.16666666667
+arabic hip hop,rap belge,6,43.2,114281.6
+rap marseille,rap marseille,6,60.0,8939.0
+musique comorienne,pop urbaine,6,60.0,8939.0
+french hip hop,melodic drill,5,56.75,7506.5
+melodic drill,pop urbaine,5,56.75,7506.5
+melodic drill,rap francais,5,56.75,7506.5
+atl hip hop,gangster rap,5,28.666666666666668,37745.666666666664
+gangster rap,trap,5,28.666666666666668,37745.666666666664
+atl hip hop,hip hop,5,29.333333333333332,37839.0
+hip hop,melodic rap,5,29.333333333333332,37839.0
+gangster rap,hip hop,5,58.75,38772.5
+rap,southern hip hop,5,49.666666666666664,42517.666666666664
+moroccan pop,moroccan pop,5,51.2,177979.0
+rap belge,rap maroc,5,40.5,139160.5
+french hip hop,musique comorienne,5,60.0,8939.0
+musique comorienne,r&b francais,5,60.0,8939.0
+drill francais,drill francais,4,56.75,7506.5
+drill francais,melodic drill,4,56.75,7506.5
+atl trap,melodic rap,4,21.5,28801.75
+melodic rap,melodic rap,4,21.5,28772.5
+atl hip hop,southern hip hop,4,43.0,55547.5
+melodic rap,southern hip hop,4,43.0,55547.5
+southern hip hop,trap,4,43.0,55547.5
+canadian pop,rap,4,76.0,48338.5
+pop,trap,4,71.5,13056.0
+arabic hip hop,arabic hip hop,4,32.0,174505.0
+arabic hip hop,belgian hip hop,4,46.5,137761.75
+arabic hip hop,french hip hop,4,41.75,180463.5
+arabic hip hop,pop urbaine,4,41.75,180463.5
+moroccan pop,rap maroc,4,46.0,226217.0
+drill francais,trap italiana,4,72.0,20961.0
+french hip hop,trap italiana,4,72.0,20961.0
+pop urbaine,trap italiana,4,72.0,20961.0
+rap francais,trap italiana,4,72.0,20961.0
+musique comorienne,rap marseille,4,60.0,8939.0
+drill francais,rap lyonnais,3,56.0,8410.0
+french hip hop,rap lyonnais,3,56.0,8410.0
+melodic drill,rap lyonnais,3,56.0,8410.0
+pop urbaine,rap lyonnais,3,56.0,8410.0
+rap francais,rap lyonnais,3,56.0,8410.0
+gangster rap,melodic rap,3,28.666666666666668,37745.666666666664
+k-pop boy group,pop,3,75.33333333333333,21515.0
+k-pop,permanent wave,3,73.0,28642.5
+canadian pop,hip hop,3,75.0,61873.666666666664
+canadian contemporary r&b,rap,3,72.33333333333333,26620.333333333332
+arab pop,moroccan pop,3,53.0,215203.66666666666
+arabic hip hop,trap maroc,3,46.0,116153.0
+pop urbaine,rap conscient,3,58.666666666666664,4692.333333333333
+belgian hip hop,rap maroc,3,44.0,178760.33333333334
+french hip hop,rap maroc,3,39.0,232682.0
+pop urbaine,rap maroc,3,39.0,232682.0
+rap maroc,rap tunisien,3,29.0,147006.0
+french hip hop,rap conscient,3,53.5,2447.5
+hip hop,hip hop,3,78.66666666666667,52496.0
+edm,pop,3,62.0,166937.66666666666
+pop,pop dance,3,62.0,166937.66666666666
+moroccan pop,rif,3,53.0,122025.5
+k-pop boy group,permanent wave,2,73.0,28642.5
+permanent wave,pop,2,73.0,28642.5
+atl trap,hip hop,2,43.0,55547.5
+atl trap,southern hip hop,2,43.0,55547.5
+gangster rap,southern hip hop,2,43.0,55547.5
+k-pop,k-pop,2,31.0,8393.5
+k-pop,k-pop boy group,2,31.0,8393.5
+trap maroc,trap maroc,2,31.5,38944.0
+hip hop,modern rock,2,45.0,187292.0
+modern rock,rap,2,45.0,187292.0
+modern rock,underground hip hop,2,45.0,187292.0
+pop,underground hip hop,2,45.0,187292.0
+hip hop,rock,2,45.0,187292.0
+rap,rock,2,45.0,187292.0
+rock,underground hip hop,2,45.0,187292.0
+modern rock,speedrun,2,45.0,187292.0
+modern rock,video game music,2,45.0,187292.0
+pop,speedrun,2,45.0,187292.0
+pop,video game music,2,45.0,187292.0
+rock,speedrun,2,45.0,187292.0
+rock,video game music,2,45.0,187292.0
+hip hop,speedrun,2,45.0,187292.0
+hip hop,video game music,2,45.0,187292.0
+rap,speedrun,2,45.0,187292.0
+rap,video game music,2,45.0,187292.0
+speedrun,underground hip hop,2,45.0,187292.0
+underground hip hop,video game music,2,45.0,187292.0
+north moroccan rap,rap maroc,2,7.5,44328.0
+r&b francais,rap maroc,2,46.0,192652.0
+pop,rock,2,83.5,95918.0
+canadian contemporary r&b,hip hop,2,69.0,36064.0
+arab pop,rif,2,54.5,204673.0
+belgian hip hop,pop urbaine,2,59.0,5766.5
+pop urbaine,rap belge,2,59.0,5766.5
+dance pop,pop,2,83.0,18124.0
+french hip hop,trap antillais,2,59.0,4796.0
+pop urbaine,trap antillais,2,59.0,4796.0
+rap francais,trap antillais,2,59.0,4796.0
+k-rap,k-rap,2,63.0,2149.5
+melodic rap,pop,2,39.5,10183.5
+canadian contemporary r&b,pop,2,81.5,7824.5
+canadian pop,pop,2,81.5,7824.5
+arabic hip hop,r&b francais,2,43.5,102035.0
+arabic hip hop,rap conscient,2,37.5,195972.0
+rap conscient,rap maroc,2,37.5,195972.0
+hip hop,pop rap,2,74.5,21997.5
+pop rap,rap,2,74.5,21997.5
+g funk,gangster rap,2,86.0,27537.0
+g funk,hip hop,2,86.0,27537.0
+g funk,rap,2,86.0,27537.0
+g funk,west coast rap,2,86.0,27537.0
+gangster rap,west coast rap,2,86.0,27537.0
+hip hop,west coast rap,2,86.0,27537.0
+rap,west coast rap,2,86.0,27537.0
+rap lyonnais,trap italiana,2,72.0,20961.0
+drill francais,indonesian blues,2,72.0,20961.0
+french hip hop,indonesian blues,2,72.0,20961.0
+indonesian blues,pop urbaine,2,72.0,20961.0
+indonesian blues,rap francais,2,72.0,20961.0
+drill francais,drill italiana,2,72.0,20961.0
+drill francais,italian hip hop,2,72.0,20961.0
+drill italiana,french hip hop,2,72.0,20961.0
+french hip hop,italian hip hop,2,72.0,20961.0
+drill italiana,pop urbaine,2,72.0,20961.0
+italian hip hop,pop urbaine,2,72.0,20961.0
+drill italiana,rap francais,2,72.0,20961.0
+italian hip hop,rap francais,2,72.0,20961.0
+melodic drill,trap italiana,2,72.0,20961.0
+indonesian blues,trap italiana,2,72.0,20961.0
+dance pop,rap,2,85.0,20913.5
+rai,rap algerien,2,2.0,244283.0
+chicago rap,pop,2,33.0,7477.5
+chicago rap,trap,2,64.5,9389.5
+colombian pop,ghanaian alternative,2,80.0,94059.0
+rap algerien,rap algerien,2,49.0,92825.5
+french hip hop,rap algerien,2,50.0,23808.0
+pop urbaine,rap algerien,2,50.0,23808.0
+arabic hip hop,dutch hip hop,2,41.5,35139.0
+dutch hip hop,rap maroc,2,41.5,35139.0
+arabic hip hop,rap francais,2,40.0,258892.0
+rap francais,rap maroc,2,40.0,258892.0
+chicago rap,k-pop,2,0.0,12634.0
+k-pop,melodic rap,2,0.0,12634.0
+k-pop,rap,2,0.0,12634.0
+musique comorienne,rap francais,2,60.0,8939.0
+arabic hip hop,trap italiana,1,53.0,118477.0
+rap maroc,trap italiana,1,53.0,118477.0
+canadian contemporary r&b,electro,1,94.0,3879.0
+canadian pop,electro,1,94.0,3879.0
+electro,pop,1,94.0,3879.0
+canadian contemporary r&b,filter house,1,94.0,3879.0
+canadian pop,filter house,1,94.0,3879.0
+filter house,pop,1,94.0,3879.0
+canadian contemporary r&b,rock,1,94.0,3879.0
+canadian pop,rock,1,94.0,3879.0
+canadian contemporary r&b,new orleans rap,1,70.0,33942.0
+canadian pop,new orleans rap,1,70.0,33942.0
+new orleans rap,pop,1,70.0,33942.0
+canadian contemporary r&b,pop rap,1,70.0,33942.0
+canadian pop,pop rap,1,70.0,33942.0
+pop,pop rap,1,70.0,33942.0
+canadian contemporary r&b,trap,1,70.0,33942.0
+canadian pop,trap,1,70.0,33942.0
+dance pop,glam rock,1,73.0,187957.0
+dance pop,mellow gold,1,73.0,187957.0
+dance pop,piano rock,1,73.0,187957.0
+dance pop,rock,1,73.0,187957.0
+glam rock,pop,1,73.0,187957.0
+mellow gold,pop,1,73.0,187957.0
+piano rock,pop,1,73.0,187957.0
+glam rock,uk pop,1,73.0,187957.0
+mellow gold,uk pop,1,73.0,187957.0
+piano rock,uk pop,1,73.0,187957.0
+rock,uk pop,1,73.0,187957.0
+alternative dance,dance pop,1,73.0,187957.0
+aussietronica,dance pop,1,73.0,187957.0
+australian dance,dance pop,1,73.0,187957.0
+australian electropop,dance pop,1,73.0,187957.0
+alternative dance,pop,1,73.0,187957.0
+aussietronica,pop,1,73.0,187957.0
+australian dance,pop,1,73.0,187957.0
+australian electropop,pop,1,73.0,187957.0
+alternative dance,uk pop,1,73.0,187957.0
+aussietronica,uk pop,1,73.0,187957.0
+australian dance,uk pop,1,73.0,187957.0
+australian electropop,uk pop,1,73.0,187957.0
+alternative dance,glam rock,1,73.0,187957.0
+aussietronica,glam rock,1,73.0,187957.0
+australian dance,glam rock,1,73.0,187957.0
+australian electropop,glam rock,1,73.0,187957.0
+alternative dance,mellow gold,1,73.0,187957.0
+aussietronica,mellow gold,1,73.0,187957.0
+australian dance,mellow gold,1,73.0,187957.0
+australian electropop,mellow gold,1,73.0,187957.0
+alternative dance,piano rock,1,73.0,187957.0
+aussietronica,piano rock,1,73.0,187957.0
+australian dance,piano rock,1,73.0,187957.0
+australian electropop,piano rock,1,73.0,187957.0
+alternative dance,rock,1,73.0,187957.0
+aussietronica,rock,1,73.0,187957.0
+australian dance,rock,1,73.0,187957.0
+australian electropop,rock,1,73.0,187957.0
+atl hip hop,hip pop,1,64.0,6701.0
+atl hip hop,pop,1,64.0,6701.0
+atl hip hop,queens hip hop,1,64.0,6701.0
+atl trap,hip pop,1,64.0,6701.0
+atl trap,pop,1,64.0,6701.0
+atl trap,queens hip hop,1,64.0,6701.0
+hip pop,rap,1,64.0,6701.0
+queens hip hop,rap,1,64.0,6701.0
+hip pop,trap,1,64.0,6701.0
+queens hip hop,trap,1,64.0,6701.0
+egyptian pop,moroccan pop,1,50.0,174420.0
+egyptian pop,rif,1,50.0,174420.0
+khaliji,moroccan pop,1,50.0,174420.0
+khaliji,rif,1,50.0,174420.0
+k-rap,viral pop,1,69.0,2032.0
+basshall,belgian hip hop,1,69.0,9182.0
+basshall,french hip hop,1,69.0,9182.0
+basshall,pop urbaine,1,69.0,9182.0
+basshall,r&b francais,1,69.0,9182.0
+basshall,rap belge,1,69.0,9182.0
+basshall,rap conscient,1,69.0,9182.0
+belgian hip hop,r&b francais,1,69.0,9182.0
+r&b francais,rap belge,1,69.0,9182.0
+r&b francais,rap conscient,1,69.0,9182.0
+dance pop,singer-songwriter pop,1,82.0,3681.0
+dance pop,uk pop,1,82.0,3681.0
+pop,singer-songwriter pop,1,82.0,3681.0
+pop,uk pop,1,82.0,3681.0
+drill francais,trap antillais,1,59.0,4796.0
+melodic drill,trap antillais,1,59.0,4796.0
+north moroccan rap,thai viral pop,1,38.0,38597.0
+canadian contemporary r&b,dfw rap,1,79.0,7733.0
+canadian pop,dfw rap,1,79.0,7733.0
+dfw rap,pop,1,79.0,7733.0
+canadian contemporary r&b,melodic rap,1,79.0,7733.0
+canadian pop,melodic rap,1,79.0,7733.0
+afro r&b,arabic hip hop,1,69.0,841786.0
+afro r&b,rap maroc,1,69.0,841786.0
+afrobeats,arabic hip hop,1,69.0,841786.0
+afrobeats,rap maroc,1,69.0,841786.0
+atl hip hop,florida drill,1,0.0,1853.0
+atl hip hop,florida rap,1,0.0,1853.0
+atl hip hop,miami hip hop,1,0.0,1853.0
+atl hip hop,trap latino,1,0.0,1853.0
+florida drill,melodic rap,1,0.0,1853.0
+florida rap,melodic rap,1,0.0,1853.0
+melodic rap,miami hip hop,1,0.0,1853.0
+melodic rap,trap latino,1,0.0,1853.0
+florida drill,rap,1,0.0,1853.0
+florida rap,rap,1,0.0,1853.0
+miami hip hop,rap,1,0.0,1853.0
+rap,trap latino,1,0.0,1853.0
+florida drill,trap,1,0.0,1853.0
+florida rap,trap,1,0.0,1853.0
+miami hip hop,trap,1,0.0,1853.0
+trap,trap latino,1,0.0,1853.0
+arabic hip hop,rif,1,16.0,8974.0
+arabic hip hop,tunisian pop,1,16.0,8974.0
+rap maroc,rif,1,16.0,8974.0
+rap maroc,tunisian pop,1,16.0,8974.0
+arab pop,musica santomense,1,58.0,417692.0
+moroccan pop,musica santomense,1,58.0,417692.0
+musica santomense,rif,1,58.0,417692.0
+musica santomense,shaabi,1,58.0,417692.0
+arab pop,portuguese pop,1,58.0,417692.0
+moroccan pop,portuguese pop,1,58.0,417692.0
+portuguese pop,rif,1,58.0,417692.0
+portuguese pop,shaabi,1,58.0,417692.0
+k-pop,latin pop,1,70.0,11747.0
+k-rap,latin pop,1,70.0,11747.0
+k-pop,latin viral pop,1,70.0,11747.0
+k-rap,latin viral pop,1,70.0,11747.0
+k-pop,rap latina,1,70.0,11747.0
+k-rap,rap latina,1,70.0,11747.0
+k-pop,reggaeton,1,70.0,11747.0
+k-rap,reggaeton,1,70.0,11747.0
+k-pop,urbano latino,1,70.0,11747.0
+k-rap,urbano latino,1,70.0,11747.0
+arabic hip hop,moroccan pop,1,44.0,137820.0
+belgian hip hop,french hip hop,1,49.0,2351.0
+belgian hip hop,rap conscient,1,49.0,2351.0
+cloud rap francais,french hip hop,1,49.0,2351.0
+cloud rap francais,pop urbaine,1,49.0,2351.0
+cloud rap francais,rap conscient,1,49.0,2351.0
+french hip hop,rap belge,1,49.0,2351.0
+rap belge,rap conscient,1,49.0,2351.0
+rap conscient,rap francais,1,49.0,2351.0
+albanian hip hop,albanian pop,1,76.0,100682.0
+albanian pop,german hip hop,1,76.0,100682.0
+albanian hip hop,tallava,1,76.0,100682.0
+german hip hop,tallava,1,76.0,100682.0
+albanian pop,swedish hip hop,1,76.0,100682.0
+albanian pop,swedish trap pop,1,76.0,100682.0
+swedish hip hop,tallava,1,76.0,100682.0
+swedish trap pop,tallava,1,76.0,100682.0
+albanian hip hop,swedish hip hop,1,76.0,100682.0
+albanian hip hop,swedish trap pop,1,76.0,100682.0
+german hip hop,swedish hip hop,1,76.0,100682.0
+german hip hop,swedish trap pop,1,76.0,100682.0
+k-indie,k-rap,1,65.0,3536.0
+k-rap,korean electropop,1,65.0,3536.0
+g funk,g funk,1,86.0,27537.0
+g funk,pop rap,1,86.0,27537.0
+gangster rap,gangster rap,1,86.0,27537.0
+gangster rap,pop rap,1,86.0,27537.0
+pop rap,west coast rap,1,86.0,27537.0
+west coast rap,west coast rap,1,86.0,27537.0
+electropop,k-pop,1,80.0,7260.0
+etherpop,k-pop,1,80.0,7260.0
+indie poptimism,k-pop,1,80.0,7260.0
+electropop,k-pop boy group,1,80.0,7260.0
+etherpop,k-pop boy group,1,80.0,7260.0
+indie poptimism,k-pop boy group,1,80.0,7260.0
+electropop,pop,1,80.0,7260.0
+etherpop,pop,1,80.0,7260.0
+indie poptimism,pop,1,80.0,7260.0
+indonesian blues,rap lyonnais,1,72.0,20961.0
+drill italiana,rap lyonnais,1,72.0,20961.0
+italian hip hop,rap lyonnais,1,72.0,20961.0
+drill italiana,trap italiana,1,72.0,20961.0
+italian hip hop,trap italiana,1,72.0,20961.0
+trap italiana,trap italiana,1,72.0,20961.0
+indonesian blues,melodic drill,1,72.0,20961.0
+drill italiana,melodic drill,1,72.0,20961.0
+italian hip hop,melodic drill,1,72.0,20961.0
+drill italiana,indonesian blues,1,72.0,20961.0
+indonesian blues,italian hip hop,1,72.0,20961.0
+dance pop,r&b,1,84.0,32567.0
+pop,r&b,1,84.0,32567.0
+afrobeats,canadian pop,1,66.0,5845.0
+canadian pop,nigerian pop,1,66.0,5845.0
+afrobeats,pop,1,66.0,5845.0
+nigerian pop,pop,1,66.0,5845.0
+rai,rai,1,2.0,244283.0
+brooklyn drill,neo soul,1,66.0,2321.0
+neo soul,new york drill,1,66.0,2321.0
+neo soul,trap,1,66.0,2321.0
+brooklyn drill,pop,1,66.0,2321.0
+new york drill,pop,1,66.0,2321.0
+brooklyn drill,r&b,1,66.0,2321.0
+new york drill,r&b,1,66.0,2321.0
+r&b,trap,1,66.0,2321.0
+chicago rap,neo soul,1,66.0,2321.0
+hip hop,neo soul,1,66.0,2321.0
+neo soul,rap,1,66.0,2321.0
+chicago rap,r&b,1,66.0,2321.0
+hip hop,r&b,1,66.0,2321.0
+r&b,rap,1,66.0,2321.0
+brooklyn drill,chicago rap,1,66.0,2321.0
+brooklyn drill,hip hop,1,66.0,2321.0
+brooklyn drill,rap,1,66.0,2321.0
+chicago rap,new york drill,1,66.0,2321.0
+hip hop,new york drill,1,66.0,2321.0
+new york drill,rap,1,66.0,2321.0
+atl hip hop,pop dance,1,84.0,168369.0
+girl group,pop dance,1,84.0,168369.0
+hip pop,pop dance,1,84.0,168369.0
+pop dance,r&b,1,84.0,168369.0
+pop dance,southern hip hop,1,84.0,168369.0
+pop dance,urban contemporary,1,84.0,168369.0
+atl hip hop,tech house,1,84.0,168369.0
+girl group,tech house,1,84.0,168369.0
+hip pop,tech house,1,84.0,168369.0
+r&b,tech house,1,84.0,168369.0
+southern hip hop,tech house,1,84.0,168369.0
+tech house,urban contemporary,1,84.0,168369.0
+belgian edm,pop,1,88.0,174720.0
+pop,tropical house,1,88.0,174720.0
+afro r&b,colombian pop,1,80.0,94059.0
+afrobeats,colombian pop,1,80.0,94059.0
+alternative r&b,colombian pop,1,80.0,94059.0
+colombian pop,ghanaian pop,1,80.0,94059.0
+afro r&b,ghanaian alternative,1,80.0,94059.0
+afrobeats,ghanaian alternative,1,80.0,94059.0
+alternative r&b,ghanaian alternative,1,80.0,94059.0
+ghanaian alternative,ghanaian alternative,1,80.0,94059.0
+ghanaian alternative,ghanaian pop,1,80.0,94059.0
+k-rap,korean ost,1,62.0,1954.0
+k-rap,korean pop,1,62.0,1954.0
+arabic hip hop,rap algerien,1,50.0,23808.0
+r&b francais,rap algerien,1,50.0,23808.0
+rap algerien,rap francais,1,50.0,23808.0
+arabic hip hop,cloud rap francais,1,42.0,306102.0
+cloud rap francais,rap maroc,1,42.0,306102.0
+arabic hip hop,world,1,47.0,108254.0
+rap maroc,world,1,47.0,108254.0
+chicago rap,k-pop boy group,1,0.0,12634.0
+k-pop boy group,melodic rap,1,0.0,12634.0
+k-pop boy group,rap,1,0.0,12634.0
+canadian contemporary r&b,edm,1,14.0,177838.0
+canadian pop,edm,1,14.0,177838.0
+canadian contemporary r&b,pop dance,1,14.0,177838.0
+canadian pop,pop dance,1,14.0,177838.0
+canadian contemporary r&b,progressive electro house,1,14.0,177838.0
+canadian pop,progressive electro house,1,14.0,177838.0
+pop,progressive electro house,1,14.0,177838.0
+canadian hip hop,hip hop,1,87.0,113493.0
+canadian hip hop,rap,1,87.0,113493.0
+canadian hip hop,slap house,1,87.0,113493.0
+canadian pop,slap house,1,87.0,113493.0
+hip hop,slap house,1,87.0,113493.0
+rap,slap house,1,87.0,113493.0
+hip hop,toronto rap,1,87.0,113493.0
+rap,toronto rap,1,87.0,113493.0
+slap house,toronto rap,1,87.0,113493.0
+chicago rap,gangster rap,1,63.0,16458.0
+chicago rap,hip hop,1,63.0,16458.0
+chicago rap,pop rap,1,63.0,16458.0
+chicago rap,rap,1,63.0,16458.0
+chicago rap,southern hip hop,1,63.0,16458.0
+hip hop,southern hip hop,1,63.0,16458.0
+deep underground hip hop,lgbtq+ hip hop,1,81.0,331211.0
+kentucky hip hop,lgbtq+ hip hop,1,81.0,331211.0
+lgbtq+ hip hop,pop rap,1,81.0,331211.0
+lgbtq+ hip hop,rap,1,81.0,331211.0
+dance pop,hip hop,1,86.0,9260.0
+hip hop,uk pop,1,86.0,9260.0
+dance pop,north carolina hip hop,1,86.0,9260.0
+north carolina hip hop,pop,1,86.0,9260.0
+north carolina hip hop,uk pop,1,86.0,9260.0
+rap,uk pop,1,86.0,9260.0
+dance pop,trap,1,86.0,9260.0
+trap,uk pop,1,86.0,9260.0
+australian hip hop,canadian pop,1,35.0,268233.0
+australian hip hop,pop,1,35.0,268233.0
+gambian hip hop,singer-songwriter pop,1,75.0,117249.0
+belgian hip hop,dutch hip hop,1,53.0,49917.0
+dutch hip hop,rap belge,1,53.0,49917.0
+belgian hip hop,rap belge,1,53.0,49917.0
+rap belge,rap belge,1,53.0,49917.0
+french hip hop,old school rap francais,1,58.0,2544.0
+old school rap francais,pop urbaine,1,58.0,2544.0
+old school rap francais,rap conscient,1,58.0,2544.0
+rap conscient,rap conscient,1,58.0,2544.0
+k-pop,k-rap,1,63.0,2280.0
+k-rap,korean r&b,1,63.0,2280.0
+big room,pop,1,84.0,148255.0
+brostep,pop,1,84.0,148255.0
+dutch edm,pop,1,84.0,148255.0
+house,pop,1,84.0,148255.0
+pop,slap house,1,84.0,148255.0
+pop,trance,1,84.0,148255.0
+rif,rif,1,59.0,234926.0
+moroccan pop,shaabi,1,59.0,234926.0
+rif,shaabi,1,59.0,234926.0

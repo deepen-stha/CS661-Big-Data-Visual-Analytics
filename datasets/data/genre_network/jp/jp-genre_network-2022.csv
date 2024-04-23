@@ -1,0 +1,76 @@
+Source,Target,Weight,Avg_Popularity,Avg_Streams
+j-rap,j-rap,7,53.0,434084.3333333333
+j-rap,japanese trap,6,53.0,434084.3333333333
+j-rap,josei rap,4,55.5,567009.5
+anime rock,j-pop,4,73.5,8619494.5
+j-pop,j-pop,4,73.5,8619494.5
+pop,pop,4,79.75,1733470.25
+japanese teen pop,japanese teen pop,4,61.5,5692246.0
+japanese trap,josei rap,2,55.5,567009.5
+k-pop,pop,2,82.0,3277419.5
+k-pop boy group,pop,2,82.0,3277419.5
+pop,singer-songwriter pop,2,77.5,189521.0
+pop,uk pop,2,77.5,189521.0
+bemani,j-pop,2,51.5,1740687.0
+anime,j-pop,2,71.0,8724726.0
+j-pixie,j-pop,2,71.0,8724726.0
+j-pop,japanese teen pop,2,71.0,8724726.0
+j-pop,j-poprock,2,71.0,8724726.0
+anime rock,anime rock,1,76.0,8514263.0
+anime rock,japanese singer-songwriter,1,76.0,8514263.0
+j-pop,japanese singer-songwriter,1,76.0,8514263.0
+anime rock,j-rock,1,76.0,8514263.0
+j-pop,j-rock,1,76.0,8514263.0
+j-rock,japanese singer-songwriter,1,76.0,8514263.0
+k-pop,permanent wave,1,84.0,3864689.0
+k-pop boy group,permanent wave,1,84.0,3864689.0
+permanent wave,pop,1,84.0,3864689.0
+dance pop,pop,1,82.0,194370.0
+dance pop,singer-songwriter pop,1,82.0,194370.0
+dance pop,uk pop,1,82.0,194370.0
+japanese trap,japanese trap,1,48.0,168234.0
+japanese teen pop,japanese viral pop,1,58.0,2343785.0
+electropop,k-pop,1,80.0,2690150.0
+etherpop,k-pop,1,80.0,2690150.0
+indie poptimism,k-pop,1,80.0,2690150.0
+electropop,k-pop boy group,1,80.0,2690150.0
+etherpop,k-pop boy group,1,80.0,2690150.0
+indie poptimism,k-pop boy group,1,80.0,2690150.0
+electropop,pop,1,80.0,2690150.0
+etherpop,pop,1,80.0,2690150.0
+indie poptimism,pop,1,80.0,2690150.0
+vocaloid,vocaloid,1,66.0,2317566.0
+anime,japanese teen pop,1,71.0,8724726.0
+anime rock,japanese teen pop,1,71.0,8724726.0
+j-pixie,japanese teen pop,1,71.0,8724726.0
+j-poprock,japanese teen pop,1,71.0,8724726.0
+anime,japanese electropop,1,63.0,1535274.0
+anime,brostep,1,46.0,299131.0
+anime,complextro,1,46.0,299131.0
+anime,edm,1,46.0,299131.0
+anime,electro,1,46.0,299131.0
+anime,pop dance,1,46.0,299131.0
+brostep,classic j-pop,1,46.0,299131.0
+classic j-pop,complextro,1,46.0,299131.0
+classic j-pop,edm,1,46.0,299131.0
+classic j-pop,electro,1,46.0,299131.0
+classic j-pop,pop dance,1,46.0,299131.0
+brostep,j-pop,1,46.0,299131.0
+complextro,j-pop,1,46.0,299131.0
+edm,j-pop,1,46.0,299131.0
+electro,j-pop,1,46.0,299131.0
+j-pop,pop dance,1,46.0,299131.0
+brostep,japanese singer-songwriter,1,46.0,299131.0
+complextro,japanese singer-songwriter,1,46.0,299131.0
+edm,japanese singer-songwriter,1,46.0,299131.0
+electro,japanese singer-songwriter,1,46.0,299131.0
+japanese singer-songwriter,pop dance,1,46.0,299131.0
+deep underground hip hop,lgbtq+ hip hop,1,81.0,2351457.0
+kentucky hip hop,lgbtq+ hip hop,1,81.0,2351457.0
+lgbtq+ hip hop,pop rap,1,81.0,2351457.0
+lgbtq+ hip hop,rap,1,81.0,2351457.0
+alt z,edm,1,65.0,963471.0
+alt z,pop dance,1,65.0,963471.0
+australian hip hop,canadian pop,1,35.0,9626014.0
+australian hip hop,pop,1,35.0,9626014.0
+bemani,japanese singer-songwriter,1,45.0,477130.0
