@@ -2,7 +2,7 @@
 Project for Big Data Visual Analytics
 
 # Installig dependencies
-Run the command `pip install -r requirements.txt`
+Run the `setup.bat` file or run the command `pip install -r requirements.txt` 
 
 # Run code
-Run the `bat` file or run the command `streamlit run main.py`
+Run the `run.bat` file or run the command `streamlit run main.py`
