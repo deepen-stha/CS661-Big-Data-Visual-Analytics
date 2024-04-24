@@ -131,7 +131,8 @@ layer = pdk.Layer(
 view_state = pdk.ViewState(
     latitude=0,
     longitude=0,
-    zoom=0.5
+    zoom=1.0,
+    pitch=45,
 )
 
 tooltip = {
