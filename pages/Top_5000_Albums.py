@@ -84,8 +84,8 @@ if selected_genres:
                      ,hover_data={'Genre': False, 'avg_rat': True, 'album': True})
         #Update the layout to set the background color to a dark gradient
         fig.update_layout(
-            plot_bgcolor='rgb(31, 31, 31)',  # Dark gray background
-            paper_bgcolor='rgb(31, 31, 31)',  # Dark gray background
+            height=600,
+            width=900,
             font_color='white'  # White font color
         )
         st.plotly_chart(fig)
@@ -101,8 +101,8 @@ if selected_genres:
         fig_preference = px.scatter(filtered_data, x='num_rat', y='avg_rat', color='Genre', title='Genre Preference: Number of Ratings vs. Average Ratings',
                                     hover_data={'Genre': True, 'num_rat': True, 'avg_rat': True, 'album': True, 'rel_date':True})
         fig_preference.update_layout(
-            plot_bgcolor='rgb(31, 31, 31)',  # Dark gray background
-            paper_bgcolor='rgb(31, 31, 31)',  # Dark gray background
+            height=600,
+            width=900,
             font_color='white'  # White font color
         )
         st.plotly_chart(fig_preference)
@@ -180,8 +180,8 @@ if selected_genres:
                                                 if t.name == sentiment else (),)
 
         fig_genre_sentiment.update_layout(
-            plot_bgcolor='rgb(31, 31, 31)',  # Dark gray background
-            paper_bgcolor='rgb(31, 31, 31)',  # Dark gray background
+            height=600,
+            width=900,
             font_color='white'  # White font color
         )
         st.plotly_chart(fig_genre_sentiment)
@@ -219,8 +219,8 @@ else:
                  hover_data={'Genre': False, 'avg_rat': True, 'album': True})
         # Update the layout to set the background color to a dark gradient
         fig.update_layout(
-            plot_bgcolor='rgb(31, 31, 31)',  # Dark gray background
-            paper_bgcolor='rgb(31, 31, 31)',  # Dark gray background
+           height=600,
+            width=900,
             font_color='white'  # White font color
         )
         st.plotly_chart(fig)
@@ -237,8 +237,8 @@ else:
         fig_preference = px.scatter(top_data, x='num_rat', y='avg_rat', color='Genre', title='Genre Preference: Number of Ratings vs. Average Ratings',
                                     hover_data={'Genre': True, 'num_rat': True, 'avg_rat': True, 'album': True,'rel_date':True})
         fig_preference.update_layout(
-            plot_bgcolor='rgb(31, 31, 31)',  # Dark gray background
-            paper_bgcolor='rgb(31, 31, 31)',  # Dark gray background
+            height=600,
+            width=900,
             font_color='white'  # White font color
         )
         st.plotly_chart(fig_preference)
@@ -267,8 +267,8 @@ else:
                                                         top_genres_reviews['num_revs'] / top_genres_reviews['num_revs'].sum() * 100)]
         fig_top_genres_reviews_donut.update_traces(hoverinfo='text+percent', text=hover_text)
         fig_top_genres_reviews_donut.update_layout(
-            plot_bgcolor='rgb(31, 31, 31)',  # Dark gray background
-            paper_bgcolor='rgb(31, 31, 31)',  # Dark gray background
+            height=600,
+            width=900,
             font_color='white'  # White font color
         )
         st.plotly_chart(fig_top_genres_reviews_donut)
@@ -301,8 +301,8 @@ else:
                                                 if t.name == sentiment else (),)
 
         fig_genre_sentiment.update_layout(
-            plot_bgcolor='rgb(31, 31, 31)',  # Dark gray background
-            paper_bgcolor='rgb(31, 31, 31)',  # Dark gray background
+            height=600,
+            width=900,
             font_color='white'  # White font color
         )
 
