@@ -11,3 +11,4 @@ INTERNATIONAL_POPULARITY_DATA = (
 GENRE_FUSION_DATA = './datasets/data/genre_network'
 REGIONWISE_EXPLICITNESS_DATA = './datasets/data/regionwise_explicitness'
 YEARWISE_EXPLICITNESS_DATA = './datasets/data/yearwise_explicitness'
+REGIONWISE_CORRELATION_DATA = './datasets/data/regional/'
