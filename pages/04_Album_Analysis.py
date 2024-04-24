@@ -255,7 +255,7 @@ else:
         # Plot the top 5 genres by number of reviews as a donut chart with actual numbers
         # Plot the top 5 genres by number of reviews as a donut chart with actual numbers
         fig_top_genres_reviews_donut = px.pie(top_genres_reviews, values='num_revs', names='Genre',
-                                            title='Top 5 Genres by Number of Reviews',
+                                            title='Top Genres by Number of Reviews',
                                             hole=0.3,  # Set the size of the hole in the center
                                             labels={'num_revs': 'Number of Reviews'},
                                             hover_data=['num_revs'],  # Display actual numbers in hover
@@ -321,4 +321,4 @@ else:
 
         
     else:
-        st.write('No data available for the top 5 genres.')
+        st.write('No data available for the top genres.')

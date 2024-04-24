@@ -25,7 +25,7 @@ top_songs = yearly_data.groupby(['name', 'artists']).agg({
     'streams': 'sum'
 }).nlargest(100, 'streams').reset_index()
 
-st.write(f"Top 100 Songs in {year_choice}", top_songs)
+# st.write(f"Top 100 Songs in {year_choice}", top_songs)
 
 # Visualization: Top songs by streams
 fig = px.bar(top_songs, x='name', y='streams', hover_data=['artists'],
@@ -38,9 +38,9 @@ fig2 = px.bar(artist_streams, x='artists', y='streams', title='Distribution of S
 st.plotly_chart(fig2)
 
 # Visualization: Explicit vs Non-explicit Tracks
-explicit_count = yearly_data.groupby('explicit').agg({'streams': 'sum'}).reset_index()
-fig3 = px.pie(explicit_count, values='streams', names='explicit', title='Explicit vs Non-explicit Tracks')
-st.plotly_chart(fig3)
+# explicit_count = yearly_data.groupby('explicit').agg({'streams': 'sum'}).reset_index()
+# fig3 = px.pie(explicit_count, values='streams', names='explicit', title='Explicit vs Non-explicit Tracks')
+# st.plotly_chart(fig3)
 
 # Visualization: Average Song Duration per Year
 avg_duration = data.groupby(data['date'].dt.year).agg({'duration': 'mean'}).reset_index()

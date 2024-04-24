@@ -30,8 +30,8 @@ genre_choice = st.sidebar.selectbox('Choose a Genre:', genre_list)
 filtered_data = data[data['track_genre'] == genre_choice]
 
 # Display the filtered data
-st.write(f"All time Top-5000  Songs in Genre: {genre_choice}")
-st.dataframe(filtered_data[['track_name', 'artists', 'popularity']])
+# st.write(f"All time Top-5000  Songs in Genre: {genre_choice}")
+# st.dataframe(filtered_data[['track_name', 'artists', 'popularity']])
 
 # Visualization of popularity vs danceability
 fig = px.scatter(filtered_data, x='popularity', y='danceability', color='energy',
