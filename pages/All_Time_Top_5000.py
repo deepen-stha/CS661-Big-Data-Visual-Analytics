@@ -1,12 +1,13 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from datasets import names
 
 # Load the preprocessed data
 @st.cache_data
 def load_data():
     # Load the dataset
-    data = pd.read_csv('D:/Big Data Visualization/Project/file 2/dataset.csv')
+    data = pd.read_csv(names.SPOTIFY_DATA)
     
     # Removing duplicates: assuming a combination of 'track_name' and 'artists' makes a song unique
     data = data.drop_duplicates(subset=['track_name', 'artists'])
