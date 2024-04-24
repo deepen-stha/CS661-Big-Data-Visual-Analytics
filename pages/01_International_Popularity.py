@@ -140,7 +140,7 @@ fig2.add_trace(go.Sunburst(
 
 # Update layout for the second plot
 fig2.update_layout(
-    title=f'Bottom {m} Genres',
+    title=f'Bot {m} Genres',
     title_x = 0.42,
     width=600, height=600
 )
