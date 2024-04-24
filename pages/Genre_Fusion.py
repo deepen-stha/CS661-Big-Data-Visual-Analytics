@@ -84,7 +84,7 @@ country_codes = {
     'za': 'South Africa'
 }
 
-st.title('Fusion Genre Visualization')
+st.title('Genre Fusion')
 
 selected_country_code = st.selectbox('Select a country', list(country_codes.keys()), format_func=lambda x: country_codes[x])
 
