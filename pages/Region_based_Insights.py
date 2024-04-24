@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import pandas as pd
 import pydeck as pdk
-
+import altair as alt 
 import plotly.graph_objects as go
 from time import sleep
 
@@ -437,7 +437,7 @@ def get_top_k_explicit_percentage(k):
 
 
 # Streamlit app
-st.markdown("# Region Wise ")
+st.markdown("# Country Wise percentage of explicitness in popular songs  ")
 
 # Slider for selecting top k percent
 k_percent = st.slider('Select top k percent of songs', 0, 100, 100)
@@ -449,26 +449,19 @@ df_top_k['Country_Name'] = df_top_k['Country'].apply(get_country_name)
 
 
 def map_explicit_percentage_to_color(explicit_percentage):
-    if explicit_percentage < 20:
-        return [194, 230, 153, 255]  # Light green for low explicit percentage
-    elif explicit_percentage < 40:
-        return [
-            120,
-            198,
-            121,
-            255,
-        ]  # Medium green for medium-low explicit percentage
-    elif explicit_percentage < 60:
-        return [
-            49,
-            163,
-            84,
-            255,
-        ]  # Dark green for medium-high explicit percentage
-    elif explicit_percentage < 80:
-        return [0, 109, 44, 255]  # Olive green for high explicit percentage
-    else:
-        return [0, 0, 0, 255]  # Black for very high explicit percentage
+    # Define the lightest and darkest green colors
+    lightest_green = [194, 230, 153, 255]  # Light green
+    darkest_green = [0, 109, 44, 255]      # Dark green
+    
+    # Interpolate between the lightest and darkest green based on explicit percentage
+    alpha = explicit_percentage / 100
+    color = [
+        int(lightest_green[i] * (1 - alpha) + darkest_green[i] * alpha)
+        for i in range(3)
+    ]
+    color.append(255)  # Set alpha channel to 255
+    
+    return color
 
 
 # Apply the function to create a new column for marker color
@@ -501,13 +494,44 @@ tooltip = {
         'color': 'white',
     },
 }
-r = pdk.Deck(
+st.pydeck_chart(pdk.Deck(
     map_style='mapbox://styles/mapbox/dark-v9',
     layers=[layer],
     initial_view_state=view_state,
     tooltip=tooltip,
-)
-st.pydeck_chart(r)
+))
+def generate_legend():
+    # Define the colors
+    min_green = (194, 230, 153)  # Light green
+    max_green = (0, 109, 44)     # Dark green
+    
+    # Generate HTML for continuous legend
+    legend_html = "<div style='display: flex; flex-direction: row; width: 100%;'>"
+    for i in range(6):  # Generate 6 color shades
+        alpha = i / 5  # Vary alpha from 0 to 1 in steps of 0.2
+        r = int(min_green[0] * (1 - alpha) + max_green[0] * alpha)
+        g = int(min_green[1] * (1 - alpha) + max_green[1] * alpha)
+        b = int(min_green[2] * (1 - alpha) + max_green[2] * alpha)
+        color_str = f"rgba({r}, {g}, {b}, 1)"
+        legend_html += f"<div style='background-color: {color_str}; flex-grow: 1; height: 30px;'></div>"
+    legend_html += "</div>"
+    
+    return legend_html
+
+# Generate legend HTML
+legend_html = generate_legend()
+
+# Define the global average
+global_avg = "42.11%"
+
+# Create HTML string for the legend with the global average
+legend_with_global = f"<div style='display: flex; flex-direction: column; align-items: center; justify-content: center; height: 10vh;'>{legend_html}<div style='margin-top: 20px; margin-bottom: 50px; font-size: 30px; color: rgba(150, 150, 150, 1); padding: 10px;'><span style='background-color: rgba(194, 230, 153, 1); '></span><span style='background-color: rgba(194, 230, 153, 1); '></span></div></div>"
+
+# Render the legend with the global average using markdown
+st.markdown(legend_with_global, unsafe_allow_html=True)
+
+
+
 
 
 # Function to load country data
@@ -525,7 +549,6 @@ def load_country_data(country_codes):
     return pd.concat(data)
 
 
-st.write("### Explicit Percentage by Year")
 
 # Default selection
 default_selection = ["India", "United States"]
@@ -534,7 +557,7 @@ default_selection = ["India", "United States"]
 default_selection_codes = [rev_dic[country] for country in default_selection]
 
 # Select multiple countries with default value
-selected_countries = st.multiselect(
+selected_countries = st.sidebar.multiselect(
     "Select countries", list(distt.values()), default=default_selection
 )
 
@@ -543,31 +566,44 @@ selected_country_codes = [rev_dic[country] for country in selected_countries]
 
 # Load data for selected countries
 country_data = load_country_data(selected_country_codes)
+global_reference_data = pd.DataFrame({
+    'Year': [2017, 2018, 2019, 2020, 2021, 2022],
+    'Explicit Percentage': [.3792, 0.4686, 0.4428, 0.4401, 0.3820, 0.3544]
+})
 
 col1, col2 = st.columns(2)
 
 with col2:
-    # If data is available
     if not country_data.empty:
-        st.text("")
-        st.text("")
-        st.markdown("**Explicit Percentage Over the Years**")
-        st.text("")
-        st.text("")
-        st.text("")
-        # Pivot the DataFrame to have years as index and countries as columns
-        pivoted_data = country_data.pivot(
-            index='Year', columns='Country', values='Explicit Percentage'
+        st.write("### Explicit Percentage Over the Years")
+        # Ensure 'Year' column is numeric
+        country_data['Year'] = pd.to_numeric(country_data['Year'])
+        # Scale 'Explicit Percentage' data to range between 0 and 1
+        country_data['Explicit Percentage'] /= 100
+        
+        # Create Altair chart for country data
+        country_chart = alt.Chart(country_data).mark_line().encode(
+            x='Year:O',  # O for ordinal scale for categorical data (years)
+            y=alt.Y('Explicit Percentage:Q', axis=alt.Axis(format='0.0%')),  # Format y-axis labels as percentages
+            color='Country:N'  # N for nominal scale for categorical data (country)
         )
-        pivoted_data.index = [
-            "2017",
-            "2018",
-            "2019",
-            "2020",
-            "2021",
-            "2022",
-        ]  # Replace with your desired labels
-        st.line_chart(pivoted_data)
+        
+        # Create Altair chart for global reference line
+        global_ref_line = alt.Chart(global_reference_data).mark_line(color='red', strokeDash=[3,3]).encode(
+            x='Year:O',  # O for ordinal scale for categorical data (years)
+            y=alt.Y('Explicit Percentage:Q', axis=alt.Axis(format='0.0%')),  # Format y-axis labels as percentages
+        )
+        
+        # Overlay country chart and global reference line
+        chart = (country_chart + global_ref_line).properties(
+            width=600,  # Adjust chart width as needed
+            height=400  # Adjust chart height as needed
+        ).configure_axis(
+            labelAngle=0  # Rotate X-axis labels horizontally
+        )
+
+        # Show combined chart using Streamlit
+        st.altair_chart(chart, use_container_width=True)
     else:
         st.write("No data available for the selected countries.")
 
