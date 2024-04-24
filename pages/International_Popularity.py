@@ -70,7 +70,7 @@ fig.add_trace(go.Sunburst(
     values=values1,
     maxdepth=2,
     branchvalues='total',
-    insidetextorientation='radial',
+    insidetextorientation='auto',
     marker = dict(colorscale = 'twilight')#Blackbody,Bluered,Blues,Cividis,Earth,Electric,Greens,Greys,Hot,Jet,Picnic,Portland,Rainbow,RdBu,Reds,Viridis,YlGnBu,YlOrRd
     # marker=dict(
     #     # colors=top_artists['streams'],
@@ -129,7 +129,7 @@ fig2.add_trace(go.Sunburst(
     values=values2,
     maxdepth=2,
     branchvalues='total',
-    insidetextorientation='radial',
+    insidetextorientation='auto',
     marker = dict(colorscale = 'reds')
     # marker=dict(
     #     # colors=top_artists['streams'],
