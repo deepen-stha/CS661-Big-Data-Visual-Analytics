@@ -6,7 +6,7 @@ from datasets import names
 
 @st.cache_data
 def load_data():
-    return pd.read_csv(names.TASK5_DATA)
+    return pd.read_csv(names.INTERNATIONAL_POPULARITY_DATA)
 
 # Load data
 data = load_data()
