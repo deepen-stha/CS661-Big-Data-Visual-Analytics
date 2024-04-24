@@ -8,6 +8,9 @@ from time import sleep
 
 from datasets import names
 
+st.set_page_config(
+    layout='wide',
+)
 
 @st.cache_data
 def load_data():
@@ -450,8 +453,8 @@ df_top_k['Country_Name'] = df_top_k['Country'].apply(get_country_name)
 
 def map_explicit_percentage_to_color(explicit_percentage):
     # Define the lightest and darkest green colors
-    lightest_green = [194, 230, 153, 255]  # Light green
-    darkest_green = [0, 109, 44, 255]      # Dark green
+    lightest_green = [244, 255, 255, 100]  # Light green
+    darkest_green = [0, 100, 0, 255]      # Dark green
     
     # Interpolate between the lightest and darkest green based on explicit percentage
     alpha = explicit_percentage / 100
@@ -502,8 +505,8 @@ st.pydeck_chart(pdk.Deck(
 ))
 def generate_legend():
     # Define the colors
-    min_green = (194, 230, 153)  # Light green
-    max_green = (0, 109, 44)     # Dark green
+    min_green = (244, 255, 255)  # Light green
+    max_green = (0, 100, 0)     # Dark green
     
     # Generate HTML for continuous legend
     legend_html = "<div style='display: flex; flex-direction: row; width: 100%;'>"
@@ -557,7 +560,7 @@ default_selection = ["India", "United States"]
 default_selection_codes = [rev_dic[country] for country in default_selection]
 
 # Select multiple countries with default value
-selected_countries = st.sidebar.multiselect(
+selected_countries = st.multiselect(
     "Select countries", list(distt.values()), default=default_selection
 )
 
@@ -575,7 +578,12 @@ col1, col2 = st.columns(2)
 
 with col2:
     if not country_data.empty:
-        st.write("### Explicit Percentage Over the Years")
+        st.write("")
+        st.write("")
+        st.write("**Explicit Percentage Over the Years**")
+        st.write("")
+        st.write("")
+        st.write("")
         # Ensure 'Year' column is numeric
         country_data['Year'] = pd.to_numeric(country_data['Year'])
         # Scale 'Explicit Percentage' data to range between 0 and 1
@@ -591,7 +599,7 @@ with col2:
         # Create Altair chart for global reference line
         global_ref_line = alt.Chart(global_reference_data).mark_line(color='red', strokeDash=[3,3]).encode(
             x='Year:O',  # O for ordinal scale for categorical data (years)
-            y=alt.Y('Explicit Percentage:Q', axis=alt.Axis(format='0.0%')),  # Format y-axis labels as percentages
+            y=alt.Y('Explicit Percentage:Q', axis=alt.Axis(format='0.0%',title=None)),  # Format y-axis labels as percentages
         )
         
         # Overlay country chart and global reference line
