@@ -9,3 +9,5 @@ INTERNATIONAL_POPULARITY_DATA = (
     './datasets/data/international_popularity_data.csv'
 )
 GENRE_FUSION_DATA = './datasets/data/genre_network'
+REGIONWISE_EXPLICITNESS_DATA = './datasets/data/regionwise_explicitness'
+YEARWISE_EXPLICITNESS_DATA = './datasets/data/yearwise_explicitness'

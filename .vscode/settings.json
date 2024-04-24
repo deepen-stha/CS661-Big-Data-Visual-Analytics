@@ -1,12 +1,7 @@
 {
     "cSpell.words": [
-        "ACOUSTICNESS",
-        "danceability",
-        "INSTRUMENTALNESS",
-        "selectbox",
-        "SPEECHINESS",
-        "streamlit",
         "acousticness",
+        "ACOUSTICNESS",
         "coloraxes",
         "colorbar",
         "danceability",
@@ -15,14 +10,18 @@
         "imshow",
         "Indraneel",
         "instrumentalness",
+        "INSTRUMENTALNESS",
         "nbins",
         "piechart",
         "Rajeevan",
+        "REGIONWISE",
         "selectbox",
         "speechiness",
+        "SPEECHINESS",
         "streamlit",
         "xaxes",
-        "yaxes"
+        "yaxes",
+        "YEARWISE"
     ],
     "black-formatter.args": [
         "--skip-string-normalization",

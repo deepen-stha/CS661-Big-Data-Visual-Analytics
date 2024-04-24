@@ -1,0 +1,193 @@
+import streamlit as st
+import os
+import pandas as pd
+import pydeck as pdk
+
+from datasets import names
+
+# Function to calculate explicit percentage for each country
+def calculate_explicit_percentage(country_file):
+    # Read the file
+    df = pd.read_csv(country_file)
+    # Calculate total number of songs
+    total_songs = len(df)
+    # Calculate total number of explicit songs
+    explicit_songs = df['explicit'].sum()
+    # Calculate explicit content percentage
+    explicit_percentage = (explicit_songs / total_songs) * 100
+    return explicit_percentage
+
+listt = ['ae', 'ar', 'at', 'au', 'be', 'bg', 'bo', 'br', 'ca', 'ch', 'cl', 'co', 'cr', 'cz', 'de', 'dk', 'do', 'ec', 'ee', 'eg', 'es', 'fi', 'fr', 'gb', 'gr', 'gt', 'hk', 'hn', 'hu', 'id', 'ie', 'il', 'in', 'is', 'it', 'jp', 'kr', 'lt', 'lu', 'lv', 'ma', 'mx', 'my', 'ni', 'nl', 'no', 'nz', 'pa', 'pe', 'ph', 'pl', 'pt', 'py', 'ro', 'ru', 'sa', 'se', 'sg', 'sk', 'sv', 'th', 'tr', 'tw', 'ua', 'us', 'vn', 'za']
+distt={'ae': 'United Arab Emirates', 'ar': 'Argentina', 'at': 'Austria', 'au': 'Australia', 'be': 'Belgium', 'bg': 'Bulgaria', 'bo': 'Bolivia, Plurinational State of', 'br': 'Brazil', 'ca': 'Canada', 'ch': 'Switzerland', 'cl': 'Chile', 'co': 'Colombia', 'cr': 'Costa Rica', 'cz': 'Czechia', 'de': 'Germany', 'dk': 'Denmark', 'do': 'Dominican Republic', 'ec': 'Ecuador', 'ee': 'Estonia', 'eg': 'Egypt', 'es': 'Spain', 'fi': 'Finland', 'fr': 'France', 'gb': 'United Kingdom', 'gr': 'Greece', 'gt': 'Guatemala', 'hk': 'Hong Kong', 'hn': 'Honduras', 'hu': 'Hungary', 'id': 'Indonesia', 'ie': 'Ireland', 'il': 'Israel', 'in': 'India', 'is': 'Iceland', 'it': 'Italy', 'jp': 'Japan', 'kr': 'Korea, Republic of', 'lt': 'Lithuania', 'lu': 'Luxembourg', 'lv': 'Latvia', 'ma': 'Morocco', 'mx': 'Mexico', 'my': 'Malaysia', 'ni': 'Nicaragua', 'nl': 'Netherlands', 'no': 'Norway', 'nz': 'New Zealand', 'pa': 'Panama', 'pe': 'Peru', 'ph': 'Philippines', 'pl': 'Poland', 'pt': 'Portugal', 'py': 'Paraguay', 'ro': 'Romania', 'ru': 'Russian Federation', 'sa': 'Saudi Arabia', 'se': 'Sweden', 'sg': 'Singapore', 'sk': 'Slovakia', 'sv': 'El Salvador', 'th': 'Thailand', 'tr': 'Türkiye', 'tw': 'Taiwan, Province of China', 'ua': 'Ukraine', 'us': 'United States', 'vn': 'Viet Nam', 'za': 'South Africa'}
+rev_dic={'United Arab Emirates': 'ae', 'Argentina': 'ar', 'Austria': 'at', 'Australia': 'au', 'Belgium': 'be', 'Bulgaria': 'bg', 'Bolivia, Plurinational State of': 'bo', 'Brazil': 'br', 'Canada': 'ca', 'Switzerland': 'ch', 'Chile': 'cl', 'Colombia': 'co', 'Costa Rica': 'cr', 'Czechia': 'cz', 'Germany': 'de', 'Denmark': 'dk', 'Dominican Republic': 'do', 'Ecuador': 'ec', 'Estonia': 'ee', 'Egypt': 'eg', 'Spain': 'es', 'Finland': 'fi', 'France': 'fr', 'United Kingdom': 'gb', 'Greece': 'gr', 'Guatemala': 'gt', 'Hong Kong': 'hk', 'Honduras': 'hn', 'Hungary': 'hu', 'Indonesia': 'id', 'Ireland': 'ie', 'Israel': 'il', 'India': 'in', 'Iceland': 'is', 'Italy': 'it', 'Japan': 'jp', 'Korea, Republic of': 'kr', 'Lithuania': 'lt', 'Luxembourg': 'lu', 'Latvia': 'lv', 'Morocco': 'ma', 'Mexico': 'mx', 'Malaysia': 'my', 'Nicaragua': 'ni', 'Netherlands': 'nl', 'Norway': 'no', 'New Zealand': 'nz', 'Panama': 'pa', 'Peru': 'pe', 'Philippines': 'ph', 'Poland': 'pl', 'Portugal': 'pt', 'Paraguay': 'py', 'Romania': 'ro', 'Russian Federation': 'ru', 'Saudi Arabia': 'sa', 'Sweden': 'se', 'Singapore': 'sg', 'Slovakia': 'sk', 'El Salvador': 'sv', 'Thailand': 'th', 'Türkiye': 'tr', 'Taiwan, Province of China': 'tw', 'Ukraine': 'ua', 'United States': 'us', 'Viet Nam': 'vn', 'South Africa': 'za'}
+# Read latitude and longitude data
+additional_data = {
+    "latitude": [
+        23.4241, -38.4161, 47.5162, -25.2744, 50.8503, 42.7339, -16.2902, -14.235, 56.1304, 46.8182, 
+        -35.6751, 4.5709, 9.7489, 49.8175, 51.1657, 56.2639, 18.7357, -1.8312, 58.5953, 26.8206, 
+        40.4637, 61.9241, 46.6034, 55.3781, 39.0742, 15.7835, 22.3193, 15.2, 47.1625, -0.7893, 
+        53.1424, 31.0461, 20.5937, 64.9631, 41.8719, 36.2048, 35.9078, 55.1694, 49.8153, 56.8796, 
+        31.7917, 23.6345, 4.2105, 12.8654, 52.1326, 60.472, -40.9006, 8.538, -9.1907, 12.8797, 
+        51.9194, 39.3999, -23.4425, 45.9432, 61.524, 23.8859, 60.1282, 1.3521, 48.669, 13.7942, 
+        15.87, 38.9637, 23.6978, 48.3794, 37.0902, 14.0583, -30.5595
+    ],
+    "longitude": [
+        53.8478, -63.6167, 14.5501, 133.7751, 4.3517, 25.4858, -63.5887, -51.9253, -106.3468, 8.2275, 
+        -71.543, -74.2973, -83.7534, 15.473, 10.4515, 9.5018, -70.1627, -78.1834, 25.0136, 30.8025, 
+        -3.7492, 25.7482, 1.8883, -3.436, 21.8243, -90.2308, 114.1694, -86.2419, 19.5033, 113.9213, 
+        -7.6921, 34.8516, 78.9629, -19.0208, 12.5674, 138.2529, 127.7669, 23.8813, 6.1296, 24.6032, 
+        -7.0926, -102.5528, 101.9758, -85.2072, 5.2913, 8.4689, 174.886, -80.7821, -75.0152, 121.774, 
+        19.1451, -8.2245, -58.4438, 24.9668, 105.3188, 45.0792, 18.6435, 103.8198, 19.699, -88.8965, 
+        100.9925, 35.2433, 120.9605, 31.1656, -95.7129, 108.2772, 22.9375
+    ]
+}
+
+# Create DataFrame for latitude and longitude
+df_ll = pd.DataFrame(additional_data, index=listt)
+df_ll.index.name = 'Country'
+
+# Folder containing aggregated files
+output_directory = f'{names.REGIONWISE_EXPLICITNESS_DATA}/'
+
+def get_country_name(country_code):
+    return distt.get(country_code, 'Unknown')
+
+
+def gexpl(country_file, k):
+    # Read the file
+    df = pd.read_csv(country_file)
+    # Calculate number of songs for top k percentage
+    top_k_songs = int(len(df) * (k / 100))
+    # Filter top k percentage of songs
+    top_k_df = df.tail(top_k_songs)
+    # Calculate total number of explicit songs in top k percentage
+    explicit_songs_top_k = top_k_df['explicit'].sum()
+    # Calculate explicit content percentage for top k percentage of songs
+    explicit_percentage_top_k = round((explicit_songs_top_k / top_k_songs) * 100, 2)
+
+    return explicit_percentage_top_k
+
+# Function to get top k percent of songs' explicit percentage
+def get_top_k_explicit_percentage(k):
+    explicit_percentages = {}
+    for filename in os.listdir(output_directory):
+        if filename.endswith('.csv'):
+            country_file = os.path.join(output_directory, filename)
+            country_name = filename.split('_')[0]
+            explicit_percentage = gexpl(country_file,k)
+            explicit_percentages[country_name] = explicit_percentage
+
+    # Convert explicit percentages to DataFrame
+    df_explicit_percentages = pd.DataFrame(explicit_percentages.items(), columns=['Country', 'Explicit Percentage'])
+
+    # Merge with latitude and longitude data
+    df_combined = pd.merge(df_explicit_percentages, df_ll, on='Country')
+
+    # Sort by explicit percentage
+    df_combined.sort_values(by='Explicit Percentage', ascending=False, inplace=True)
+
+    # Get top k percent
+    top_k_percent = int(len(df_combined) * (k / 100))
+
+    return df_combined.head(top_k_percent)
+
+# Streamlit app
+st.markdown("# Region Wise ")
+
+# Slider for selecting top k percent
+k_percent = st.slider('Select top k percent of songs', 0, 100, 100)
+
+# Get top k percent of songs' explicit percentage
+df_top_k = get_top_k_explicit_percentage(k_percent)
+
+df_top_k['Country_Name'] = df_top_k['Country'].apply(get_country_name)
+
+def map_explicit_percentage_to_color(explicit_percentage):
+    if explicit_percentage < 20:
+        return [194, 230, 153, 255]  # Light green for low explicit percentage
+    elif explicit_percentage < 40:
+        return [120, 198, 121, 255]  # Medium green for medium-low explicit percentage
+    elif explicit_percentage < 60:
+        return [49, 163, 84, 255]    # Dark green for medium-high explicit percentage
+    elif explicit_percentage < 80:
+        return [0, 109, 44, 255]     # Olive green for high explicit percentage
+    else:
+        return [0, 0, 0, 255]        # Black for very high explicit percentage
+
+# Apply the function to create a new column for marker color
+df_top_k['fill_color'] = df_top_k['Explicit Percentage'].apply(map_explicit_percentage_to_color)
+
+
+# Create Pydeck map
+layer = pdk.Layer(
+    "ScatterplotLayer",
+    data=df_top_k,
+    get_position=['longitude', 'latitude'],
+    get_radius=100000,
+    get_fill_color='fill_color',  # Red color for markers
+    pickable=True
+)
+
+view_state = pdk.ViewState(
+    latitude=0,
+    longitude=0,
+    zoom=0.5
+)
+
+tooltip = {
+    'html': '<b>{Country_Name}</b><br />Explicit Percentage: {Explicit Percentage}',
+    'style': {
+        'backgroundColor': 'rgba(100, 100, 100, 0.9)',  # Lighter shade of gray with some transparency
+        'color': 'white'
+    }
+    
+}
+r = pdk.Deck(
+    map_style='mapbox://styles/mapbox/dark-v9',
+    layers=[layer],
+    initial_view_state=view_state,
+    tooltip=tooltip,
+    
+)
+st.pydeck_chart(r)
+
+
+
+# Function to load country data
+def load_country_data(country_codes):
+    data = []
+    for country_code in country_codes:
+        file_path = f"{names.YEARWISE_EXPLICITNESS_DATA}/{country_code}_aggregated.csv"
+        if os.path.exists(file_path):
+            country_data = pd.read_csv(file_path)
+            # Add country code as a column for later use
+            country_data['Country'] = country_code
+            data.append(country_data)
+    return pd.concat(data)
+
+st.write("### Explicit Percentage by Year")
+
+# Default selection
+default_selection = ["India", "United States"]
+
+# Convert default selection to country codes
+default_selection_codes = [rev_dic[country] for country in default_selection]
+
+# Select multiple countries with default value
+selected_countries = st.multiselect("Select countries", list(distt.values()), default=default_selection)
+
+# Convert selected country names to country codes
+selected_country_codes = [rev_dic[country] for country in selected_countries]
+
+# Load data for selected countries
+country_data = load_country_data(selected_country_codes)
+
+# If data is available
+if not country_data.empty:
+    st.write("### Explicit Percentage Over the Years")
+    # Pivot the DataFrame to have years as index and countries as columns
+    pivoted_data = country_data.pivot(index='Year', columns='Country', values='Explicit Percentage')
+    pivoted_data.index = ["2017", "2018",  "2019", "2020", "2021","2022"]  # Replace with your desired labels
+    st.line_chart(pivoted_data)
+else:
+    st.write("No data available for the selected countries.")
