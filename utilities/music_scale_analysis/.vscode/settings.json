@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "acousticness",
+        "coloraxes",
+        "colorbar",
+        "danceability",
+        "dtick",
+        "iloc",
+        "imshow",
+        "Indraneel",
+        "instrumentalness",
+        "nbins",
+        "piechart",
+        "Rajeevan",
+        "selectbox",
+        "speechiness",
+        "streamlit",
+        "xaxes",
+        "yaxes"
+    ],
+    "black-formatter.args": [
+        "--skip-string-normalization",
+        "--line-length", 
+        "80"
+    ]
+}

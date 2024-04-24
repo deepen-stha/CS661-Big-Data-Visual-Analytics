@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/geomack/spotifyclassification/data
+https://rpubs.com/Rafal_Misiorski/Spotify_song_attributes_clustering_analysis
+https://developer.spotify.com/documentation/web-api
+https://vitapiano.com/the-complete-guide-to-piano-scales/
