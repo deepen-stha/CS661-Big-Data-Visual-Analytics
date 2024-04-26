@@ -2,6 +2,10 @@
 
 In the dynamic realm of music, knowing what resonates with audiences is crucial. Our data-driven exploration helps us uncover trends and insights driving musical achievements. With innovative analytics and visualization, we navigate through genre preferences, artist popularity, musical scales, and emerging trends.
 
+<br>
+
+![t0](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/fc05fb63-82a4-46a1-a53d-455d38d7db45)
+
 ## Contributors
 
 1. **Akash Shivaji Varude**<br>
@@ -35,6 +39,10 @@ For a given region, the plots show:
 
 <br>
 
+![t1](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/4a0565b6-e002-4f37-99fd-4e99490c25c2)
+
+<br>
+
 ---
 
 # Region-based Insights
@@ -53,6 +61,10 @@ The second map shows the trend for “explicitness” for time being:
 
 <br>
 
+![t2](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/b106a4c4-bc4e-4b3c-b71f-80aa89ba7d41)
+
+<br>
+
 ---
 
 # Genre Fusion
@@ -65,15 +77,23 @@ The bubble plot captures the following insights:
 
 <br>
 
+![t3](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/9ad935e7-11af-480b-9515-150272987b71)
+
+<br>
+
 ---
 
-# Genre-wise analysis of Top 5000 albums
+# Album Analysis
 
 - Average ratings
 - Number of ratings
 - Sentiment analysis
 - Word cloud
 - Custom functionalities
+
+<br>
+
+![t4](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/887ef550-5c30-4fb8-ae29-824c7c3aa372)
 
 <br>
 
@@ -89,6 +109,10 @@ The bubble plot captures the following insights:
 
 <br>
 
+![t5 1](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/c77cfacf-e6e4-43b6-a794-da79e9825324)
+
+<br>
+
 ---
 
 # All time Top-5000 Songs by Genre
@@ -101,6 +125,10 @@ The bubble plot captures the following insights:
 
 <br>
 
+![t5 2](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/bfd6aef0-52ed-4143-beb9-10d7bedde1a5)
+
+<br>
+
 ---
 
 # Songs' Properties Inter-relation (Mix & Master)
@@ -108,6 +136,10 @@ The bubble plot captures the following insights:
 - Select a specific country and year
 - Apply filters (Stream and Popularity)
 - Additional insights via Wiscus Plot
+
+<br>
+
+![t6](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/ec92b59e-483c-4dff-adce-62ca5a4acc1b)
 
 <br>
 
@@ -122,6 +154,10 @@ The bubble plot captures the following insights:
 
 <br>
 
+![t7](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/7b063798-6f3e-4f64-b8c7-618aa22a3615)
+
+<br>
+
 ---
 
 # KNN Music Recommendation
@@ -130,6 +166,10 @@ The bubble plot captures the following insights:
 - Minimum recommendation user can select is 2 and maximum it can go to 6. Default value will be 5.
 - The final predicted value is then plotted using matrix of scatter plot and histogram (pairplot or scatterplot matrix).
 - Support for dynamic SQL querying
+
+<br>
+
+![t8](https://github.com/deepen-stha/CS661-Big-Data-Visual-Analytics/assets/105813454/d7f434a8-f689-4591-8f9f-f39bb9b92253)
 
 <br>
 
